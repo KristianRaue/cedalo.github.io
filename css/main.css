@@ -152,6 +152,9 @@ background-color: #313454; }
     .navigation a:hover, .navigation a.active {
       color: #fff; }
 
+      .navigation h3 {
+        color: #ffffff; }
+
 .nav-toggle {
   display: none;
   height: 44px;
