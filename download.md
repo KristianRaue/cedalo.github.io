@@ -3,23 +3,11 @@ layout: default
 title: Cedalo - Download
 ---
 
-<section id="banner" class="banner" role="banner">
-    {% include _nav.html %}
-        
-    <!-- nav include needed here because nav is always in first container :-(  -->
-    <div class="container-fluid">
-        <div class="row flex-start" class="align-items: flex-start;">
-            <div class="col-md-12">
-                <div class="banner-spacer">
-                    <p>&nbsp;</p>
-                </div><!-- banner text -->
-            </div>
-        </div>
-    </div>
-</section><!-- banner -->
-
 
 <section id="download" class="section download">
+    <!-- nav include needed here because nav is always in first container :-(  --> 
+    {% include _nav.html %}      
+    <!-- nav include needed here because nav is always in first container :-(  -->
     <div class="container">
         <h1 class="section-header">Quick overview: An impressive feature set</h1>
         <div class="col-md-8 col-md-offset-2 text-center">
