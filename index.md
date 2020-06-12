@@ -3,22 +3,8 @@ layout: default
 ---
 
 <section id="banner" class="banner" role="banner">
-        <header id="header"> 
-            <div class="header-content clearfix">
-                <a class="logo" href="#"><img src="images/logo.png" alt=""></a>
-                <nav class="navigation" role="navigation">
-                    <ul class="primary-nav">
-                        <li><a href="#banner">Home</a></li>
-                        <li><a href="#products">Products</a></li>
-                        <li><a href="#features">Features</a></li>
-                        <li><a href="#usecases">Use Cases</a></li>
-                        <li><a href="#download">Get Started</a></li>
-                        <li><a href="#blog">Blog</a></li>
-                    </ul>
-                </nav>
-                <a href="#" class="nav-toggle">Menu<span></span></a>
-            </div><!-- header content -->
-        </header><!-- header -->
+    {% include _nav.html %}
+        
     <!-- section must be in {{content}} -->
     <!-- part of the banner section is in default template -->
     <div class="container-fluid">
