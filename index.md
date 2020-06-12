@@ -5,8 +5,7 @@ layout: default
 <section id="banner" class="banner" role="banner">
     {% include _nav.html %}
         
-    <!-- section must be in {{content}} -->
-    <!-- part of the banner section is in default template -->
+    <!-- sectiinclude needed here because nav is always in first container :-(  -->
     <div class="container-fluid">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-md-12">
