@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Cedalo - Download
 ---
 
 <section id="banner" class="banner" role="banner">

@@ -249,7 +249,7 @@ layout: default
             <p>Fusce dapibus, tellus ac cursus commodo</p>
             <p>Fusce dapibus, tellus ac cursus commodo</p>
             <p>Fusce dapibus, tellus ac cursus commodo</p>
-            <a href="https://github.com/kamalcha/ActiveBox/archive/master.zip" class="btn btn-large">Download for Free</a>
+            <a href="download" class="btn btn-large">Download for Free</a>
         </div>
     </div>
 </section><!-- download -->
