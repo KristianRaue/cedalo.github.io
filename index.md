@@ -4,7 +4,6 @@ layout: default
 
 <section id="banner" class="banner" role="banner">
     {% include _nav.html %}
-        
     <!-- sectiinclude needed here because nav is always in first container :-(  -->
     <div class="container-fluid">
         <div class="row flex-start" class="align-items: flex-start;">
@@ -19,11 +18,9 @@ layout: default
                     <p>Cedalo is the commercial sponsor of  two Open-Source projects:</p>
                     <p><b> Eclipse Streamsheets</b> - Anybody who knows how to use a spreadsheet can quickly build server-based, real-time applications, for any purpose. No programming required.</p>
                     <p><b>Eclipse Mosquitto</b> -  Devices and apps communicate in real-time, based the most popular broker technology in the world.</p>
-                
                         <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
                         <a href="#products" class="btn btn-large">Cedalo Cloud</a>
-                        <a href="#download" class="btn btn-large">Download</a>
-                        
+                        <a href="#download" class="btn btn-large">Download</a>  
                 </div><!-- banner text -->
             </div>
             <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-3 col-xs-offset-1">
@@ -49,10 +46,8 @@ layout: default
                     </ul>
                     <p>Our no-code user interface is the all-familiar spreadsheet. The no-code parts include functions, just like a spreadsheet, and wizards to connect to data.</p>
                     <br />
-                    
                         <a href="#banner" class="btn btn-large">Watch Video</a>
                         <a href="#blog" class="btn btn-large">Learn More</a>
-        
                 </div>
                 <div class="products-box">
                     <h2>Eclipse Mosquitto</h2>
@@ -64,10 +59,8 @@ layout: default
                     </ul>
                     <p>Our no-code user interface is the all-familiar spreadsheet. The no-code parts include functions, just like a spreadsheet, and wizards to connect to data.</p>
                     <br />
-                
                         <a href="#banner" class="btn btn-large">Watch Video</a>
                         <a href="#blog" class="btn btn-large">Learn More</a>
-                
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
