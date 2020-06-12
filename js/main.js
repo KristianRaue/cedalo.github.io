@@ -59,7 +59,7 @@ $(document).ready(function() {
 	// Toogle
 	var sections = $('section')
 		nav = $('nav[role="navigation"]');
-
+	
 	// Mobile Navigation
 	$('.nav-toggle').on('click', function() {
 		$(this).toggleClass('close-nav');
