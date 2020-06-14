@@ -534,9 +534,12 @@ background-color: #313454; }
 .person {
   max-width: 270px; }
 
-.person-intro p {
+.person-intro {
   margin-bottom: 30px;
   margin-top: 10px;
+  }
+
+.person-intro p {
   padding-left: 0px;
   padding-right: 0px;
   font-weight: 300;
