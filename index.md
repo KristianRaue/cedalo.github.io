@@ -69,7 +69,7 @@ layout: default
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
                 <div class="products-chart" >
-                    <img  src="images/overview.png" style="max-width:900px;width:100%;height:auto;padding-top:20px;">
+                    <img  src="images/overview.png" style="max-width:800px;width:100%;height:auto;padding-top:0px;">
                 </div>
             </div>
         </div>
