@@ -241,7 +241,7 @@ layout: default
                     <p>In addition to sponsoring the two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" Cedalo also offers premium editions of both products, called "Cedalo Sheets" and "Cedalo Broker".</p>
                 </div>
             </div>
-            <div class="col-md-4 col-md-offset-1 col-sm-6 feature text-center" >
+            <div class="col-md-3 col-md-offset-1 col-sm-6 feature text-center" >
                 <span class="icon icon icon-cloud"></span>
                 <div class="feature-content">
                     <h2>Managed Service</h2>
@@ -249,14 +249,14 @@ layout: default
                     <a href="#cloud" class="btn">Cedalo Cloud</a>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 feature text-center">
+            <div class="col-md-3 col-sm-6 feature text-center">
                 <span class="icon icon-desktop"></span>
                 <div class="feature-content">
                     <h2>On-Premises</h2>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
-            <div class="col-md-4  col-sm-6 feature text-center">
+            <div class="col-md-3 col-sm-6 feature text-center">
                 <span class="icon icon-gears"></span>
                 <div class="feature-content">
                     <h2>Edge Device</h2>
