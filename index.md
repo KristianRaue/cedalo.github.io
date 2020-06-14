@@ -232,10 +232,8 @@ layout: default
     </div>
 </section><!-- usecase -->
 
-
-
 <section id="download" class="section download">
-    <h1 class="section-header">Get Started! Open-Source or try Premium.</h1>
+    <h1 class="section-header">Get Started! Open-Source or Premium.</h1>
     <div class="container-flex">
         <div class="row">
             <div class="col-md-4 col-sm-6 feature text-center" >
@@ -262,8 +260,6 @@ layout: default
         </div>
     </div>
 </section><!-- download -->
-
-
 
 <section id="blog" class="section teams">
     <h1 class="section-header">Visit our blog with many interesting videos.</h1>
