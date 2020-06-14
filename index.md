@@ -266,6 +266,7 @@ layout: default
                 <div class="download-content">
                     <h2>On-Premises</h2>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+                    <a href="#cloud" class="btn">Cedalo Cloud</a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 download text-center">
@@ -273,6 +274,7 @@ layout: default
                 <div class="download-content">
                     <h2>Edge Devices</h2>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+                    <a href="#cloud" class="btn">Cedalo Cloud</a>
                 </div>
             </div>
         </div>
