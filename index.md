@@ -233,7 +233,7 @@ layout: default
 </section><!-- usecase -->
 
 <section id="download" class="section download">
-    <div class="container-flex" style="">
+    <div class="container-flex" style="padding-left: 80px;padding-right: 80px;">
         <div class="row">
             <div class="col-md-12 col-sm-12">
                 <div class="">
