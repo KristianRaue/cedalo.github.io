@@ -644,7 +644,14 @@ background-color: #313454; }
   font-size: 20px;
   font-weight: 300;
   line-height: 1.5;
-  margin: 40px; }
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 20px; }
+
+.download p a {
+  margin: 10px;
+}
 
 .download .btn {
   margin-top: 0px; }
