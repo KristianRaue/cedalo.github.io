@@ -77,7 +77,7 @@ layout: default
 </section>
 
 <section id="features" class="features section">
-    <div class="container-flex" >
+    <div class="container-flex" style="padding-left: 40px;padding-right: 40px;">
         <div class="row">
             <div class="col-md-12 col-sm-12 feature">
                 <div class="">        
@@ -245,7 +245,7 @@ layout: default
 </section><!-- usecase -->
 
 <section id="download" class="section downloads">
-    <div class="container-flex" style="padding-left: 80px;padding-right: 80px;">
+    <div class="container-flex" style="padding-left: 40px;padding-right: 40px;">
         <div class="row">
             <div class="col-md-12 col-sm-12 download">
                 <div class="download-intro">
