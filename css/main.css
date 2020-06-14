@@ -576,6 +576,11 @@ background-color: #313454; }
 .person {
   max-width: 270px; }
 
+.person-intro {
+  margin-bottom: 30px;
+  margin-top: 50px;
+  }
+
 .person-content {
   margin-top: 20px; }
 .person h4 {
