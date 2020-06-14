@@ -246,14 +246,14 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-desktop"></span>
                 <div class="feature-content">
-                    <h3>On-Premise</h3>
+                    <h2>On-Premise</h2>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-gears"></span>
                 <div class="feature-content">
-                    <h4>Edge Device</h4>
+                    <h2>Edge Device</h2>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
