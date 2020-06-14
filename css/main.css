@@ -447,9 +447,12 @@ background-color: #313454; }
   padding-right: 30px;
 }
 
-.usecase-intro p {
+.usecase-intro {
   margin-bottom: 30px;
   margin-top: 50px;
+  }
+
+.usecase-intro p {
   padding-left: 40px;
   padding-right: 40px;
   font-weight: 300;

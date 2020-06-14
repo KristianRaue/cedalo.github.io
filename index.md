@@ -284,7 +284,7 @@ layout: default
         <div class="row">
             <div class="col-md-12 col-sm-12">
                 <div class="person-intro">
-                    <h1 class="section-header">Visit our blog with many interesting demos and videos.</h1>
+                    <h1 class="section-header">Visit our blog for more use cases</h1>
                     <p>In addition to sponsoring the two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" Cedalo also offers premium editions of both products. They are called "Cedalo Sheets" and "Cedalo Broker" and you can try them free for 14 days.</p>
                 </div>
             </div>
