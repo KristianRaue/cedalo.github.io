@@ -73,7 +73,7 @@ layout: default
 </section>
 
 <section id="features" class="features section">
-    <div class="container-flex">
+    <div class="container-flex" style="padding-left: 80px;padding-right: 80px;">
         <div class="row">
             <div class="col-md-12 col-sm-12 feature">
                 <div class="">        
