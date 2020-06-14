@@ -250,7 +250,7 @@ layout: default
             <div class="col-md-12 col-sm-12 download">
                 <div class="download-intro">
                     <h1 class="section-header">Get Started! Open-Source or Premium.</h1>
-                    <p>In addition to sponsoring the two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" Cedalo also offers premium editions of both products. They are called "Cedalo Sheets" and "Cedalo Broker" and you can try them free for 14 days.</p>
+                    <p>In addition to sponsoring the two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" Cedalo also offers premium editions of both products. They are called "Cedalo Sheets" and "Cedalo Broker". You can try the Cedalo Premium editions free for 14 days.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 download text-center" >
