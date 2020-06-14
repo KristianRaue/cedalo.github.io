@@ -447,7 +447,7 @@ background-color: #313454; }
   padding-right: 30px;
 }
 
-.usecase-intro {
+.usecase-intro, p {
   margin-bottom: 30px;
   margin-top: 50px;
   padding-left: 40px;
@@ -531,7 +531,7 @@ background-color: #313454; }
 .person {
   max-width: 270px; }
 
-.person-intro {
+.person-intro, p {
   margin-bottom: 30px;
   margin-top: 50px;
   padding-left: 40px;
