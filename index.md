@@ -233,7 +233,7 @@ layout: default
 </section><!-- usecase -->
 
 <section id="download" class="section download">
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-md-10 col-md-offset-1 col-sm-12">
                 <div class="">
@@ -241,7 +241,7 @@ layout: default
                     <p>In addition to sponsoring the two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" Cedalo also offers premium editions of both products, called "Cedalo Sheets" and "Cedalo Broker".</p>
                 </div>
             </div>
-            <div class="col-md-4  col-sm-6 feature text-center" >
+            <div class="col-md-4 col-sm-6 feature text-center" >
                 <span class="icon icon icon-cloud"></span>
                 <div class="feature-content">
                     <h2>Managed Service</h2>
