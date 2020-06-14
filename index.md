@@ -235,7 +235,7 @@ layout: default
 
 
 <section id="download" class="section download">
-    <h1 class="section-header">Get Started! Many options available.</h1>
+    <h1 class="section-header">Get Started! Open-Source or try Premium.</h1>
     <div class="container-flex">
         <div class="row">
             <div class="col-md-4 col-sm-6 feature text-center">
