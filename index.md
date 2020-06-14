@@ -12,7 +12,7 @@ layout: default
                     <p>&nbsp;</p>
                 </div><!-- banner text -->
             </div>
-            <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-xs-7 col-xs-offset-1">
+            <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-xs-12">
                 <div class="banner-text text-center">
                     <h1>Stream processing for everybody</h1>
                     <p>Cedalo is the commercial sponsor of  two Open-Source projects:</p>
@@ -23,7 +23,7 @@ layout: default
                         <a href="#download" class="btn btn-large">Download</a>  
                 </div><!-- banner text -->
             </div>
-            <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-3 col-xs-offset-1">
+            <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-12">
                 <div class="banner-chart text-center" >
                     <img style="padding-top:40px;padding-bottom:80px;" src="images/screenshot_orig.png" alt="">
                 </div><!-- banner text -->
