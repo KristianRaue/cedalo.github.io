@@ -232,33 +232,33 @@ layout: default
     </div>
 </section><!-- usecase -->
 
-<section id="download" class="section download">
+<section id="download" class="section downloads">
     <div class="container-flex" style="padding-left: 80px;padding-right: 80px;">
         <div class="row">
-            <div class="col-md-12 col-sm-12">
+            <div class="col-md-12 col-sm-12 download">
                 <div class="">
                     <h1 class="section-header">Get Started! Open-Source or Premium.</h1>
                     <p>In addition to sponsoring the two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" Cedalo also offers premium editions of both products, called "Cedalo Sheets" and "Cedalo Broker".</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 feature text-center" >
+            <div class="col-md-4 col-sm-6 download text-center" >
                 <span class="icon icon icon-cloud"></span>
-                <div class="feature-content">
+                <div class="download-content">
                     <h2>Managed Service</h2>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                     <a href="#cloud" class="btn">Cedalo Cloud</a>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 feature text-center">
+            <div class="col-md-4 col-sm-6 download text-center">
                 <span class="icon icon-desktop"></span>
-                <div class="feature-content">
+                <div class="download-content">
                     <h2>On-Premises</h2>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 feature text-center">
+            <div class="col-md-4 col-sm-6 download text-center">
                 <span class="icon icon-gears"></span>
-                <div class="feature-content">
+                <div class="download-content">
                     <h2>Edge Device</h2>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>

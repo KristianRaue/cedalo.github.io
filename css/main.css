@@ -626,13 +626,31 @@ background-color: #313454; }
 /* ==========================================================================
 	$Download
 ========================================================================== */
-.download {
+
+.downloads {
   background-color: #3a3e64;
   min-height: 750px;
 }
 
-.banner-text {
-  padding-top: 20px; }
+.download {
+  margin-bottom: 30px;
+  margin-top: 50px;
+  }
+
+.download-content {
+  padding: 0 15px;
+  margin-top: 30px; }
+.download .icon {
+  color: #ffffff;
+  font-size: 60px; }
+
+.download h1{
+  padding-bottom: 20px;
+  color: #ffffff; }
+
+.download h2, .download h5, .download p, .download ul, .download li {
+  padding: 10px;
+  color: #ffffff; }
 
 .download h1, .download h2, .download h3, .download h4 {
   color: #fff;
