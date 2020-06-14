@@ -367,8 +367,6 @@ background-color: #313454; }
 ========================================================================== */
 
 .products {
-
-
 }
 
 .products-box {
@@ -636,6 +634,16 @@ background-color: #313454; }
   margin-bottom: 30px;
   margin-top: 50px;
   }
+
+.download-intro p {
+  color: #fff;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 1.5;
+  margin-top: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 20px; }
 
 .download-content {
   padding: 0 15px;
