@@ -236,7 +236,7 @@ layout: default
 
 <section id="download" class="section download">
     <div class="container">
-        <h1 class="section-header">Quick overview: An impressive feature set</h1>
+        <h1 class="section-header">Get Started! Many options available.</h1>
         <div class="col-md-8 col-md-offset-2 text-center">
             <h2>Get Started! Many options available.</h2>
             <p>Fusce dapibus, tellus ac cursus commodo</p>
