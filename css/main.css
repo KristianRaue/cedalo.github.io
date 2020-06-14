@@ -415,8 +415,7 @@ background-color: #313454; }
   padding-bottom: 20px;
   color: #ffffff; }
 
-.feature h2, .feature h5, .feature p, .feature ul, .feature li {
-  padding: 10px;
+.feature h2, .feature h3, .feature h3, .feature h5, .feature p, .feature ul, .feature li {
   color: #ffffff; }
 
 /* ==========================================================================
@@ -672,11 +671,7 @@ background-color: #313454; }
   padding-bottom: 20px;
   color: #ffffff; }
 
-.download h2, .download h5, .download p, .download ul, .download li {
-  padding: 10px;
-  color: #ffffff; }
-
-.download h1, .download h2, .download h3, .download h4 {
+.download h2, .download h3, .download h4 {
   color: #fff;
   font-weight: 700;
    }
