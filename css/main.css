@@ -628,6 +628,7 @@ background-color: #313454; }
 ========================================================================== */
 .download {
   background-color: #3a3e64;
+  min-height: 750px;
 }
 
 .banner-text {
