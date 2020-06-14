@@ -10,6 +10,7 @@ $(document).ready(function() {
 		}
 	});
 
+	/*
 	// Waypoints
 	$('.work').waypoint(function() {
 		$('.work').addClass('animated fadeIn');
@@ -30,6 +31,7 @@ $(document).ready(function() {
 		animation: "fade",
 		directionNav: false,
 	});
+	*/
 
 
 	
