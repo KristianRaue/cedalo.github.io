@@ -239,21 +239,21 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center" >
                 <span class="icon icon icon-cloud"></span>
                 <div class="feature-content">
-                    <h5>Easily Customised</h5>
+                    <h2>Managed Service</h2>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-desktop"></span>
                 <div class="feature-content">
-                    <h5>Responsive Ready</h5>
+                    <h3>On-Premise</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-gears"></span>
                 <div class="feature-content">
-                    <h5>Modern Design</h5>
+                    <h4>Edge Device</h4>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>

@@ -634,14 +634,11 @@ background-color: #313454; }
 .banner-text {
   padding-top: 20px; }
 
-.download h1 {
+.download h1, .download h2, .download h3, .download h4 {
   color: #fff;
   font-weight: 700;
    }
-.download h2 {
-  color: #fff;
-  font-weight: 700;
-  }
+
 .download p {
   color: #fff;
   font-size: 20px;
