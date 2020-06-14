@@ -73,9 +73,13 @@ layout: default
 </section>
 
 <section id="features" class="features section">
-    <h1 class="section-header">Quick overview: An impressive feature set</h1>
     <div class="container-flex">
         <div class="row">
+            <div class="col-md-12 col-sm-12 feature">
+                <div class="">        
+                    <h1 class="section-header">Quick overview: An impressive feature set</h1>
+                </div>
+            </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-tools"></span>
                 <div class="feature-content">
