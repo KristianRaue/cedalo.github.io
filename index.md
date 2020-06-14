@@ -127,9 +127,13 @@ layout: default
 </section><!-- features -->
 
 <section id="usecases" class="usecases section" >
-    <h1 class="section-header">Use Cedalo Sheets to build solutions for wide variety of use cases</h1>
     <div class="container-fluid">
         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 usecase">  
+                <div>
+                    <h1 class="section-header">Use Cedalo Sheets to build solutions for wide variety of use cases</h1>
+                </div>
+            </div>
             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
                 <div class="usecase-box">
                     <div class="overlay-caption">
@@ -242,7 +246,7 @@ layout: default
             <div class="col-md-12 col-sm-12 download">
                 <div class="download-intro">
                     <h1 class="section-header">Get Started! Open-Source or Premium.</h1>
-                    <p>In addition to sponsoring the two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" Cedalo also offers premium editions of both products, called "Cedalo Sheets" and "Cedalo Broker".</p>
+                    <p>In addition to sponsoring the two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" Cedalo also offers premium editions of both products. They are called "Cedalo Sheets" and "Cedalo Broker" and you can try them free for 14 days.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 download text-center" >
