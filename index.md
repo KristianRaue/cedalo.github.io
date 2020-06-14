@@ -32,9 +32,13 @@ layout: default
     </div>
 </section><!-- banner -->
 <section id="products" class="products section">
-    <h1 class="section-header">The democratization of stream processing solutions</h1>
     <div class="container-fluid">
         <div class="row no-padding ">
+            <div class="col-lg-12 col-md-12 col-sm-12 products-intro">  
+                <div>
+                    <h1 class="section-header">The democratization of stream processing solutions</h1>
+                </div>
+            </div>
             <div class="col-lg-5 col-md-5 col-sm-11 col-xs-11 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 ">  
                 <div class="products-box">
                     <h2>Eclipse Streamsheets</h2>
