@@ -313,7 +313,7 @@ background-color: #313454; }
     margin: 40px; }
 
   .banner-chart:hover img {
-    transform: translateX(-700px); 
+    transform: translateX(-400px); 
     transition: all 0.5s}
   
   .banner-chart img {
