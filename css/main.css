@@ -415,10 +415,10 @@ background-color: #313454; }
   padding-bottom: 20px;
   color: #ffffff; }
 
-.feature h2, .feature h3, .feature h3, .feature h5, .feature p, .feature ul, .feature li {
+.feature h2, .feature h3, .feature h3, .feature h5, .feature ul, .feature li {
   color: #ffffff; }
 
-.download p {
+.feature p {
   color: #ffffff;
   margin-top: 30px;
   margin-left: 0px;
