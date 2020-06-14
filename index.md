@@ -87,42 +87,42 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-tools"></span>
                 <div class="feature-content">
-                    <h2>Easily Customised</h2>
+                    <h3>Easily Customised</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-desktop"></span>
                 <div class="feature-content">
-                    <h2>Responsive Ready</h2>
+                    <h3>Responsive Ready</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-lightbulb"></span>
                 <div class="feature-content">
-                    <h2>Modern Design</h2>
+                    <h3>Modern Design</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-genius"></span>
                 <div class="feature-content">
-                    <h2>Clean Code</h2>
+                    <h3>Clean Code</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-briefcase"></span>
                 <div class="feature-content">
-                    <h2>Ready to Ship</h2>
+                    <h3>Ready to Ship</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-download"></span>
                 <div class="feature-content">
-                    <h2>Download for Free</h2>
+                    <h3>Download for Free</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
@@ -271,7 +271,7 @@ layout: default
             <div class="col-md-4 col-sm-6 download text-center">
                 <span class="icon icon-gears"></span>
                 <div class="download-content">
-                    <h2>Edge Device</h2>
+                    <h2>Edge Devices</h2>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
