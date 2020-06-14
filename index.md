@@ -129,7 +129,7 @@ layout: default
 <section id="usecases" class="usecases section" >
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12">  
+            <div class="col-lg-12 col-md-12 col-sm-12 usecase">  
                 <div>
                     <h1 class="section-header">Use Cedalo Sheets to build solutions for wide variety of use cases</h1>
                 </div>
