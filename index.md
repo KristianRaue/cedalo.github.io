@@ -238,7 +238,7 @@ layout: default
             <div class="col-md-10 col-md-offset-1">
                 <div class="">
                     <h1 class="section-header">Get Started! Open-Source or Premium.</h1>
-                    <p>In additton to sponsoring the two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" Cedalo also offers premium editions of both products. The premium edition of Eclipse Streamsheets is called Cedalo Sheets, the premium edition of Eclipse Mosquitto is called Cedalo Broker.</p>
+                    <p>In addition to sponsoring the two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" Cedalo also offers premium editions of both products, called Cedalo Sheets and Cedalo Broker.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center" >
