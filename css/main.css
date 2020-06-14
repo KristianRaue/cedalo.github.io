@@ -423,6 +423,11 @@ background-color: #313454; }
   padding-right: 30px;
 }
 
+.usecase-intro {
+  margin-bottom: 30px;
+  margin-top: 50px;
+  }
+
 .usecase {
   padding-bottom: 40px;
   padding-left: 20px;
