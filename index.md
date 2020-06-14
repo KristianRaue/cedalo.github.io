@@ -246,8 +246,8 @@ layout: default
                 <div class="feature-content">
                     <h2>Managed Service</h2>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
-                    <p><a href="#products" class="btn">Cedalo Sheets in the Cloud</a></p>
-                    <p><a href="#download" class="btn">Cedalo Broker in the Cloud</a></p>
+                    <a href="#products" class="btn">Cedalo Sheets in the Cloud</a>
+                    <a href="#download" class="btn">Cedalo Broker in the Cloud</a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
