@@ -321,7 +321,7 @@ background-color: #313454; }
     transition: all 0.5s}
 
 /* ==========================================================================
-	$Intro (später interessant)
+	$Intro (später interessant für weitere Seiten)
 ========================================================================== */
 .intro {
   background-color: #e1e2e9;
@@ -336,6 +336,13 @@ background-color: #313454; }
 .intro-spacer {
   padding-top: 150px; 
 }
+
+.intro-intro {
+  margin-bottom: 30px;
+  margin-top: 50px;
+  padding-left: 40px;
+  padding-right: 40px;
+  }
 
 .intro-text {
   padding-top: 20px; }
