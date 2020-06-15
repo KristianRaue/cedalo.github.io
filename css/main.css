@@ -668,17 +668,26 @@ background-color: #313454; }
   padding-bottom: 20px;
   color: #ffffff; }
 
-.privacy h2, .privacy h3, .privacy h4 {
+.privacy h2 {
   color: #fff;
   font-weight: 700;
-   }
+  font-size: 30px; }
 
-.privacy p, .privacy ul , .privacy li {
+.privacy h3 {
   color: #fff;
-  margin-top: 30px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-bottom: 30px; }
+  font-weight: 500
+  font-size: 24px;}
+
+.privacy h4 {
+  color: #fff;
+  font-weight: 300;
+  font-size: 20px}
+
+.privacy p, .privacy ul , .privacy ol .privacy li {
+  color: #fff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;}
 
 /* ==========================================================================
 	$Footer
