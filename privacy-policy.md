@@ -14,7 +14,7 @@ title: Cedalo - Download
                 </div>
             </div>
 <!-- until here for nav menus to work smoothly  -->
-            <div class="privacy">
+            <div class="privacypolicy">
                 <h1 class="section-header">Privacy Policy</h1>
                 <div class="col-md-8 col-md-offset-2">
                     <p>We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the Cedalo AG. The use of the Internet pages of the Cedalo AG is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.</p>

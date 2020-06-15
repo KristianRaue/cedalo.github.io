@@ -659,31 +659,31 @@ background-color: #313454; }
 	$Privacy Policy
 ========================================================================== */
 
-.privacy {
+.privacypolicy {
   margin-bottom: 30px;
   margin-top: 50px;
   }
 
-.privacy h1{
+.privacypolicy h1{
   padding-bottom: 20px;
   color: #ffffff; }
 
-.privacy h2 {
+.privacypolicy h2 {
   color: #fff;
   font-weight: 700;
   font-size: 30px; }
 
-.privacy h3 {
+.privacypolicy h3 {
   color: #fff;
   font-weight: 500
   font-size: 24px;}
 
-.privacy h4 {
+.privacypolicy h4 {
   color: #fff;
   font-weight: 300;
   font-size: 20px}
 
-.privacy p, .privacy ul , .privacy ol .privacy li {
+.privacypolicy p, .privacypolicy ul , .privacypolicy ol .privacypolicy li {
   color: #fff;
   margin-top: 20px;
   margin-bottom: 20px;
