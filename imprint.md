@@ -15,10 +15,10 @@ title: Cedalo - Privacy Policy
             </div>
 <!-- until here for nav menus to work smoothly  -->
             <div class="privacypolicy">
-                <h1 class="section-header">Legal Notices</h1>
                 <div class="col-md-10 col-md-offset-1">
+                    <h2>Legal Notices</h2>
                     <p>Information in accordance with Section 5 TMG and responsible for the content according to § 55 Abs. 2 RStV:</p>
-                    <p>>cedalo AG<br>Schnewlinstr. 6<br>79098 Freiburg</p>
+                    <p>cedalo AG<br>Schnewlinstr. 6<br>79098 Freiburg</p>
                     <h3>Represented by</h3>
                     <p>Philipp Struß (CEO), Philip Ackermann (CTO)</p>
                     <h3>Contact Information</h3>
@@ -41,7 +41,7 @@ title: Cedalo - Privacy Policy
                     works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. 
                     Individual reproductions of a work are only allowed for private use. 
                     The materials from these pages are copyrighted and any unauthorized use may violate copyright laws.</p>
-                    <p><i>Quelle:<a href="http://www.translate-24h.de" target="_blank">Deutsch-Englisch Übersetzungen</a></i></p>
+                    <p><i>Quelle: <a href="http://www.translate-24h.de" target="_blank">http://www.translate-24h.de</a></i></p>
                     <p>&nbsp;</p>
                     <h1>Privacy Policy</h1>
                     <p>Please read our <a href="privacy-policy.html">Privacy Policy</a></p>
