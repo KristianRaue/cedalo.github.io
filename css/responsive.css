@@ -2,9 +2,7 @@
   #header .header-content {
     width: 90%; }
 
-  .banner-chart:hover img {
-    transform: translateX(0px); 
-    transition: all 0.5s}
+  
   
   .banner-chart img {
     transform: translateX(0px); 
