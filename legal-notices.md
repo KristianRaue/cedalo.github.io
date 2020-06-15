@@ -43,7 +43,7 @@ title: Cedalo - Privacy Policy
                     The materials from these pages are copyrighted and any unauthorized use may violate copyright laws.</p>
                     <p><i>Quelle: <a href="http://www.translate-24h.de" target="_blank">http://www.translate-24h.de</a></i></p>
                     <p>&nbsp;</p>
-                    <h1>Privacy Policy</h1>
+                    <h2>Privacy Policy / Data protection notice</h2>
                     <p>Please read our <a href="privacy-policy.html">Privacy Policy</a></p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
