@@ -656,6 +656,31 @@ background-color: #313454; }
   margin: 10px; }
 
 /* ==========================================================================
+	$Privacy Policy
+========================================================================== */
+
+.privacy {
+  margin-bottom: 30px;
+  margin-top: 50px;
+  }
+
+.privacy h1{
+  padding-bottom: 20px;
+  color: #ffffff; }
+
+.privacy h2, .privacy h3, .privacy h4 {
+  color: #fff;
+  font-weight: 700;
+   }
+
+.privacy p {
+  color: #fff;
+  margin-top: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 30px; }
+
+/* ==========================================================================
 	$Footer
 ========================================================================== */
 .footer {
