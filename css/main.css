@@ -695,6 +695,13 @@ background-color: #313454; }
 .footer {
   text-align: center; }
 
+.footer-left {
+   text-align: left; }
+
+.footer-right {
+  text-align: right; }
+ 
+
 .footer-top {
   background-color: #3a3e64;
   padding-top: 50px; }

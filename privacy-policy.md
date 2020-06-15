@@ -17,7 +17,7 @@ title: Cedalo - Download
             <div class="privacypolicy">
                 <h1 class="section-header">Privacy Policy</h1>
                 <div class="col-md-10 col-md-offset-1">
-                    <p>We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the Cedalo AG. The use of the Internet pages of the Cedalo AG is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.</p>
+                    <p>Data protection is of a particularly high priority for the management of the Cedalo AG. The use of the Internet pages of the Cedalo AG is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.</p>
                     <p>The processing of personal data, such as the name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to the Cedalo AG. By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.</p>
                     <p>As the controller, the Cedalo AG has implemented numerous technical and organizational measures to ensure the most complete protection of personal data processed through this website. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed. For this reason, every data subject is free to transfer personal data to us via alternative means, e.g. by telephone.</p>
                     <h3>1. Definitions</h3>
@@ -47,12 +47,12 @@ title: Cedalo - Download
                     <p>Consent of the data subject is any freely given, specific, informed and unambiguous indication of the data subject&#8217;s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.</p>
                     <h3>2. Name and Address of the controller</h3>
                     <p>Controller for the purposes of the General Data Protection Regulation (GDPR), other data protection laws applicable in Member states of the European Union and other provisions related to data protection is:</p>
-                    <p>Cedalo AG</p>
-                    <p>St. Galler Str. 7</p>
-                    <p>79199 Kirchzarten</p>
+                    <p>Cedalo AG<br />
+                    <p>St. Galler Str. 7<br />
+                    <p>79199 Kirchzarten<<br />
                     <p>Deutschland</p>
-                    <p>Phone: (+49) 761 42963-250</p>
-                    <p>Email: info@cedalo.com</p>
+                    <p>Phone: (+49) 761 42963-250<br />
+                    <p>Email: info@cedalo.com<br />
                     <p>Website: <a href="http://www.cedalo.com" rel="nofollow">http://www.cedalo.com</a></p>
                     <h3>3. Cookies</h3>
                     <p>The Internet pages of the Cedalo AG use cookies. Cookies are text files that are stored in a computer system via an Internet browser.</p>
