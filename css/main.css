@@ -662,6 +662,7 @@ background-color: #313454; }
 .privacypolicy {
   margin-bottom: 30px;
   margin-top: 50px;
+  background-color: unset;
   }
 
 .privacypolicy h1{
