@@ -671,18 +671,18 @@ background-color: #313454; }
 
 .privacypolicy h2 {
   color: #fff;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 26px; }
 
 .privacypolicy h3 {
   color: #fff;
   font-weight: 500
-  font-size: 22px;}
+  font-size: 20px;}
 
 .privacypolicy h4 {
   color: #fff;
   font-weight: 300;
-  font-size: 18px}
+  font-size: 16px}
 
 .privacypolicy p, .privacypolicy ul , .privacypolicy ol .privacypolicy li {
   color: #fff;
