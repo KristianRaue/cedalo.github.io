@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cedalo - Download
+title: Cedalo - Privacy Policy
 ---
 
 <section id="banner" class="banner" role="banner">
