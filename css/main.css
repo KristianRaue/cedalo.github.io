@@ -662,18 +662,25 @@ background-color: #313454; }
 .privacy {
   margin-bottom: 30px;
   margin-top: 50px;
+  
+.section {
+  padding: 100px 0; }
+
+.section-header {
+  text-align: cen
   }
 
 .privacy h1{
   padding-bottom: 20px;
-  color: #ffffff; }
+  color: #ffffff;
+  text-orientation: ; }
 
 .privacy h2, .privacy h3, .privacy h4 {
   color: #fff;
   font-weight: 700;
    }
 
-.privacy p {
+.privacy p, .privacy ul , .privacy li {
   color: #fff;
   margin-top: 30px;
   margin-left: 0px;
