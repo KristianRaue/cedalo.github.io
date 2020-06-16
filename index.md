@@ -79,14 +79,14 @@ layout: default
                 <span class="icon icon-bargraph"></span>
                 <div class="feature-content">
                     <h3>Powerful Dashboards</h3>
-                    <p>We include extensive charting features including dynamic charts that update immediately with real-time data. No need to download or install third-party chart extensions. Just select a chart type from the menu and the range of spreadsheet cells you want in the chart. You can even build your own chart types.</p>
+                    <p>We include extensive charting features including dynamic charts that update immediately with real-time data. No need to install third-party chart extensions. You can even build your own chart types.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-browser"></span>
                 <div class="feature-content">
                     <h3>Server-Based</h3>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non met dlf sklfj  sdkljf lkfsjlk   kljds jlkus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
