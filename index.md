@@ -45,9 +45,9 @@ layout: default
                     <p>Our no-code user interface is the all-familiar spreadsheet. But that’s all what Streamsheets have in common with traditional spreadsheets.</p>
                     <p>While spreadsheets are client apps which work with bound and de-coupled batches of data, Streamsheets continuously process, aggregate, visualize and transform unbound data streams in real-time as a server app (microservice).</p>
                     <p>Streamsheets were designed with publish/subcribe streaming protocols like MQTT, Apache Kafka or AMQP in mind, but they also work perfectly with REST-based protocols (request/response)</p>
-                    <br />
+                    <p class="text-center">
                         <a href="#banner" class="btn btn-large">Watch Video</a>
-                        <a href="#blog" class="btn btn-large">Learn More</a>
+                        <a href="#blog" class="btn btn-large">Learn More</a></p>
                 </div>
                 <div class="products-box">
                     <h2>Eclipse Mosquitto</h2>
