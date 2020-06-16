@@ -78,8 +78,8 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-bargraph"></span>
                 <div class="feature-content">
-                    <h3>Powerful Charts</h3>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+                    <h3>Powerful Dashboards</h3>
+                    <p>We include extensive charting features including dynamic charts that update immediately with real-time data. No need to download or install third-party chart extensions. Just select a chart type from the menu and the range of spreadsheet cells you want in the chart. You can even build your own chart types.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
