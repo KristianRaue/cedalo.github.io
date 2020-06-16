@@ -34,12 +34,12 @@ layout: default
 <section id="products" class="products section">
     <div class="container-fluid" style="padding-left: 40px;padding-right: 40px;">
         <div class="row no-padding">
-            <div class="col-lg-12 col-md-12 col-sm-12 products-intro" style="max-width:1400px">  
+            <div class="col-lg-12 col-md-12 col-sm-12 products-intro">  
                 <div>
                     <h1 class="section-header">The democratization of stream processing solutions</h1>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="max-width:700px">  
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">  
                 <div class="products-box">
                     <h2>Eclipse Streamsheets</h2>
                     <p>Our no-code user interface is the all-familiar spreadsheet. But that’s all what Streamsheets have in common with traditional spreadsheets.</p>
@@ -59,7 +59,7 @@ layout: default
                         <a href="#blog" class="btn btn-large">Learn More</a>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center"  style="max-width:700px">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
                 <div class="products-chart" >
                     <img  src="images/overview.png">
                 </div>
