@@ -92,28 +92,28 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-lightbulb"></span>
                 <div class="feature-content">
-                    <h3>Modern Design</h3>
+                    <h3>Server-Based</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-genius"></span>
                 <div class="feature-content">
-                    <h3>Clean Code</h3>
+                    <h3>Cyclic & On-Message</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-briefcase"></span>
                 <div class="feature-content">
-                    <h3>Ready to Ship</h3>
+                    <h3>Open-Source & Premium</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-download"></span>
                 <div class="feature-content">
-                    <h3>Download for Free</h3>
+                    <h3>Cloud & On-Premises</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
