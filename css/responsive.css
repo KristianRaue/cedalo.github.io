@@ -62,9 +62,14 @@
   .flex-control-nav {
     bottom: 20px; } 
 
-    .products-chart img {
-      padding-top:0px;
-    }
+  .products-chart img {
+    padding-top:0px;
+  }
+
+  .banner-chart {
+    margin-top:40px;
+    margin-bottom:80px;
+  }
 
   }
 @media screen and (max-width: 768px) {
