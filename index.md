@@ -102,18 +102,18 @@ layout: default
                     <p>Streamsheets run on their own, even if you close the browser window. They run as microservices, 24 hours a day, receiving data from multiple sources, transforming it, and sending it out again.</p>
                 </div>
             </div>
-                <div class="col-md-4 col-sm-6 feature text-center">
-                <div class="feature-content">
-                    <span class="icon icon-download"></span>
-                    <h3>On-Premises<br />& Cloud</h3>
-                    <p>Both Mosquitto and Streamsheets are Eclipse IoT projects which are commercially sponsored by Cedalo. In additiom we offer premium editions of both products named Cedalo Sheets and Cedalo Broker.</p>
-                </div>
-            </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-streetsign"></span>
                     <h3>Open-Source<br /> & Premium</h3>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+                    <p>Both Mosquitto and Streamsheets are Eclipse IoT open-source projects which are commercially sponsored by Cedalo. We also offer premium editions of both products named Cedalo Sheets and Cedalo Broker.</p>
+                </div>
+            </div>
+             <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="feature-content">
+                    <span class="icon icon-download"></span>
+                    <h3>On-Premises<br />& Cloud</h3>
+                    <p>Our products run  as managed service in the Cedalo Cloud, on your AWS or Azure account or on-premises under any major operating system. They even run on edge devices with weak CPUs or on the Raspberry Pi.</p>
                 </div>
             </div>
         </div>
