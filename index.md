@@ -83,13 +83,6 @@ layout: default
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <span class="icon icon-browser"></span>
-                <div class="feature-content">
-                    <h3>Server-Based</h3>
-                    <p>Applications run on their own, even if you close the browser window. They run as microservices, 24 hours a day, receiving data from multiple sources, transforming it, and sending it out again.</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-refresh"></span>
                 <div class="feature-content">
                     <h3>Cyclic & On-Event</h3>
@@ -104,16 +97,23 @@ layout: default
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <span class="icon icon-streetsign"></span>
+                <span class="icon icon-browser"></span>
                 <div class="feature-content">
-                    <h3>Open-Source & Premium</h3>
+                    <h3>Server-Based</h3>
+                    <p>Applications run on their own, even if you close the browser window. They run as microservices, 24 hours a day, receiving data from multiple sources, transforming it, and sending it out again.</p>
+                </div>
+            </div>
+                <div class="col-md-4 col-sm-6 feature text-center">
+                <span class="icon icon-download"></span>
+                <div class="feature-content">
+                    <h3>Cloud & On-Premises</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <span class="icon icon-download"></span>
+                <span class="icon icon-streetsign"></span>
                 <div class="feature-content">
-                    <h3>Cloud & On-Premises</h3>
+                    <h3>Open-Source & Premium</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
