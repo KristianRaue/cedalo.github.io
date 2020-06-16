@@ -90,29 +90,29 @@ layout: default
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <span class="icon icon-speedometer"></span>
                 <div class="feature-content">
+                    <span class="icon icon-speedometer"></span>
                     <h3>Milliseconds<br />Speed</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <span class="icon icon-browser"></span>
                 <div class="feature-content">
+                    <span class="icon icon-browser"></span>
                     <h3>ServerBased<br />Microservices</h3>
                     <p>Applications run on their own, even if you close the browser window. They run as microservices, 24 hours a day, receiving data from multiple sources, transforming it, and sending it out again.</p>
                 </div>
             </div>
                 <div class="col-md-4 col-sm-6 feature text-center">
-                <span class="icon icon-download"></span>
                 <div class="feature-content">
+                    <span class="icon icon-download"></span>
                     <h3>Cloud or<br />On-Premises</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <span class="icon icon-streetsign"></span>
                 <div class="feature-content">
+                    <span class="icon icon-streetsign"></span>
                     <h3>Open-Source<br /> or Premium</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
