@@ -17,7 +17,6 @@ title: Cedalo - Privacy Policy
             <div class="privacypolicy">
                 <div class="col-md-10 col-md-offset-1">
                     <h1>Legal Notices</h1>
-                    <p>&nbsp;</p>
                     <h3>Information in accordance with Section 5 TMG and<br />responsible for the content according to § 55 Abs. 2 RStV:</h3>
                     <p>cedalo AG<br>Schnewlinstr. 6<br>79098 Freiburg</p>
                     <h3>Represented by</h3>
