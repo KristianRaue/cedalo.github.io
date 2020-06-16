@@ -1,6 +1,10 @@
 @media screen and (max-width: 992px) {
+
   #header .header-content {
     width: 90%; }
+
+    .footer-center, .footer-right, .footer-left {
+      text-align: left; }
 
     .nav-toggle {
       display: block; }
