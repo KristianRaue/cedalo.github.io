@@ -76,15 +76,15 @@ layout: default
     <div class="container-flex" style="padding-left: 40px;padding-right: 40px;">
         <div class="row">
             <div class="col-md-4 col-sm-6 feature text-center">
-                <span class="icon icon-bargraph"></span>
                 <div class="feature-content">
+                    <span class="icon icon-bargraph"></span>
                     <h3>Powerful<br />Dashboards</h3>
                     <p>We include extensive charting features including dynamic and custom charts that update immediately with real-time data. No need to install third-party chart extensions.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <span class="icon icon-refresh"></span>
                 <div class="feature-content">
+                    <span class="icon icon-refresh"></span>
                     <h3>Cyclic or<br />On-Event</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
