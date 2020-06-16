@@ -32,8 +32,8 @@ layout: default
     </div>
 </section><!-- banner -->
 <section id="products" class="products section">
-    <div class="container-fluid">
-        <div class="row no-padding ">
+    <div class="container-fluid" style="padding-left: 40px;padding-right: 40px;">
+        <div class="row no-padding">
             <div class="col-lg-12 col-md-12 col-sm-12 products-intro">  
                 <div>
                     <h1 class="section-header">The democratization of stream processing solutions</h1>
