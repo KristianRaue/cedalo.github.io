@@ -85,7 +85,7 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-refresh"></span>
-                    <h3>Cyclic &<br />On-Event</h3>
+                    <h3>On-Event<br />& Cyclic</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
@@ -106,7 +106,7 @@ layout: default
                 <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-download"></span>
-                    <h3>Cloud &<br />On-Premises</h3>
+                    <h3>On-Premises<br />& Cloud</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
