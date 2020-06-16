@@ -47,7 +47,8 @@ layout: default
                     <p>Streamsheets were designed with publish/subcribe streaming protocols like MQTT, Apache Kafka or AMQP in mind, but they also work perfectly with REST-based protocols (request/response)</p>
                     <p class="text-center">
                         <a href="#banner" class="btn btn-large">Watch Video</a>
-                        <a href="#blog" class="btn btn-large">Learn More</a></p>
+                        <a href="#blog" class="btn btn-large">Learn More</a>
+                    </p>
                 </div>
                 <div class="products-box">
                     <h2>Eclipse Mosquitto</h2>
