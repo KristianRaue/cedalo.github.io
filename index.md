@@ -85,7 +85,7 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-refresh"></span>
-                    <h3>Cyclic or<br />On-Event</h3>
+                    <h3>Cyclic &<br />On-Event</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
@@ -99,21 +99,21 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-browser"></span>
-                    <h3>ServerBased<br />Microservices</h3>
+                    <h3>Server-based<br />Microservices</h3>
                     <p>Applications run on their own, even if you close the browser window. They run as microservices, 24 hours a day, receiving data from multiple sources, transforming it, and sending it out again.</p>
                 </div>
             </div>
                 <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-download"></span>
-                    <h3>Cloud or<br />On-Premises</h3>
+                    <h3>Cloud &<br />On-Premises</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-streetsign"></span>
-                    <h3>Open-Source<br /> or Premium</h3>
+                    <h3>Open-Source<br /> & Premium</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
