@@ -18,9 +18,11 @@ layout: default
                     <p>Cedalo is the commercial sponsor of  two Open-Source projects:</p>
                     <p><b> Eclipse Streamsheets</b> - Anybody who knows how to use a spreadsheet can quickly build server-based, real-time applications, for any purpose. No programming required.</p>
                     <p><b>Eclipse Mosquitto</b> -  Devices and apps communicate in real-time, based the most popular broker technology in the world.</p>
+                    <p>
                         <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
                         <a href="#products" class="btn btn-large">Cedalo Cloud</a>
-                        <a href="#download" class="btn btn-large">Download</a>  
+                        <a href="#download" class="btn btn-large">Download</a>
+                    <p>
                 </div><!-- banner text -->
             </div>
             <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-12">
@@ -55,9 +57,10 @@ layout: default
                     <p>Eclipse Mosquitto is the most popular MQTT broker in the world and the perfect streaming platform for Streamsheets. Mosquitto supports unlimited hierarchical topics and the highly flexible publish/subscribe communication pattern.</p> 
                     <p>With the Mosquitto broker you can connect sensors, devices and apps far more flexible than in the request/response communication pattern of traditional client/server architectures.</p>
                     <p>Eclipse Mosquitto supports guaranteed delivery of messages which allows use cases not only in IoT and Smart Factory, but also in financial and other non-IoT applications.</p>
-                    <br />
+                    <p class="text-center">
                         <a href="#banner" class="btn btn-large">Watch Video</a>
                         <a href="#blog" class="btn btn-large">Learn More</a>
+                    </p>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
