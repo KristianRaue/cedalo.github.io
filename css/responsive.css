@@ -1,3 +1,10 @@
+@media screen and (max-width: 1200px) {
+  
+  .products-chart img {
+    padding-top:100px;
+  }
+}
+
 @media screen and (max-width: 992px) {
 
   #header .header-content {
@@ -55,9 +62,6 @@
   .flex-control-nav {
     bottom: 20px; } 
 
-    .products-chart img {
-      padding-top:100px;
-    }
   }
 @media screen and (max-width: 768px) {
 
