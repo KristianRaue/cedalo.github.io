@@ -43,21 +43,16 @@ layout: default
                 <div class="products-box">
                     <h2>Eclipse Streamsheets</h2>
                     <p>Our no-code user interface is the all-familiar spreadsheet. But that’s all what Streamsheets have in common with traditional spreadsheets.</p>
-                    <p>While spreadsheets are client apps which work with bound and de-coupled batches of data, Streamsheets continously process, aggregate, visualize and transform unbound data streams in real-time as a server app (microservice).</p>
-                    <p>Streamsheets were designed with Pub/Sub streaming protocols like MQTT, Apache Kafka or AMQP in mind, but they also work perfectly with REST-based protocols (Request/Response)</p>
+                    <p>While spreadsheets are client apps which work with bound and de-coupled batches of data, Streamsheets continuously process, aggregate, visualize and transform unbound data streams in real-time as a server app (microservice).</p>
+                    <p>Streamsheets were designed with publish/subcribe streaming protocols like MQTT, Apache Kafka or AMQP in mind, but they also work perfectly with REST-based protocols (request/response)</p>
                     <br />
                         <a href="#banner" class="btn btn-large">Watch Video</a>
                         <a href="#blog" class="btn btn-large">Learn More</a>
                 </div>
                 <div class="products-box">
                     <h2>Eclipse Mosquitto</h2>
-                    <p>To understand Cedalo Sheets, it helps to know our mission:</p>
-                    <ul>
-                        <li>no-code user interface</li>
-                        <li>universal bridge to Web-, IoT- & Broker-protocols</li>
-                        <li>analytics, visualization, and automation</li>
-                    </ul>
-                    <p>Our no-code user interface is the all-familiar spreadsheet. The no-code parts include functions, just like a spreadsheet, and wizards to connect to data.</p>
+                    <p>Eclipse Mosquitto is the most popular MQTT broker in the world and the perfect streaming platform for Streamsheets. Mosquitto supports unlimited hierarchical topics and the highly flexible publish/subscribe communication pattern.</p> 
+                    <p>With the Mosquitto broker you can connect sensors, devices and apps far more flexible than in the request/response communication pattern of traditional client/server architectures. Eclipse Mosquitto supports guaranteed delivery of messages which allow use cases not only in IoT and Smart Factory, but also in financial and other non-IoT applications.</p>
                     <br />
                         <a href="#banner" class="btn btn-large">Watch Video</a>
                         <a href="#blog" class="btn btn-large">Learn More</a>
