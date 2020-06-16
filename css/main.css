@@ -395,12 +395,16 @@ background-color: #313454; }
 }
 
 .products-chart {
-  height: 650px;
-  line-height: 650px;
+  height: 720px;
+  line-height: 720px;
 }
 
 .products-chart img {
   vertical-align: middle;
+  max-width:800px;
+  width:100%;
+  height:auto;
+  padding-top:0px;"
 }
 
 
