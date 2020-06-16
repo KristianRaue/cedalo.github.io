@@ -99,8 +99,8 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-browser"></span>
-                    <h3>Server-based<br />Microservices</h3>
-                    <p>Applications run on their own, even if you close the browser window. They run as microservices, 24 hours a day, receiving data from multiple sources, transforming it, and sending it out again.</p>
+                    <h3>Server-based<br />24/7</h3>
+                    <p>Streamsheets run on their own, even if you close the browser window. They run as microservices, 24 hours a day, receiving data from multiple sources, transforming it, and sending it out again.</p>
                 </div>
             </div>
                 <div class="col-md-4 col-sm-6 feature text-center">
