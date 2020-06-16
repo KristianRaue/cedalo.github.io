@@ -90,7 +90,7 @@ layout: default
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <span class="icon icon-lightbulb"></span>
+                <span class="icon icon-browser"></span>
                 <div class="feature-content">
                     <h3>Server-Based</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
@@ -104,7 +104,7 @@ layout: default
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <span class="icon icon-briefcase"></span>
+                <span class="icon icon-streetsign"></span>
                 <div class="feature-content">
                     <h3>Open-Source & Premium</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
