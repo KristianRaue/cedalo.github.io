@@ -86,7 +86,7 @@ layout: default
                 <span class="icon icon-browser"></span>
                 <div class="feature-content">
                     <h3>Server-Based</h3>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non met dlf sklfj  sdkljf lkfsjlk   kljds jlkus auctor fringilla.</p>
+                    <p>Applications run on their own, even if you close the browser window. They run as microservices, 24 hours a day, receiving data from multiple sources, transforming it, and sending it out again.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
