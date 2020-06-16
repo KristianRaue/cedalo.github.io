@@ -42,8 +42,8 @@ layout: default
             <div class="col-lg-5 col-md-5 col-sm-11 col-xs-11 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 ">  
                 <div class="products-box">
                     <h2>Eclipse Streamsheets</h2>
-                    <p>Our no-code user interface is the all-familiar spreadsheet. But that’s all that Streamsheets have in common with traditional spreadsheets.</p>
-                    <p>While spreadsheets work with bound and de-coupled batches of data, Streamsheets can process, aggregate, visualize and transform unbound data streams in real-time.</p>
+                    <p>Our no-code user interface is the all-familiar spreadsheet. But that’s all what Streamsheets have in common with traditional spreadsheets.</p>
+                    <p>While spreadsheets are client apps which work with bound and de-coupled batches of data, Streamsheets continously process, aggregate, visualize and transform unbound data streams in real-time as a server app (microservice).</p>
                     <p>Streamsheets were designed with Pub/Sub streaming protocols like MQTT, Apache Kafka or AMQP in mind, but they also work perfectly with REST-based protocols (Request/Response)</p>
                     <br />
                         <a href="#banner" class="btn btn-large">Watch Video</a>
