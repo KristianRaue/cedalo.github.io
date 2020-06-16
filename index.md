@@ -39,7 +39,7 @@ layout: default
                     <h1 class="section-header">The democratization of stream processing solutions</h1>
                 </div>
             </div>
-            <div class="col-lg-5 col-md-5 col-sm-11 col-xs-11 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 ">  
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">  
                 <div class="products-box">
                     <h2>Eclipse Streamsheets</h2>
                     <p>Our no-code user interface is the all-familiar spreadsheet. But that’s all what Streamsheets have in common with traditional spreadsheets.</p>
