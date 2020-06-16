@@ -52,7 +52,8 @@ layout: default
                 <div class="products-box">
                     <h2>Eclipse Mosquitto</h2>
                     <p>Eclipse Mosquitto is the most popular MQTT broker in the world and the perfect streaming platform for Streamsheets. Mosquitto supports unlimited hierarchical topics and the highly flexible publish/subscribe communication pattern.</p> 
-                    <p>With the Mosquitto broker you can connect sensors, devices and apps far more flexible than in the request/response communication pattern of traditional client/server architectures. Eclipse Mosquitto supports guaranteed delivery of messages which allow use cases not only in IoT and Smart Factory, but also in financial and other non-IoT applications.</p>
+                    <p>With the Mosquitto broker you can connect sensors, devices and apps far more flexible than in the request/response communication pattern of traditional client/server architectures.</p>
+                    <p>Eclipse Mosquitto supports guaranteed delivery of messages which allow use cases not only in IoT and Smart Factory, but also in financial and other non-IoT applications.</p>
                     <br />
                         <a href="#banner" class="btn btn-large">Watch Video</a>
                         <a href="#blog" class="btn btn-large">Learn More</a>
