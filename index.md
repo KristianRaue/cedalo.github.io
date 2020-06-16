@@ -78,14 +78,14 @@ layout: default
                 <div class="feature-content">
                     <span class="icon icon-bargraph"></span>
                     <h3>Powerful<br />Dashboards</h3>
-                    <p>We include extensive charting features including custom charts that update immediately with real-time data. No need to install third-party chart extensions.</p>
+                    <p>We include extensive charting features including custom charts that update immediately with real-time data. No need to install third-party chart extensions. Have a look at the charts gallery.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-refresh"></span>
                     <h3>On-Event<br />& Cyclic</h3>
-                    <p>Streamsheets calculate their formulas on each incoming stream event or based on a cycle timer. This controls how often a Streamsheet receives, processes, and sends data.</p>
+                    <p>Streamsheets calculate their formulas on each incoming stream event or based on a cycle timer. You can set the cycle timer to control how often a Sheet receives, processes and sends data.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
