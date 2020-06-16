@@ -22,7 +22,7 @@ layout: default
                         <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
                         <a href="#products" class="btn btn-large">Cedalo Cloud</a>
                         <a href="#download" class="btn btn-large">Download</a>
-                    <p>
+                    </p>
                 </div><!-- banner text -->
             </div>
             <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-12">
