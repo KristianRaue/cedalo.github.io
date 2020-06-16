@@ -16,7 +16,7 @@ title: Cedalo - Privacy Policy
 <!-- until here for nav menus to work smoothly  -->
             <div class="privacypolicy">
                 <div class="col-md-10 col-md-offset-1">
-                    <h2>Legal Notices</h2>
+                    <h1>Legal Notices</h1>
                     <p>&nbsp;</p>
                     <h3>Information in accordance with Section 5 TMG and<br />responsible for the content according to § 55 Abs. 2 RStV:</h3>
                     <p>cedalo AG<br>Schnewlinstr. 6<br>79098 Freiburg</p>
@@ -26,6 +26,7 @@ title: Cedalo - Privacy Policy
                     <p>Telephone: +49-7661-9045-350<br>Fax: +49-7661-9045-355<br>E-Mail: <a href="mailto:info@cedalo.com">info@cedalo.com</a><br>Web Site: <a href="www.cedalo.com" target="_blank">www.cedalo.com</a></p>
                     <h3>Register entry</h3>
                     <p>Entry in: Handelsregister<br>Register Number: HRB 716907<br>Register Court: Freiburg</p>
+                    <p>&nbsp;</p>
                     <h2>Disclaimer</h2>
                     <h3>Accountability for content</h3>
                     <p>The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents'
