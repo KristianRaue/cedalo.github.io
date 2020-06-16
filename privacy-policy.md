@@ -48,12 +48,12 @@ title: Cedalo - Privacy Policy
                     <h3>2. Name and Address of the controller</h3>
                     <p>Controller for the purposes of the General Data Protection Regulation (GDPR), other data protection laws applicable in Member states of the European Union and other provisions related to data protection is:</p>
                     <p>Cedalo AG<br />
-                    <p>St. Galler Str. 7<br />
-                    <p>79199 Kirchzarten<<br />
-                    <p>Deutschland</p>
+                    St. Galler Str. 7<br />
+                    79199 Kirchzarten<<br />
+                    Deutschland</p>
                     <p>Phone: (+49) 761 42963-250<br />
-                    <p>Email: info@cedalo.com<br />
-                    <p>Website: <a href="http://www.cedalo.com" rel="nofollow">http://www.cedalo.com</a></p>
+                    Email: info@cedalo.com<br />
+                    Website: <a href="http://www.cedalo.com" rel="nofollow">http://www.cedalo.com</a></p>
                     <h3>3. Cookies</h3>
                     <p>The Internet pages of the Cedalo AG use cookies. Cookies are text files that are stored in a computer system via an Internet browser.</p>
                     <p>Many Internet sites and servers use cookies. Many cookies contain a so-called cookie ID. A cookie ID is a unique identifier of the cookie. It consists of a character string through which Internet pages and servers can be assigned to the specific Internet browser in which the cookie was stored. This allows visited Internet sites and servers to differentiate the individual browser of the dats subject from other Internet browsers that contain other cookies. A specific Internet browser can be recognized and identified using the unique cookie ID.</p>
