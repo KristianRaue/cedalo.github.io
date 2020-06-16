@@ -15,7 +15,6 @@ layout: default
             <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-xs-12">
                 <div class="banner-text text-center">
                     <h1>Stream processing for everybody</h1>
-                    <p>Cedalo is the commercial sponsor of  two Open-Source projects:</p>
                     <p><b> Eclipse Streamsheets</b> - Anybody who knows how to use a spreadsheet can quickly build server-based, real-time applications, for any purpose. No programming required.</p>
                     <p><b>Eclipse Mosquitto</b> -  Devices and apps communicate in real-time, based the most popular broker technology in the world.</p>
                     <p>
