@@ -92,13 +92,13 @@ layout: default
                 <div class="feature-content">
                     <span class="icon icon-speedometer"></span>
                     <h3>Millisecond<br />Speed</h3>
-                    <p>Real-time event streams from technical or financial applications can have a very high frequencies. Streamsheets are able to run at a speed 1 millisecond per cycle to guarantee precise results.</p>
+                    <p>Real-time event streams from technical or financial applications can have a very high frequencies. Streamsheets are able to run 1000 up to cycles per second to guarantee precise results.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-browser"></span>
-                    <h3>Server-based<br />24/7</h3>
+                    <h3>Server-based<br />24/7 non-stop</h3>
                     <p>Streamsheets run on their own, even if you close the browser window. They run as microservices, 24 hours a day, receiving data from multiple sources, transforming it, and sending it out again.</p>
                 </div>
             </div>
