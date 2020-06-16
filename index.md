@@ -75,15 +75,10 @@ layout: default
 <section id="features" class="features section">
     <div class="container-flex" style="padding-left: 40px;padding-right: 40px;">
         <div class="row">
-            <div class="col-md-12 col-sm-12 feature">
-                <div class="">        
-                    <h1 class="section-header">Quick overview: An impressive feature set</h1>
-                </div>
-            </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <span class="icon icon-piechart"></span>
                 <div class="feature-content">
-                    <h3>Easily Customised</h3>
+                    <h3>Impressive Charts</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
                 </div>
             </div>
