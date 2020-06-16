@@ -427,7 +427,8 @@ background-color: #313454; }
   padding: 0 15px;
   margin-top: 30px; 
   min-height: 220px;
-  max-width: 320px }
+  max-width: 320px;
+  text-align: center; }
 
 .feature .icon {
   color: #ffffff;
@@ -435,6 +436,7 @@ background-color: #313454; }
 
 .features h1{
   padding-bottom: 20px;
+  padding-top: 20px
   color: #ffffff; }
 
 .feature h2, .feature h3, .feature h3, .feature h5, .feature ul, .feature li {
