@@ -25,7 +25,7 @@ layout: default
                 </div><!-- banner text -->
             </div>
             <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-12">
-                <div class="banner-chart text-center" style="margin-top:40px;margin-bottom:80px;">
+                <div class="banner-chart text-center">
                     <img  src="images/screenshot_orig.png" alt="">
                 </div><!-- banner text -->
             </div>

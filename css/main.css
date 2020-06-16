@@ -314,6 +314,12 @@ background-color: #313454; }
     line-height: 1.5;
     margin: 40px; }
 
+    .banner-chart {
+      margin-top:30px;
+      margin-bottom:80px;
+    }
+  
+
   .banner-chart:hover img {
     transform: translateX(-400px); 
     transition: all 0.5s}
