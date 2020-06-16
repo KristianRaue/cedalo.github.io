@@ -388,7 +388,10 @@ background-color: #313454; }
   padding-left: 0px;
   padding-top: 0px;
   padding-bottom: 10px;
+}
 
+.products-box h2 {
+  margin-top: 0px;
 }
 
 .products-chart {
