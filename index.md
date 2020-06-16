@@ -106,7 +106,7 @@ layout: default
                 <div class="feature-content">
                     <span class="icon icon-download"></span>
                     <h3>On-Premises<br />& Cloud</h3>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+                    <p>Both Mosquitto and Streamsheets are Eclipse IoT projects which are commercially sponsored by Cedalo. In additiom we offer premium editions of both products named Cedalo Sheets and Cedalo Broker.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
