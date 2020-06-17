@@ -106,6 +106,13 @@
     min-height: 360px;
   }
 
+  .banner .btn-large {
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px; }
+
   }
 
   @media screen and (max-width: 900px) {
@@ -114,13 +121,6 @@
       background-color: #eeeded;
       min-height: 400px;
     }
-
-    .banner .btn-large {
-      padding: 8px;
-      margin-top: 20px;
-      margin-left: 10px;
-      margin-right: 10px;
-      margin-bottom: 30px; }
   
   }
 
