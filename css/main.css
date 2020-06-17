@@ -449,8 +449,9 @@ background-color: #313454; }
 
 .features h3{
   padding-bottom: 0px;
-  padding-top: 20px
-  color: #ffffff; }
+  padding-top: 20px;
+  color: #ffffff;
+  line-height: 22px; }
 
 .feature h2, .feature h3, .feature h5, .feature ul, .feature li {
   color: #ffffff; }
