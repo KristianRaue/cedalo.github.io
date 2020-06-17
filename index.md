@@ -137,9 +137,9 @@ layout: default
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Dashboards and stream data charting</li>
+                        <li>Dashboards and charting</li>
                         <li>Condition monitoring and alerts</li>
-                        <li>Analytics, visualization, digital twin</li>
+                        <li>Analytics, simulation, digital twin</li>
                         <li>Protocol conversion (OPC UA ↔ MQTT ↔ KAFKA)</li>
                         </ul>
                     </div>
