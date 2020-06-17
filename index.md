@@ -145,19 +145,19 @@ layout: default
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
+             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
                 <div class="usecase-box">
                     <div class="overlay-caption">
-                        <h2>Financial Services</h2>
-                        <h5>Banking, Payments, Securities</h5>
+                        <h2>Smart Grids</h2>
+                        <h5>Oil & Gas, Electric Power</h5>
                     </div>
                     <div class="usecase-body">
-                        <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
+                       <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Fraud Detection</li>
-                        <li>Real-time Analytics</li>
-                        <li>Regulatory Compliance</li>
-                        <li>Customer Tracking </li>
+                        <li>Dashboards and Charting</li>
+                        <li>Condition Monitoring </li>
+                        <li>Analytics, Digital Twin</li>
+                        <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
                         </ul>
                     </div>
                 </div>
@@ -178,19 +178,19 @@ layout: default
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
+               <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
                 <div class="usecase-box">
                     <div class="overlay-caption">
-                        <h2>Smart Grids</h2>
-                        <h5>Oil & Gas, Electric Power</h5>
+                        <h2>Financial Services</h2>
+                        <h5>Banking, Payments, Securities</h5>
                     </div>
                     <div class="usecase-body">
-                       <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
+                        <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Dashboards and Charting</li>
-                        <li>Condition Monitoring </li>
-                        <li>Analytics, Digital Twin</li>
-                        <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
+                        <li>Fraud Detection</li>
+                        <li>Real-time Analytics</li>
+                        <li>Regulatory Compliance</li>
+                        <li>Customer Tracking </li>
                         </ul>
                     </div>
                 </div>
