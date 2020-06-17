@@ -182,7 +182,7 @@ layout: default
                 <div class="usecase-box">
                     <div class="overlay-caption">
                         <h2>Smart Grids</h2>
-                        <h5>Oil & Gas, Electric Power, Transportation</h5>
+                        <h5>Oil & Gas, Electric Power</h5>
                     </div>
                     <div class="usecase-body">
                        <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
