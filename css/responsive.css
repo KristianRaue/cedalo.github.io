@@ -130,7 +130,8 @@
   .banner-chart img {
     transform: translateX(0px); 
     transition: all 0.5s;
-    overflow: hidden;
+    width: 100%;
+    height: auto;
     }
 
   .banner-text {
