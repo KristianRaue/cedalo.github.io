@@ -154,13 +154,17 @@
   .footer .footer-col {
     margin-bottom: 50px; } 
   
+  .feature-content {
+    max-width: unset;
+  }
+
   .products-chart {
     height: unset;
     line-height: unset;
   }
 
   .products h1 {
-    font-size: 30px;
+    font-size: 34px;
   }
   
   .products-chart img {
