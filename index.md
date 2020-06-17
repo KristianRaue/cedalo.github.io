@@ -137,9 +137,10 @@ layout: default
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>no-code user interface</li>
-                        <li>universal bridge to industry protocols</li>
-                        <li>analytics, visualization, and automation</li>
+                        <li>Dashboards and Stream Charts</li>
+                        <li>Condition Monitoring and Alerts</li>
+                        <li>Analytics, Visualization, and Automation</li>
+                        <li>Protocol conversion (OPC UA ↔ MQTT ↔ KAFKA )
                         </ul>
                         <p>By combining these features in one application, we've solved a major problem for non-technical users who want code-free digital enterprise solutions.</p>
                     </div>
@@ -165,7 +166,7 @@ layout: default
             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
                 <div class="usecase-box">
                     <div class="overlay-caption">
-                        <h2>Stream Analytics</h2>
+                        <h2>Medical and Health</h2>
                         <h5>Streaming data everywhere.</h5>
                     </div>
                     <div class="usecase-body">
