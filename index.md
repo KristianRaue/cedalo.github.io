@@ -145,6 +145,22 @@ layout: default
                     </div>
                 </div>
             </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
+                <div class="usecase-box">
+                    <div class="overlay-caption">
+                        <h2>Medical Services</h2>
+                        <h5>Healthcare, Clinics, Pharmaceutical </h5>
+                    </div>
+                    <div class="usecase-body">
+                        <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
+                        <ul>
+                        <li>Real-Time Infection Control</li>
+                        <li>Utilization Monitoring</li>
+                        <li>Real-Time Asset Tracking</li>
+                        <li>Gateways (FHIR ↔ KAFKA ↔ MQTT)</li>                        </ul>
+                    </div>
+                </div>
+            </div>
              <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
                 <div class="usecase-box">
                     <div class="overlay-caption">
@@ -163,22 +179,6 @@ layout: default
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
-                <div class="usecase-box">
-                    <div class="overlay-caption">
-                        <h2>Medical Services</h2>
-                        <h5>Healthcare, Clinics, Pharmaceutical </h5>
-                    </div>
-                    <div class="usecase-body">
-                        <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
-                        <ul>
-                        <li>Real-Time Infection Control</li>
-                        <li>Utilization Monitoring</li>
-                        <li>Real-Time Asset Tracking</li>
-                        <li>Gateways (FHIR ↔ KAFKA ↔ MQTT)</li>                        </ul>
-                    </div>
-                </div>
-            </div>
-               <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
                 <div class="usecase-box">
                     <div class="overlay-caption">
                         <h2>Financial Services</h2>
