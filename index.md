@@ -219,11 +219,11 @@ layout: default
                         <h5>Streaming data everywhere.</h5>
                     </div>
                     <div class="usecase-body">
-                        <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
+                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Dashboards and Stream Charting</li>
-                        <li>Condition Monitoring and Alerts</li>
-                        <li>Analytics, Visualization, Digital Twin</li>
+                        <li>Dashboards and Charting</li>
+                        <li>Condition Monitoring </li>
+                        <li>Analytics, Digital Twin</li>
                         <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
                         </ul>
                     </div>
