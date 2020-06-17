@@ -183,11 +183,11 @@ layout: default
                         <h5>Oil & Gas, Electric Power</h5>
                     </div>
                     <div class="usecase-body">
-                       <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
+                       <p>With the rise of renewable energy sources, energy grids need to be reacting fast. Streamsheets and Mosquitto provide the necessary speed.</p>
                         <ul>
                         <li>Condition Monitoring </li>
                         <li>Dashboards and Charting</li>
-                        <li>Real-Time Asset Tracking</li>
+                        <li>Real-Time Pricing</li>
                         <li>Gateways for OPCUA/MQTT/KAFKA</li>
                         </ul>
                     </div>
