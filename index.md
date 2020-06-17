@@ -198,7 +198,7 @@ layout: default
             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
                 <div class="usecase-box">
                     <div class="overlay-caption">
-                        <h2>Retailers & Logistics</h2>
+                        <h2>Retail & Logistics</h2>
                         <h5>POS, eCommerce, Transportation</h5>
                     </div>
                     <div class="usecase-body">
