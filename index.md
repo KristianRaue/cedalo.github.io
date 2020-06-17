@@ -132,7 +132,7 @@ layout: default
                         <h5>Automotive, Energy, Aerospace</h5>
                     </div>
                     <div class="usecase-body">
-                        <p>Streamsheets can precisely monitor industrial processes. Mosquitto connects sensors, devices and machines to your Streamsheet. You build your individual IoT applications interactively while the data flows in.
+                        <p>Streamsheets can precisely monitor industrial processes. Mosquitto connects sensors, devices and machines to your Streamsheet. You build your individual IoT applications interactively while the data flows in.</p>
                         <ul>
                         <li>Dashboards and Charting</li>
                         <li>Condition Monitoring</li>
