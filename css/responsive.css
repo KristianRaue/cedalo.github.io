@@ -206,6 +206,7 @@
   .feature-content {
     max-width: unset;
     min-height: unset;
+    margin-bottom: 20px;
   }
 
   .products-chart {
