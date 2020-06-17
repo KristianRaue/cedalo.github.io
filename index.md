@@ -172,17 +172,16 @@ layout: default
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
                         <li>Real-time infection control</li>
-                        <li>Protocol conversion (HL7/FHIR ↔ MQTT ↔ KAFKA)</li>
-                        <li>Real-time asset monitoring</li>
                         <li>Utilization monitoring and alerts</li>
-                        </ul>
+                        <li>Real-time asset monitoring</li>
+                        <li>Protocol conversion (FHIR ↔ KAFKA ↔ MQTT)</li>                        </ul>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
                 <div class="usecase-box">
                     <div class="overlay-caption">
-                        <h2>Smart Grids & Logistics</h2>
+                        <h2>Smart Grids</h2>
                         <h5>Oil & Gas, Electric Power, Transportation</h5>
                     </div>
                     <div class="usecase-body">
@@ -199,8 +198,8 @@ layout: default
             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
                 <div class="usecase-box">
                     <div class="overlay-caption">
-                        <h2>Stream Charts</h2>
-                        <h5>Streaming data everywhere.</h5>
+                        <h2>Retailers & Logitics</h2>
+                        <h5>POS, eCommerce, Transportation</h5>
                     </div>
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
