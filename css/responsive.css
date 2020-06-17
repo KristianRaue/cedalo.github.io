@@ -5,6 +5,10 @@
     min-height: 400px;
   }
 
+  .feature-content {
+    min-height: 300px;
+  }
+
 }
 
 @media screen and (max-width: 1200px) {
@@ -183,6 +187,7 @@
   
   .feature-content {
     max-width: unset;
+    min-height: unset;
   }
 
   .products-chart {
