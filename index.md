@@ -132,7 +132,7 @@ layout: default
                         <h5>Automotive, Energy, Aerospace</h5>
                     </div>
                     <div class="usecase-body">
-                        <p>Streamsheets can precisely monitor industrial processes. Mosquitto connects sensors, devices and machines. You build your individual IIoT applications interactively while the data flows in.</p>
+                        <p>Streamsheets precisely monitor and analyse industrial processes. Build your individual IIoT applications interactively while the data flows in.</p>
                         <ul>
                         <li>Dashboards and Charting</li>
                         <li>Condition Monitoring</li>
@@ -149,7 +149,7 @@ layout: default
                         <h5>Banking, Payments, Securities</h5>
                     </div>
                     <div class="usecase-body">
-                        <p>Analyze financial transactions in real-time. Aggregate, compare, search for anomalies and send alerts in real-time as they happen.</p>
+                        <p>Analyze financial transactions in real-time. Aggregate, compare, search for anomalies and send alerts in real-time as conditions arise.</p>
                         <ul>
                         <li>Fraud Detection</li>
                         <li>Real-time Analytics</li>
