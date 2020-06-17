@@ -149,7 +149,7 @@ layout: default
                         <h5>Banking, Payments, Securities</h5>
                     </div>
                     <div class="usecase-body">
-                        <p>Analyze financial transactions in real-time. Aggregate, compare, search for anomalies and send alerts in real-time as they happen. Build your individual logic just using spreadsheet formulas. </p>
+                        <p>Analyze financial transactions in real-time. Aggregate, compare, search for anomalies and send alerts in real-time as they happen.</p>
                         <ul>
                         <li>Fraud Detection</li>
                         <li>Real-time Analytics</li>
@@ -166,7 +166,7 @@ layout: default
                         <h5>Healthcare, Clinics, Pharmaceutical </h5>
                     </div>
                     <div class="usecase-body">
-                        <p>Real-time information in clinics are crucial for efficient treatment. Mosquitto and Streamsheets continuously collect data from legacy systems, provide event-driven dashboards and let you implement automated processes.</p>
+                        <p>Real-time information is crucial for efficient treatment. Combine data from medical sub-systems and create event-driven dashboards & processes.</p>
                         <ul>
                         <li>Real-Time Infection Control</li>
                         <li>Utilization Monitoring</li>
