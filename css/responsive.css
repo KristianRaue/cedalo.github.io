@@ -129,7 +129,9 @@
   
   .banner-chart img {
     transform: translateX(0px); 
-    transition: all 0.5s}
+    transition: all 0.5s;
+    overflow: hidden;
+    }
 
   .banner-text {
     padding-top: 10%; }
