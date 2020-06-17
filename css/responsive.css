@@ -222,6 +222,13 @@
     padding-right: 5px;
   }
 
+  .banner .btn-large {
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-bottom: 30px; }
+
 }
 
 @media screen and (max-width: 640px) {
