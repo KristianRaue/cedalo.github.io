@@ -204,10 +204,10 @@ layout: default
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Dashboards and Charting</li>
-                        <li>Condition Monitoring </li>
-                        <li>Analytics, Digital Twin</li>
-                        <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
+                        <li>Real-Time Offers</li>
+                        <li>Fraud Detection</li>
+                        <li>Real-time Inventory</li>
+                        <li>Vehicle Tracking</li>
                         </ul>
                     </div>
                 </div>
