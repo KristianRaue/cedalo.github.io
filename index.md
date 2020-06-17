@@ -33,11 +33,11 @@ layout: default
     </div>
 </section><!-- banner -->
 <section id="products" class="products section">
-    <div class="container-fluid" style="padding-left: 40px;padding-right: 40px;">
+    <div class="container-fluid" style="padding-left: 40px;padding-right: 40px;padding-top:20px">
         <div class="row no-padding">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">  
                 <div class="products-box">
-                    <h2>Eclipse Streamsheets</h2>
+                    <h1>Eclipse Streamsheets</h1>
                     <p>Our no-code user interface is the all-familiar spreadsheet. But that’s all what Streamsheets have in common with traditional spreadsheets.</p>
                     <p>While spreadsheets are client apps which work with bound and de-coupled batches of data, Streamsheets continuously process, aggregate, visualize and transform unbound data streams in real-time as a server app (microservice).</p>
                     <p>Streamsheets were designed with publish/subcribe streaming protocols like MQTT, Apache Kafka or AMQP in mind, but they also work perfectly with REST-based protocols (request/response)</p>
@@ -47,7 +47,7 @@ layout: default
                     </p>
                 </div>
                 <div class="products-box">
-                    <h2>Eclipse Mosquitto</h2>
+                    <h1>Eclipse Mosquitto</h1>
                     <p>Eclipse Mosquitto is the most popular MQTT broker in the world and the perfect streaming platform for Streamsheets. Mosquitto supports unlimited hierarchical topics and the highly flexible publish/subscribe communication pattern.</p> 
                     <p>With the Mosquitto broker you can connect sensors, devices and apps far more flexible than in the request/response communication pattern of traditional client/server architectures.</p>
                     <p>Eclipse Mosquitto supports guaranteed delivery of messages which allows use cases not only in IoT and Smart Factory, but also in financial and other non-IoT applications.</p>
