@@ -131,7 +131,7 @@ layout: default
             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
                 <div class="usecase-box">
                     <div class="overlay-caption">
-                        <h2>Smart Factory & IIoT</h2>
+                        <h2>Smart Factory</h2>
                         <h5>Automotive, Energy, Aerospace</h5>
                     </div>
                     <div class="usecase-body">
