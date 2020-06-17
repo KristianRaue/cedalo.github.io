@@ -74,7 +74,7 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-bargraph"></span>
-                    <h3>Powerful<br />Dashboards</h3>
+                    <h3>Powerful<br />Charts</h3>
                     <p>We include extensive charting features including custom charts that update immediately with real-time data. No need to install third-party chart extensions. Have a look at the charts gallery.</p>
                 </div>
             </div>
