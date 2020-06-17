@@ -132,7 +132,7 @@ layout: default
                         <h5>Automotive, Energy, Aerospace</h5>
                     </div>
                     <div class="usecase-body">
-                        <p>Streamsheets can precisely monitor industrial processes by connecting to sensors, devices and machines. While the data comes in, you can start to interactively build your individual IoT applications.</p>
+                        <p>Streamsheets can precisely monitor industrial processes. Mosquitto connects sensors, devices and machines to your Streamsheet. You build your individual IoT applications interactively while the data flows in.
                         <ul>
                         <li>Dashboards and Charting</li>
                         <li>Condition Monitoring</li>
@@ -149,7 +149,7 @@ layout: default
                         <h5>Banking, Payments, Securities</h5>
                     </div>
                     <div class="usecase-body">
-                        <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
+                        <p>Streamsheets and Mosquitto </p>
                         <ul>
                         <li>Fraud Detection</li>
                         <li>Real-time Analytics</li>
