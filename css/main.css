@@ -324,11 +324,11 @@ background-color: #313454; }
 
   .banner-chart:hover img {
     transform: translateX(-400px); 
-    transition: all 1s;}
+    transition: all 2s;}
   
   .banner-chart img {
     transform: translateX(0px); 
-    transition: all 1s;}
+    transition: all 2s;}
 
 /* ==========================================================================
 	$Intro (später interessant für weitere Seiten)
