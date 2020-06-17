@@ -137,7 +137,7 @@ layout: default
                         <li>Dashboards and Charting</li>
                         <li>Condition Monitoring</li>
                         <li>Analytics, Digital Twin</li>
-                        <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
+                        <li>Gateways for OPCUA/MQTT/KAFKA</li>
                         </ul>
                     </div>
                 </div>
@@ -171,7 +171,8 @@ layout: default
                         <li>Real-Time Infection Control</li>
                         <li>Utilization Monitoring</li>
                         <li>Real-Time Asset Tracking</li>
-                        <li>Gateways (FHIR ↔ KAFKA ↔ MQTT)</li>                        </ul>
+                        <li>Gateways for MQTT/FHIR/KAFKA)</li>                        
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -187,7 +188,7 @@ layout: default
                         <li>Condition Monitoring </li>
                         <li>Dashboards and Charting</li>
                         <li>Real-Time Asset Tracking</li>
-                        <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
+                        <li>Gateways for OPCUA/MQTT/KAFKA</li>
                         </ul>
                     </div>
                 </div>
@@ -212,16 +213,16 @@ layout: default
             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
                 <div class="usecase-box">
                     <div class="overlay-caption">
-                        <h2>Stream Gateways</h2>
-                        <h5>Streaming data everywhere.</h5>
+                        <h2>Smart Building</h2>
+                        <h5>Offices, Facilities, Hotels</h5>
                     </div>
                     <div class="usecase-body">
                          <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Dashboards and Charting</li>
-                        <li>Condition Monitoring </li>
-                        <li>Analytics, Digital Twin</li>
-                        <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
+                        <li>Automation & Control</li>
+                        <li>Predictive Maintenance</li>
+                        <li>Real-Time Asset Tracking</li>
+                        <li>Gateways for BACnet/MQTT/KAFKA</li>
                         </ul>
                     </div>
                 </div>
