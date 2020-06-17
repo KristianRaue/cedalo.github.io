@@ -158,6 +158,10 @@
     height: unset;
     line-height: unset;
   }
+
+  .products h1 {
+    font-size: 30px;
+  }
   
   .products-chart img {
     vertical-align: unset;
