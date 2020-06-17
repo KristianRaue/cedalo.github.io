@@ -166,7 +166,7 @@ layout: default
                         <h5>Healthcare, Clinics, Pharmaceutical </h5>
                     </div>
                     <div class="usecase-body">
-                        <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
+                        <p>Real-time information in clinics are crucial for efficient treatment. Mosquitto and Streamsheets continuously collect data from legacy systems, provide event-driven dashboards and let you implement automated processes.</p>
                         <ul>
                         <li>Real-Time Infection Control</li>
                         <li>Utilization Monitoring</li>
