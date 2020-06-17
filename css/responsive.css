@@ -143,7 +143,9 @@
     .banner-text h1 {
       font-size: 42px; }
     .banner-text p {
-      font-size: 18px; }
+      font-size: 18px;
+      margin: 30px;
+    }
 
   .flexslider {
     padding-bottom: 80px; }
@@ -173,6 +175,10 @@
 
   .usecase-body {
     opacity: 1;
+  }
+
+  .usecase-box {
+    min-height: unset;
   }
   
   .usecase .overlay-caption {
