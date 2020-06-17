@@ -229,11 +229,16 @@
     padding-top: 10%; } 
   
   .banner .btn-large {
-    padding: 0px;
-    margin-top: 10px;
-    margin-left: 0px;
-    margin-right: 0px;
+    padding: 4px;
+    margin-top: 20px;
+    margin-left: 2px;
+    margin-right: 2px;
     margin-bottom: 30px; }
+
+  .banner-text p {
+      font-size: 18px;
+      margin: 24px;
+    }
   
   }
 @media screen and (max-width: 480px) {
