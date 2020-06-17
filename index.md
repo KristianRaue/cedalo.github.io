@@ -149,7 +149,7 @@ layout: default
                         <h5>Banking, Payments, Securities</h5>
                     </div>
                     <div class="usecase-body">
-                        <p>Streamsheets and Mosquitto </p>
+                        <p>Analyze financial transactions in real-time. Aggregate, compare, search for anomalies and send alerts and notifications in real-time as they happen. Build your individual logic just using spreadsheet formulas. </p>
                         <ul>
                         <li>Fraud Detection</li>
                         <li>Real-time Analytics</li>
