@@ -35,6 +35,11 @@
     margin-bottom: 5px;
   }
 
+  .feature-content {
+    min-height: 360px;
+  }
+
+
 }
 
 
