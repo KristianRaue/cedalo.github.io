@@ -263,8 +263,6 @@
   .banner-chart img {
     transform: translateX(0px); 
     transition: all 0.5s}
-  .banner-text {
-    padding-top: 10%; } 
   
   .banner .btn-large {
     padding: 4px;
@@ -288,10 +286,11 @@
   .banner-chart img {
     transform: translateX(0px); 
     transition: all 0.5s}
-  .banner-text {
-    padding-top: 10%; }
-    .banner-text h1 {
-      font-size: 32px; } }
+  
+  .banner-text h1 {
+    font-size: 32px; } 
+  }
+
 @media screen and (max-width: 320px) {
   .banner-chart:hover img {
     transform: translateX(0px); 
