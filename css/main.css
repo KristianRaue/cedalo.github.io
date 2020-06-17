@@ -31,7 +31,8 @@ h5 {
   font-size: 14px;
   color: #313454;
   text-transform: uppercase;
-  font-weight: 700; }
+  font-weight: 700; 
+  line-height: 16px;}
 
 .btn {
   background-color: #e84545;
