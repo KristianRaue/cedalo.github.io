@@ -190,7 +190,7 @@ layout: default
                         <li>Dashboards and Stream Charting</li>
                         <li>Condition Monitoring and Alerts</li>
                         <li>Analytics, Visualization, Digital Twin</li>
-                        <li>Protocol conversion (OPC UA ↔ MQTT ↔ KAFKA)</li>
+                        <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
                         </ul>
                     </div>
                 </div>
@@ -207,7 +207,7 @@ layout: default
                         <li>Dashboards and Stream Charting</li>
                         <li>Condition Monitoring and Alerts</li>
                         <li>Analytics, Visualization, Digital Twin</li>
-                        <li>Protocol conversion (OPC UA ↔ MQTT ↔ KAFKA)</li>
+                        <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
                         </ul>
                     </div>
                 </div>
@@ -224,7 +224,7 @@ layout: default
                         <li>Dashboards and Stream Charting</li>
                         <li>Condition Monitoring and Alerts</li>
                         <li>Analytics, Visualization, Digital Twin</li>
-                        <li>Protocol conversion (OPC UA ↔ MQTT ↔ KAFKA)</li>
+                        <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
                         </ul>
                     </div>
                 </div>
