@@ -139,10 +139,9 @@ layout: default
                         <ul>
                         <li>Dashboards and Stream Charting</li>
                         <li>Condition Monitoring and Alerts</li>
-                        <li>Analytics, Visualization, and Automation</li>
+                        <li>Analytics, Visualization, Digital Twin</li>
                         <li>Protocol conversion (OPC UA ↔ MQTT ↔ KAFKA )</li>
                         </ul>
-                        <p>By combining these features in one application, we've solved a major problem for non-technical users who want code-free digital enterprise solutions.</p>
                     </div>
                 </div>
             </div>
