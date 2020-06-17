@@ -134,6 +134,10 @@
     height: auto;
     }
 
+  .banner-chart {
+    margin-top:0px;
+  }
+
   .banner-text {
     padding-top: 10%; }
     .banner-text h1 {
