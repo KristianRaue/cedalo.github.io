@@ -122,7 +122,7 @@ layout: default
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 usecase-intro">  
                 <div>
-                    <h1 class="section-header">A wide variety of use cases for many industries</h1>
+                    <h1 class="section-header">Typical use cases in selected industries</h1>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
