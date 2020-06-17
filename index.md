@@ -137,9 +137,9 @@ layout: default
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Dashboards and charting</li>
-                        <li>Condition monitoring and alerts</li>
-                        <li>Analytics, simulation, digital twin</li>
+                        <li>Dashboards and Charting</li>
+                        <li>Condition Monitoring</li>
+                        <li>Analytics, Digital Twin</li>
                         <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
                         </ul>
                     </div>
@@ -154,10 +154,10 @@ layout: default
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Fraud detection</li>
-                        <li>Real-time analytics</li>
-                        <li>Regulatory compliance</li>
-                        <li>Customer tracking </li>
+                        <li>Fraud Detection</li>
+                        <li>Real-time Analytics</li>
+                        <li>Regulatory Compliance</li>
+                        <li>Customer Tracking </li>
                         </ul>
                     </div>
                 </div>
@@ -171,9 +171,9 @@ layout: default
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Real-time infection control</li>
-                        <li>Utilization monitoring and alerts</li>
-                        <li>Real-time asset monitoring</li>
+                        <li>Real-Time Infection Control</li>
+                        <li>Utilization Monitoring</li>
+                        <li>Real-Time Asset Tracking</li>
                         <li>Gateways (FHIR ↔ KAFKA ↔ MQTT)</li>                        </ul>
                     </div>
                 </div>
@@ -187,9 +187,9 @@ layout: default
                     <div class="usecase-body">
                        <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Dashboards and Stream Charting</li>
-                        <li>Condition Monitoring and Alerts</li>
-                        <li>Analytics, Visualization, Digital Twin</li>
+                        <li>Dashboards and Charting</li>
+                        <li>Condition Monitoring </li>
+                        <li>Analytics, Digital Twin</li>
                         <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
                         </ul>
                     </div>
@@ -204,9 +204,9 @@ layout: default
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Dashboards and Stream Charting</li>
-                        <li>Condition Monitoring and Alerts</li>
-                        <li>Analytics, Visualization, Digital Twin</li>
+                        <li>Dashboards and Charting</li>
+                        <li>Condition Monitoring </li>
+                        <li>Analytics, Digital Twin</li>
                         <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
                         </ul>
                     </div>
