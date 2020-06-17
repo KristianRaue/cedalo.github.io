@@ -35,11 +35,6 @@ layout: default
 <section id="products" class="products section">
     <div class="container-fluid" style="padding-left: 40px;padding-right: 40px;">
         <div class="row no-padding">
-            <div class="col-lg-12 col-md-12 col-sm-12 products-intro">  
-                <div>
-                    <h1 class="section-header">The democratization of stream processing solutions</h1>
-                </div>
-            </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">  
                 <div class="products-box">
                     <h2>Eclipse Streamsheets</h2>
