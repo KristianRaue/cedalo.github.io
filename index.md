@@ -98,7 +98,7 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-browser"></span>
-                    <h3>Server-based<br />24/7 non-stop</h3>
+                    <h3>Server-based<br />24/7 - non-stop</h3>
                     <p>Streamsheets run on their own, even if you close the browser window. They run as microservices, 24 hours a day, receiving data from multiple sources, transforming it, and sending it out again.</p>
                 </div>
             </div>
@@ -131,8 +131,8 @@ layout: default
             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
                 <div class="usecase-box">
                     <div class="overlay-caption">
-                        <h2>Smart Factory</h2>
-                        <h5>Streaming data everywhere.</h5>
+                        <h2>Smart Factory & IIoT</h2>
+                        <h5>Automotive, Power, Oil & Gas, Aerospace, Transportation</h5>
                     </div>
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
