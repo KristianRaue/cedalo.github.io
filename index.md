@@ -140,7 +140,7 @@ layout: default
                         <li>Dashboards and charting</li>
                         <li>Condition monitoring and alerts</li>
                         <li>Analytics, simulation, digital twin</li>
-                        <li>Protocol conversion (OPC UA ↔ MQTT ↔ KAFKA)</li>
+                        <li>Gateways (OPC UA ↔ MQTT ↔ KAFKA)</li>
                         </ul>
                     </div>
                 </div>
@@ -174,7 +174,7 @@ layout: default
                         <li>Real-time infection control</li>
                         <li>Utilization monitoring and alerts</li>
                         <li>Real-time asset monitoring</li>
-                        <li>Protocol conversion (FHIR ↔ KAFKA ↔ MQTT)</li>                        </ul>
+                        <li>Gateways (FHIR ↔ KAFKA ↔ MQTT)</li>                        </ul>
                     </div>
                 </div>
             </div>
