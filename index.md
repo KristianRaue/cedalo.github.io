@@ -137,9 +137,9 @@ layout: default
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Dashboards and Stream Charting</li>
-                        <li>Condition Monitoring and Alerts</li>
-                        <li>Analytics, Visualization, Digital Twin</li>
+                        <li>Dashboards and stream data charting</li>
+                        <li>Condition monitoring and alerts</li>
+                        <li>Analytics, visualization, digital twin</li>
                         <li>Protocol conversion (OPC UA ↔ MQTT ↔ KAFKA)</li>
                         </ul>
                     </div>
@@ -154,8 +154,8 @@ layout: default
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Real-time Analytics</li>
-                        <li>Fraud Detection</li>
+                        <li>Fraud detection</li>
+                        <li>Real-time analytics</li>
                         <li>Regulatory compliance</li>
                         <li>Customer tracking </li>
                         </ul>
@@ -171,10 +171,10 @@ layout: default
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
                         <ul>
-                        <li>Dashboards and Stream Charting</li>
-                        <li>Condition Monitoring and Alerts</li>
-                        <li>Analytics, Visualization, Digital Twin</li>
-                        <li>Protocol conversion (OPC UA ↔ MQTT ↔ KAFKA)</li>
+                        <li>Real-time infection control</li>
+                        <li>Protocol conversion (HL7/FHIR ↔ MQTT ↔ KAFKA)</li>
+                        <li>Real-time asset monitoring</li>
+                        <li>Utilization monitoring and alerts</li>
                         </ul>
                     </div>
                 </div>
