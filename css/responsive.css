@@ -10,6 +10,10 @@
   }
 }
 
+.usecase-box {
+  background-color: #eeeded;
+  min-height: 400px;
+
 @media screen and (max-width: 992px) {
 
   #header .header-content {
@@ -78,7 +82,7 @@
   
   .usecase-box {
     background-color: #eeeded;
-    min-height: 400px;
+    min-height: 420px;
   }
 
   }
