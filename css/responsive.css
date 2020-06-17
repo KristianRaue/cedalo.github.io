@@ -218,7 +218,15 @@
     transform: translateX(0px); 
     transition: all 0.5s}
   .banner-text {
-    padding-top: 10%; } }
+    padding-top: 10%; } 
+  
+  .banner btn-large {
+    margin-top: 10px;
+    margin-left: 3px;
+    margin right: 3px;
+    margin-bottom: 30px; }
+  
+  }
 @media screen and (max-width: 480px) {
   .banner-chart:hover img {
     transform: translateX(0px); 
