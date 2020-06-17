@@ -91,7 +91,7 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
                     <span class="icon icon-speedometer"></span>
-                    <h3>Millisecond<br />Speed</h3>
+                    <h3>Milliseconds<br />Automation</h3>
                     <p>Real-time event streams from technical or financial applications can have a very high frequencies. Streamsheets are able to run 1000 up to cycles per second to guarantee precise results.</p>
                 </div>
             </div>
