@@ -132,7 +132,7 @@ layout: default
                 <div class="usecase-box">
                     <div class="overlay-caption">
                         <h2>Smart Factory & IIoT</h2>
-                        <h5>Automotive, Power, Oil & Gas, Aerospace, Transportation</h5>
+                        <h5>Automotive, Energy, Aerospace, Transportation</h5>
                     </div>
                     <div class="usecase-body">
                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
