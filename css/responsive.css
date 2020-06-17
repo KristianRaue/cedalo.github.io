@@ -95,10 +95,20 @@
   
   .usecase-box {
     background-color: #eeeded;
-    min-height: 400px;
+    min-height: 360px;
   }
 
   }
+
+  @media screen and (max-width: 850px) {
+    
+    .usecase-box {
+      background-color: #eeeded;
+      min-height: 400px;
+    }
+  
+  }
+
 @media screen and (max-width: 768px) {
 
   .footer-center, .footer-right, .footer-left {
