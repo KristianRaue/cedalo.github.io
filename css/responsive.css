@@ -229,9 +229,10 @@
     padding-top: 10%; } 
   
   .banner .btn-large {
+    padding: 0px;
     margin-top: 10px;
-    margin-left: 3px;
-    margin-right: 3px;
+    margin-left: 0px;
+    margin-right: 0px;
     margin-bottom: 30px; }
   
   }
