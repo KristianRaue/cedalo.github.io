@@ -103,7 +103,7 @@ layout: default
                 <div class="feature-content">
                     <span class="icon icon-streetsign"></span>
                     <h3>Open-Source<br /> & Premium</h3>
-                    <p>Both Mosquitto and Streamsheets are Eclipse IoT open-source projects which are commercially sponsored by Cedalo. We also offer premium editions of both products named Cedalo Sheets and Cedalo Broker.</p>
+                    <p>Both Mosquitto and Streamsheets are Eclipse IoT open-source projects which are commercially sponsored by Cedalo. We also offer premium editions of the products under the name "Cedalo Premium Platform"</p>
                 </div>
             </div>
              <div class="col-md-4 col-sm-6 feature text-center">
