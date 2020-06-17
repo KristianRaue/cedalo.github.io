@@ -76,11 +76,6 @@
     margin-bottom:80px;
   }
 
-  .usecase-box {
-    background-color: #eeeded;
-    min-height: 440px;
-  }
-
   }
 @media screen and (max-width: 768px) {
 
@@ -138,7 +133,11 @@
   .products-chart img {
     vertical-align: unset;
   }
-  
+
+  .usecase-box {
+    background-color: #eeeded;
+    min-height: 440px;
+  }
 }
 
 @media screen and (max-width: 640px) {
