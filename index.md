@@ -272,11 +272,11 @@ layout: default
     <div class="container-flex">
         
             <div class="row">
-{% for post in site.posts %}
+                {% for post in site.posts %}
                     <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
                         <img src="images/team-4.jpg" alt="" class="img-responsive">
                     </div>
-{% endfor %}
+                {% endfor %}
             </div>
         
     </div>
