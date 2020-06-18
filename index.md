@@ -269,7 +269,7 @@ layout: default
 </section><!-- download -->
 
 <section id="chartgallery" class="section"><!-- Chart Gallery -->
-    <div class="container text-center">
+    <div class="container-flex text-center"  style="padding-left: 40px;padding-right: 40px;" >
             <h1>Chart Gallery</h1>
             <div class="row">
                 {% for chartnum in (10..11)  %}
