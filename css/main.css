@@ -752,6 +752,7 @@ background-color: #313454; }
     margin-bottom: 30px; 
     padding-left: 10px;
     padding-right: 10px;
+    max-width:300px;
     }
 
     .downloadpage h1 {
