@@ -270,6 +270,7 @@ layout: default
 
 <section id="chartgallery" class="section"><!-- Chart Gallery -->
     <div class="container-fluid">
+        {{site.categories}}
         {% for category in site.categories %}
             <h3>{{ category[0] }}</h3>
             <div class="row">
