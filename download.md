@@ -19,7 +19,7 @@ title: Cedalo - Download
                 <div class="col-md-10 col-md-offset-1 text-center download-intro">
                     <p>Click on the download page of your choice and follow the intructions for your operating system.<br /><br /></p>
                     <p>The Open-Source projects Eclipse Streamsheets and Eclipse Mosquitto are included in the <b>Community Platform</b>.<br />
-                    <a href="#" class="btn btn-large" style="margin:20px;width:300px">Download Community Platform</a></p>
+                    <a href="https://docs.cedalo.com/installation.html" class="btn btn-large" style="margin:20px;width:300px">Download Community Platform</a></p>
                     <p>The premiums editions Cedalo Sheets and Cedalo Broker are included in the <b>Premium Platform</b>.<br />
                     <a href="#" class="btn btn-large" style="margin:20px;width:300px">Download Premium Platform</a></p>
                 </div> 
