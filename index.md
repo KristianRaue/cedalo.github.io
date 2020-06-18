@@ -272,9 +272,9 @@ layout: default
     <div class="container text-center">
             <h1>Chart Gallery</h1>
             <div class="row">
-                {% for post in site.categories["chartgallery"] %}
+                {% for chartnum in (10..11)  %}
                     <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                        <img src="assets/images/chartgallery/{{ post.imgfile }}" alt="" class="img-responsive">
+                        <img src="assets/images/chartgallery/images{{ chartnun }}" alt="" class="img-responsive">
                     </div>
                 {% endfor %}
             </div>
