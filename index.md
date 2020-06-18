@@ -110,7 +110,7 @@ layout: default
                 <div class="feature-content">
                     <span class="icon icon-download"></span>
                     <h3>On-Premises<br />& Cloud</h3>
-                    <p>Our products run  as managed service in the Cedalo Cloud, on your AWS or Azure account or on-premises under any major operating system. They even run on edge devices with weak CPUs or on the Raspberry Pi.</p>
+                    <p>Our products run as managed service in the Cedalo Cloud, on your AWS or Azure account or on-premises under any major operating system. They even run on edge devices with weak CPUs or on the Raspberry Pi.</p>
                 </div>
             </div>
         </div>
@@ -273,7 +273,7 @@ layout: default
                 <span class="icon icon-gears"></span>
                 <div class="download-content">
                     <h2>Edge Devices</h2>
-                    <p>Both platform products are very efficient with CPU power and memory consumption. So you can run them directlyy on edge devices, controllers or even on the Raspberry Pi.</p>
+                    <p>Both platform products are very efficient with CPU power and memory consumption. So you can run them directly on edge devices, controllers or the Raspberry Pi.</p>
                     <p><a href="download.html" class="btn btn-large">Download Page</a></p>
                 </div>
             </div>
