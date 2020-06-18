@@ -32,7 +32,7 @@ title: Cedalo - Download
 <section id="products" class="products section">
     <div class="container-fluid" style="padding-left: 40px;padding-right: 40px;padding-top:20px">
         <div class="row no-padding">
-            <div class="col-lg-8 col-md-10 col-sm-12 col-xs-12">  
+            <div class="col-lg-8 col-md-10 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-1">  
                 <div class="products-box text-center">
                     <h1>Overview of the Feature Set</h1>
                     <p>&nbsp;</p>
