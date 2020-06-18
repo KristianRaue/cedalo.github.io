@@ -283,7 +283,7 @@ layout: default
 
 <section id="blog" class="section teams">
     <div class="container-flex" style="padding-left: 40px;padding-right: 40px;">
-        <div class="row">
+        <div class="row text-center">
             <div class="col-md-12 col-sm-12">
                 <div class="person-intro">
                     <h1 class="section-header">Visit our blog for more use cases</h1>
