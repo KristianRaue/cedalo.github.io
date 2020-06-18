@@ -22,7 +22,6 @@ title: Cedalo - Download
                     <p>Click on the download page of your choice and follow the intructions for your operating system.</p>
                     <p><a href="#" class="btn btn-large" style="width:340px" >Download Community Platform</a></p>
                     <p><a href="#" class="btn btn-large" style="width:340px">Download Premium Platform</a></p>
-                    <p><a href="#" class="btn btn-large" style="width:340px">Sign up for Cedalo Cloud</a></p>
                 </div>
             </div>
 
