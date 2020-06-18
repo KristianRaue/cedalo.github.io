@@ -43,8 +43,8 @@ layout: default
                     <p>While spreadsheets are client apps which work with bound and de-coupled batches of data, Streamsheets continuously process, aggregate, visualize and transform unbound data streams in real-time as a server app (microservice).</p>
                     <p>Streamsheets were designed with publish/subcribe streaming protocols like MQTT, Apache Kafka or AMQP in mind, but they also work perfectly with REST-based protocols (request/response)</p>
                     <p class="text-center">
-                        <a href="#banner" class="btn btn-large">Watch Video</a>
-                        <a href="#blog" class="btn btn-large">Learn More</a>
+                        <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
+                        <a href="#featues" class="btn btn-large">Learn More</a>
                     </p>
                 </div>
                 <div class="products-box">
@@ -54,8 +54,8 @@ layout: default
                     <p>With the Mosquitto broker you can connect sensors, devices and apps far more flexible than in the request/response communication pattern of traditional client/server architectures.</p>
                     <p>Eclipse Mosquitto supports guaranteed delivery of messages which allows use cases not only in IoT and Smart Factory, but also in financial and other non-IoT applications.</p>
                     <p class="text-center">
-                        <a href="#banner" class="btn btn-large">Watch Video</a>
-                        <a href="#blog" class="btn btn-large">Learn More</a>
+                        <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
+                        <a href="#featues" class="btn btn-large">Learn More</a>
                     </p>
                 </div>
             </div>
@@ -75,7 +75,7 @@ layout: default
                 <div class="feature-content">
                     <span class="icon icon-bargraph"></span>
                     <h3>Powerful<br />Charts</h3>
-                    <p>We include extensive charting features including custom charts that update immediately with real-time data. No need to install third-party chart extensions. Have a look at the charts gallery.</p>
+                    <p>We include extensive charting features including custom charts that update immediately with real-time data. No need to install third-party chart extensions. Have a look at our chart gallery.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
