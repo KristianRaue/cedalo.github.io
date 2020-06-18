@@ -17,11 +17,11 @@ title: Cedalo - Download
             <div class="download">
                 <h1 class="section-header">Download the Cedalo Platform</h1>
                 <div class="col-md-10 col-md-offset-1 text-center download-intro">
-                    <p>Click on the download page of your choice and follow the intructions for your operating system.<br /></p>
-                    <p>The Open-Source projects <b>Eclipse Streamsheets</b> and <b>Eclipse Mosquitto</b> are included in the <b>Cedalo Community Platform</b>.<br />
-                    <a href="#" class="btn btn-large" style="width:300px">Download Community Platform</a></p>
-                    <p>The premiums editions <b>Cedalo Sheets</b> and <b>Cedalo Broker</b> are included in the <b>Cedalo Premium Platform</b>.<br />
-                    <a href="#" class="btn btn-large" style="width:300px">Download Premium Platform</a></p>
+                    <p>Click on the download page of your choice and follow the intructions for your operating system.<br /><br /></p>
+                    <p>The Open-Source projects Eclipse Streamsheets and Eclipse Mosquitto are included in the <b>Cedalo Community Platform</b>.<br />
+                    <a href="#" class="btn btn-large" style="margin:5px;width:300px">Download Community Platform</a></p>
+                    <p>The premiums editions Cedalo Sheets and Cedalo Broker are included in the <b>Cedalo Premium Platform</b>.<br />
+                    <a href="#" class="btn btn-large" style="margin:5px;width:300px">Download Premium Platform</a></p>
                 </div> 
             </div>
         </div>
