@@ -200,7 +200,7 @@ layout: default
                         <h5>POS, eCommerce, Transportation</h5>
                     </div>
                     <div class="usecase-body">
-                        <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
+                        <p>Real-time marketing, online shooping and just-in-time delivery need to be in-sync. Streamsheets let you connect and monitor retail chain operations as they happen.</p>
                         <ul>
                         <li>Real-Time Offers</li>
                         <li>Fraud Detection</li>
