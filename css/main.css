@@ -734,8 +734,8 @@ background-color: #313454; }
     font-weight: 300;
     font-size: 20px;
     line-height: 1.5;
-    margin-top: 20px;
-    margin-bottom: 20px; 
+    margin-top: 30px;
+    margin-bottom: 30px; 
     padding-left: 10px;
     padding-right: 10px;
     }
@@ -758,7 +758,8 @@ background-color: #313454; }
     
     
     .downloadpage .btn {
-      margin: 10px; }
+      margin: 10px;
+       }
 
 /* ==========================================================================
 	$Footer
