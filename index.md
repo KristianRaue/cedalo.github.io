@@ -269,7 +269,7 @@ layout: default
 </section><!-- download -->
 
 <section id="chartgallery" class="section"><!-- Chart Gallery -->
-    <div class="container-flex">
+    <div class="container-fluid">
         {% for category in site.categories %}
             <h3>{{ category[0] }}</h3>
             <div class="row">
