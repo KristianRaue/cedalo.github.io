@@ -791,7 +791,7 @@ background-color: #313454; }
   -o-background-size: cover;
   -webkit-background-size: cover;
   background-size: cover;
-  min-height: 750px; }
+  min-height: 450px; }
 
 .downloadpage-spacer {
   padding-top: 115px; 
