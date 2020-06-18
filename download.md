@@ -15,7 +15,7 @@ title: Cedalo - Download
             </div>
 <!-- until here for nav menus to work smoothly  -->
             <div class="download">
-                <h1 class="section-header">Download Page</h1>
+                <h1 class="section-header">Download the Cedalo Platform</h1>
                 <div class="col-md-10 col-md-offset-1 text-center download-intro">
                     <p>The Open-Source projects <b>Eclipse Streamsheets</b> and <b>Eclipse Mosquitto</b> are included in the <b>Cedalo Community Platform</b>.</p>
                     <p>The premiums editions <b>Cedalo Sheets</b> and <b>Cedalo Broker</b> are included in the <b>Cedalo Premium Platform</b>.</p>
