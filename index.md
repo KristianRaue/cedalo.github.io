@@ -231,7 +231,7 @@ layout: default
     </div>
 </section><!-- usecase -->
 
-<section id="chartgallery" class="section"><!-- Chart Gallery -->
+<section id="chartgallery" class="section gallery"><!-- Chart Gallery -->
     <div class="container-flex text-center"  style="padding-left: 40px;padding-right: 40px;" >
             <h1>Chart Gallery</h1>
             <div class="row no-padding" style="padding-top:20px">
