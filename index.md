@@ -273,7 +273,7 @@ layout: default
         {% for category in site.categories %}
             <h3>{{ category[0] }}</h3>
             <div class="row">
-                {% for post in site.categories["chartgallery"][1] %}
+                {% for post in site.categories["chartgallery"] %}
                     <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
                         {{post}}
                         <img src="images/team-4.jpg" alt="" class="img-responsive">
