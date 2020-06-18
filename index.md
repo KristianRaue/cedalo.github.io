@@ -26,7 +26,7 @@ layout: default
             </div>
             <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-12">
                 <div class="banner-chart text-center">
-                    <img  src="images/screenshot_orig.png" alt="">
+                    <img  src="/images/screenshot_orig.png" alt="">
                 </div><!-- banner text -->
             </div>
         </div>
@@ -61,7 +61,7 @@ layout: default
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
                 <div class="products-chart" >
-                    <img  src="images/overview.png">
+                    <img  src="/images/overview.png">
                 </div>
             </div>
         </div>
@@ -237,7 +237,7 @@ layout: default
             <div class="row no-padding" style="padding-top:20px">
                 {% for chartnum in (10..33)  %}
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 text-center" style="padding:20px">
-                        <img src="assets/images/chartgallery/chart{{ chartnum }}.jpg" alt="" style="width:100%;height:auto;">
+                        <img src="/assets/images/chartgallery/chart{{ chartnum }}.jpg" alt="" style="width:100%;height:auto;">
                     </div>
                 {% endfor %}
             </div>
@@ -292,7 +292,7 @@ layout: default
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="person">
-                    <img src="images/team-1.jpg" alt="" class="img-responsive">
+                    <img src="/images/team-1.jpg" alt="" class="img-responsive">
                     <div class="person-content">
                         <h4>Ruth Wood</h4>
                         <h5 class="role">Founder, CEO</h5>
@@ -302,7 +302,7 @@ layout: default
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="person">
-                    <img src="images/team-2.jpg" alt="" class="img-responsive">
+                    <img src="/images/team-2.jpg" alt="" class="img-responsive">
                     <div class="person-content">
                         <h4>Timothy Reed</h4>
                         <h5 class="role">Co-Founder, Developer</h5>
@@ -312,7 +312,7 @@ layout: default
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="person">
-                    <img src="images/team-3.jpg" alt="" class="img-responsive">
+                    <img src="/images/team-3.jpg" alt="" class="img-responsive">
                     <div class="person-content">
                         <h4>Victoria Valdez</h4>
                         <h5 class="role">UI Designer</h5>
@@ -322,7 +322,7 @@ layout: default
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="person">
-                    <img src="images/team-4.jpg" alt="" class="img-responsive">
+                    <img src="/images/team-4.jpg" alt="" class="img-responsive">
                     <div class="person-content">
                         <h4>Beverly Little</h4>
                         <h5 class="role">Data Scientist</h5>
