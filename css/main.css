@@ -724,7 +724,21 @@ background-color: #313454; }
 	$downloadpage
 ========================================================================== */
 
-  .downloadpage {
+.downloadpage {
+  background-color: #3a3e64;
+  background-position: center top;
+  background-repeat: no-repeat;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  min-height: 750px; }
+
+.downloadpage-spacer {
+  padding-top: 150px; 
+}
+
+  .downloadpage-box {
     margin-bottom: 30px;
     margin-top: 50px;
     }

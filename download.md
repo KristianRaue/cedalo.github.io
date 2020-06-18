@@ -3,18 +3,18 @@ layout: default
 title: Cedalo - Download
 ---
 
-<section id="banner" class="banner" role="banner">
+<section id="banner" class="downloadpage" role="banner">
 <!-- leave unchanged from here  --> 
     {% include _nav.html %}      
     <div class="container-fluid">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-md-12">
-                <div class="banner-spacer">
+                <div class="downloadpage-spacer">
                     <p>&nbsp;</p>
                 </div>
             </div>
 <!-- until here for nav menus to work smoothly  -->
-            <div class="downloadpage downloadpage-intro text-center">
+            <div class="downloadpage-box downloadpage-intro text-center">
                 <div class="col-md-10 col-md-offset-1">
                     <h1 class="section-header">Download the Cedalo Platform</h1>
                     <p>Click on the download page of your choice and follow the intructions for your operating system. To compare the feature sets just <a href="#feature-set">click here</a></p>
