@@ -268,6 +268,31 @@ layout: default
     </div>
 </section><!-- download -->
 
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+
+<section><!-- Chart Gallery -->
+    <div class="container-flex">
+        {% for category in site.categories %}
+            <h3>{{ category[0] }}</h3>
+            <div class="row">
+                {% for post in category[1] %}
+                    <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <img src="images/team-4.jpg" alt="" class="img-responsive">
+                    </div>
+                {% endfor %}
+            </div>
+        {% endfor %}
+    </div>
+</section><!-- Chart Gallery -->
+
 <section id="blog" class="section teams">
     <div class="container">
         <div class="row">
