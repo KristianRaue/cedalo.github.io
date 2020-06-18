@@ -17,7 +17,7 @@ title: Cedalo - Download
             <div class="downloadpage-box text-center">
                 <div class="col-md-12 col-sm-12">
                     <h1 class="section-header">Download the Cedalo Platform</h1>
-                    <p>Click on the download page of your choice and follow the intructions for your operating system. To compare the feature sets just click <a href="#feature-set">here</a></p>
+                    <p>Here you can download the Cedalo Open-Source and the Cedalo Premium Platform. Click on the download page of your choice and follow the intructions for your operating system. To compare the feature sets, just click <a href="#feature-set">here</a></p>
                 </div>
                 <div class="col-md-6 col-sm-6 downloadpage-intro">
                     <p>The Open-Source projects Eclipse Streamsheets and Eclipse Mosquitto are included in the <b>Community Platform</b>.<br />
