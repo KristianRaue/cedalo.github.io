@@ -138,6 +138,11 @@
   }
 
   @media screen and (max-width: 900px) {
+
+    .fluid-padding {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
     
     .usecase-box {
       background-color: #eeeded;
@@ -147,6 +152,11 @@
   }
 
 @media screen and (max-width: 768px) {
+
+  .fluid-padding {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
 
   .footer-center, .footer-right, .footer-left {
     text-align: left; }
