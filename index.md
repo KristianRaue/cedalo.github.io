@@ -44,7 +44,7 @@ layout: default
                     <p>Streamsheets were designed with publish/subcribe streaming protocols like MQTT, Apache Kafka or AMQP in mind, but they also work perfectly with REST-based protocols (request/response)</p>
                     <p class="text-center">
                         <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
-                        <a href="#featues" class="btn btn-large">Learn More</a>
+                        <a href="#features" class="btn btn-large">Learn More</a>
                     </p>
                 </div>
                 <div class="products-box">
@@ -55,7 +55,7 @@ layout: default
                     <p>Eclipse Mosquitto supports guaranteed delivery of messages which allows use cases not only in IoT and Smart Factory, but also in financial and other non-IoT applications.</p>
                     <p class="text-center">
                         <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
-                        <a href="#featues" class="btn btn-large">Learn More</a>
+                        <a href="#features" class="btn btn-large">Learn More</a>
                     </p>
                 </div>
             </div>
