@@ -274,7 +274,7 @@ layout: default
             <div class="row no-padding" style="padding-top:20px">
                 {% for chartnum in (10..11)  %}
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 text-center" style="padding:20px">
-                        <img src="assets/images/chartgallery/chart{{ chartnum }}.jpg" alt="" class="img-responsive">
+                        <img src="assets/images/chartgallery/chart{{ chartnum }}.jpg" alt="" style="width:100%;height:auto;">
                     </div>
                 {% endfor %}
             </div>
