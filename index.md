@@ -270,15 +270,16 @@ layout: default
 
 <section><!-- Chart Gallery -->
     <div class="container-flex">
-        
+        {% for category in site.categories %}
+            <h3>{{ category[0] }}</h3>
             <div class="row">
-                {% for post in site.posts %}
+                {% for post in category[1] %}
                     <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
                         <img src="images/team-4.jpg" alt="" class="img-responsive">
                     </div>
                 {% endfor %}
             </div>
-        
+        {% endfor %}
     </div>
 </section><!-- Chart Gallery -->
 
