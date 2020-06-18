@@ -33,8 +33,8 @@ title: Cedalo - Download
 </section><!-- banner -->
 
 <section id="feature-set" class="products section">
-    <div class="container-fluid">
-        <div class="row no-padding">
+    <div class="container">
+        <div class="row no-gutter">
             <div class="col-lg-8 col-md-10 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-1">  
                 <div class="products-box text-center">
                     <h1>Overview of the Feature Set</h1>
