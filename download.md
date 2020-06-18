@@ -20,6 +20,7 @@ title: Cedalo - Download
                     <h4>Click on the download page of your choice and follow the intructions for your operating system.</h4>
                     <a href="#" class="btn btn-large">Download Community Platform</a>
                     <a href="#" class="btn btn-large">Download Premium Platform</a>
+                    <a href="#" class="btn btn-large">Sign up for Cedalo Cloud</a>
                 </div>
             </div>
 
