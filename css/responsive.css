@@ -12,7 +12,7 @@
 
 }
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1299px) {
 
   .fluid-padding {
     padding-left: 60px;
@@ -31,7 +31,7 @@
 
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1199px) {
 
   .fluid-padding {
     padding-left: 40px;
@@ -70,7 +70,7 @@
 
 
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 991px) {
 
   .fluid-padding {
     padding-left: 30px;
@@ -156,7 +156,7 @@
 
   }
 
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 899px) {
 
     .fluid-padding {
       padding-left: 20px;
@@ -176,7 +176,7 @@
   
   }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
   .fluid-padding {
     padding-left: 15px;
