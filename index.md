@@ -117,6 +117,19 @@ layout: default
     </div>
 </section><!-- features -->
 
+<section id="chartgallery" class="section"><!-- Chart Gallery -->
+    <div class="container-flex text-center"  style="padding-left: 40px;padding-right: 40px;" >
+            <h1>Chart Gallery</h1>
+            <div class="row no-padding" style="padding-top:20px">
+                {% for chartnum in (10..11)  %}
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 text-center" style="padding:20px">
+                        <img src="assets/images/chartgallery/chart{{ chartnum }}.jpg" alt="" style="width:100%;height:auto;">
+                    </div>
+                {% endfor %}
+            </div>
+    </div>
+</section><!-- Chart Gallery -->
+
 <section id="usecases" class="usecases section" >
     <div class="container-fluid">
         <div class="row">
@@ -267,19 +280,6 @@ layout: default
         </div>
     </div>
 </section><!-- download -->
-
-<section id="chartgallery" class="section"><!-- Chart Gallery -->
-    <div class="container-flex text-center"  style="padding-left: 40px;padding-right: 40px;" >
-            <h1>Chart Gallery</h1>
-            <div class="row no-padding" style="padding-top:20px">
-                {% for chartnum in (10..11)  %}
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 text-center" style="padding:20px">
-                        <img src="assets/images/chartgallery/chart{{ chartnum }}.jpg" alt="" style="width:100%;height:auto;">
-                    </div>
-                {% endfor %}
-            </div>
-    </div>
-</section><!-- Chart Gallery -->
 
 <section id="blog" class="section teams">
     <div class="container-flex" style="padding-left: 40px;padding-right: 40px;">
