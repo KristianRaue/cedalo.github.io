@@ -24,7 +24,7 @@ title: Cedalo - Download
                     <a href="https://docs.cedalo.com/installation/community-edition.html" class="btn btn-large">Community Download</a></p>
                 </div>
                 <div class="col-md-6 col-sm-6 downloadpage-intro">
-                    <p>The premiums editions Cedalo Sheets and Cedalo Broker are included in the <b>Premium Platform</b>.<br />
+                    <p>The premiums editions - called Cedalo Sheets and Cedalo Broker - are included in the <b>Premium Platform</b>.<br />
                     <a href="https://docs.cedalo.com/installation/premium-edition.html" class="btn btn-large">Premium Download</a></p>
                 </div> 
             </div>
