@@ -271,7 +271,7 @@ layout: default
 <section id="chartgallery" class="section"><!-- Chart Gallery -->
     <div class="container-flex text-center"  style="padding-left: 40px;padding-right: 40px;" >
             <h1>Chart Gallery</h1>
-            <div class="row">
+            <div class="row no-padding">
                 {% for chartnum in (10..11)  %}
                     <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
                         <img src="assets/images/chartgallery/chart{{ chartnum }}.jpg" alt="" class="img-responsive">
@@ -282,7 +282,7 @@ layout: default
 </section><!-- Chart Gallery -->
 
 <section id="blog" class="section teams">
-    <div class="container">
+    <div class="container-flex">
         <div class="row">
             <div class="col-md-12 col-sm-12">
                 <div class="person-intro">
