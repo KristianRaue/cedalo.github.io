@@ -28,7 +28,7 @@ title: Cedalo - Download
     </div>
 </section><!-- banner -->
 
-<section id="products" class="products section">
+<section id="feature-set" class="products section">
     <div class="container-fluid">
         <div class="row no-padding">
             <div class="col-lg-8 col-md-10 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-1">  
