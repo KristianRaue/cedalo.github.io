@@ -658,7 +658,9 @@ background-color: #313454; }
 
 .download-content {
   padding: 0 15px;
-  margin-top: 30px; }
+  margin-top: 30px;
+  min-height: 400;
+}
 .download .icon {
   color: #ffffff;
   font-size: 60px; }
