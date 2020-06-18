@@ -269,7 +269,7 @@ layout: default
 </section><!-- download -->
 
 <section id="chartgallery" class="section"><!-- Chart Gallery -->
-    <div class="container-fluid text-center">
+    <div class="container text-center">
             <h1>Chart Gallery</h1>
             <div class="row">
                 {% for post in site.categories["chartgallery"] %}
