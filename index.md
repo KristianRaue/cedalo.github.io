@@ -5,7 +5,7 @@ layout: default
 <section id="banner" class="banner" role="banner">
     {% include _nav.html %}
     <!-- sectiinclude needed here because nav is always in first container :-(  -->
-    <div class="container-fluid">
+    <div class="container">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-md-12">
                 <div class="banner-spacer">
