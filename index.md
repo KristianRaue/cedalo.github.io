@@ -5,7 +5,7 @@ layout: default
 <section id="banner" class="banner" role="banner">
     {% include _nav.html %}
     <!-- sectiinclude needed here because nav is always in first container :-(  -->
-    <div class="container">
+    <div class="container-fluid">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-md-12">
                 <div class="banner-spacer">
@@ -33,7 +33,7 @@ layout: default
     </div>
 </section><!-- banner -->
 <section id="products" class="products section">
-    <div class="container-fluid" style="padding-left: 40px;padding-right: 40px;padding-top:20px">
+    <div class="container-fluid fluid-padding" style="padding-top:20px;">
         <div class="row no-padding">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">  
                 <div class="products-box">
@@ -118,7 +118,7 @@ layout: default
 </section><!-- features -->
 
 <section id="usecases" class="usecases section" >
-    <div class="container-fluid">
+    <div class="container-fluid fluid-padding">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 usecase-intro">  
                 <div>
@@ -232,7 +232,7 @@ layout: default
 </section><!-- usecase -->
 
 <section id="chartgallery" class="section gallery"><!-- Chart Gallery -->
-    <div class="container-flex text-center"  style="padding-left: 40px;padding-right: 40px;" >
+    <div class="container-flex text-center fluid-padding" >
             <h1>Chart Gallery</h1>
             <div class="row no-padding" style="padding-top:20px">
                 {% for chartnum in (10..33)  %}
@@ -282,7 +282,7 @@ layout: default
 </section><!-- download -->
 
 <section id="blog" class="section teams">
-    <div class="container-flex" style="padding-left: 40px;padding-right: 40px;">
+    <div class="container-flex fluid-padding">
         <div class="row">
             <div class="col-md-12 col-sm-12">
                 <div class="person-intro">
