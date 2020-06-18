@@ -15,7 +15,7 @@ title: Cedalo - Download
             </div>
 <!-- until here for nav menus to work smoothly  -->
             <div class="download">
-                <h1 class="section-header">Download Page</h1>
+                <h1 class="section-header">Download Page (Under Construction)</h1>
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <h4>Click on the download page of your choice and follow the intructions for your operating system.</h4>
                     <a href="#" class="btn btn-large">Download Community Platform</a>
