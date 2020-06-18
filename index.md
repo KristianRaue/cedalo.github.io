@@ -19,8 +19,8 @@ layout: default
                     <p><b>Eclipse Mosquitto</b> -  Devices and apps communicate in real-time, based the most popular broker technology in the world.</p>
                     <p>
                         <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
-                        <a href="#products" class="btn btn-large">Cedalo Cloud</a>
-                        <a href="#download" class="btn btn-large">Download</a>
+                        <a href="#products" class="btn btn-large">Learn more</a>
+                        <a href="#download" class="btn btn-large">Get Started</a>
                     </p>
                 </div><!-- banner text -->
             </div>
@@ -217,7 +217,7 @@ layout: default
                         <h5>Offices, Facilities, Hotels</h5>
                     </div>
                     <div class="usecase-body">
-                         <p>With Streamsheets and Mosquitto are an all-in-one solution for analysing, visualising and controlling building and faciltity conditions and operations.</p>
+                         <p>Streamsheets and Mosquitto are an all-in-one solution for analysing, visualising and controlling building and faciltity conditions and operations.</p>
                         <ul>
                         <li>Automation & Control</li>
                         <li>Predictive Maintenance</li>
@@ -237,7 +237,8 @@ layout: default
             <div class="col-md-12 col-sm-12 download">
                 <div class="download-intro">
                     <h1 class="section-header">Get Started! Open-Source or Premium.</h1>
-                    <p>In addition to sponsoring the two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" Cedalo also offers premium editions of both products. They are called "Cedalo Sheets" and "Cedalo Broker". Try the Cedalo premium edition free for 14 days.</p>
+                    <p>The two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" are included in the Cedalo Community Platform which you can download here.<p>
+                	<p>Cedalo also offers premium editions of both products. They are called "Cedalo Sheets" and "Cedalo Broker" and are included in the Cedalo Premium Platform. Try the Premium Platform free for 14 days or use our managed service in the Cedalo Cloud.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 download text-center" >
