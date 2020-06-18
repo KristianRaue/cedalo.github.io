@@ -245,7 +245,7 @@ layout: default
                 <span class="icon icon icon-cloud"></span>
                 <div class="download-content">
                     <h2>Managed Service</h2>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+                    <p>The easiest way to get started with Cedalo Sheets and Cedalo Broker is the managed service called Cedalo Cloud. Try it without risk, there is a 14-day money back guarantee.</p>
                     <p><a href="#cloud" class="btn btn-large">Cedalo Cloud</a></p>
                 </div>
             </div>
