@@ -273,7 +273,7 @@ layout: default
             <h1>Chart Gallery</h1>
             <div class="row no-padding">
                 {% for chartnum in (10..11)  %}
-                    <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                         <img src="assets/images/chartgallery/chart{{ chartnum }}.jpg" alt="" class="img-responsive">
                     </div>
                 {% endfor %}
