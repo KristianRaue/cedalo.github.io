@@ -17,10 +17,7 @@ title: Cedalo - Download
             <div class="download">
                 <h1 class="section-header">Download Page</h1>
                 <div class="col-md-8 col-md-offset-2 text-center">
-                    <h4>Are You Ready to Start?</h3>
-                    <p>Fusce dapibus, tellus ac cursus commodo</p>
-                    <p>Fusce dapibus, tellus ac cursus commodo</p>
-                    <p>Fusce dapibus, tellus ac cursus commodo</p>
+                    <h4>Click on the download page of your choice and follow the intructions for your operating system.</h4>
                     <a href="#" class="btn btn-large">Download Community Platform</a>
                     <a href="#" class="btn btn-large">Download Premium Platform</a>
                 </div>
