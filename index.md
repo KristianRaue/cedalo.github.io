@@ -282,7 +282,7 @@ layout: default
 </section><!-- Chart Gallery -->
 
 <section id="blog" class="section teams">
-    <div class="container-flex">
+    <div class="container-flex" style="padding-left: 40px;padding-right: 40px;">
         <div class="row">
             <div class="col-md-12 col-sm-12">
                 <div class="person-intro">
