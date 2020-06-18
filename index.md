@@ -217,7 +217,7 @@ layout: default
                         <h5>Offices, Facilities, Hotels</h5>
                     </div>
                     <div class="usecase-body">
-                         <p>With Cedalo Sheets, anybody who knows how to use a spreadsheet can quickly build real-time, stream processing applications, for any purpose.</p>
+                         <p>With Streamsheets and Mosquitto are an all-in-one solution for analysing, visualising and controlling building and faciltity conditions and operations.</p>
                         <ul>
                         <li>Automation & Control</li>
                         <li>Predictive Maintenance</li>
