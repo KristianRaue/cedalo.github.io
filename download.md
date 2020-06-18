@@ -16,7 +16,7 @@ title: Cedalo - Download
 <!-- until here for nav menus to work smoothly  -->
             <div class="col-md-10 col-md-offset-1 downloadpage downloadpage-intro text-center">
                 <h1 class="section-header">Download the Cedalo Platform</h1>
-                 <p>Click on the download page of your choice and follow the intructions for your operating system. To compare the feature sets just <a href="#feature-set">click here</a></p>
+                <p>Click on the download page of your choice and follow the intructions for your operating system. To compare the feature sets just <a href="#feature-set">click here</a></p>
             </div>
             <div class="col-md-6 col-md-offset-1 text-center">
                 <p>The Open-Source projects Eclipse Streamsheets and Eclipse Mosquitto are included in the <b>Community Platform</b>.<br />

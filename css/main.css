@@ -740,6 +740,26 @@ background-color: #313454; }
     padding-right: 10px;
     }
 
+    downloadpage h1{
+      padding-bottom: 20px;
+      color: #ffffff; }
+    
+    .downloadpage h2, .download h3, .download h4 {
+      color: #fff;
+      font-weight: 700;
+       }
+    
+    .downloadpage p {
+      color: #fff;
+      margin-top: 30px;
+      margin-left: 0px;
+      margin-right: 0px;
+      margin-bottom: 30px; }
+    
+    
+    .downloadpage .btn {
+      margin: 10px; }
+
 /* ==========================================================================
 	$Footer
 ========================================================================== */
