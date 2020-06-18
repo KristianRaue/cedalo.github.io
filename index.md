@@ -237,15 +237,14 @@ layout: default
             <div class="col-md-12 col-sm-12 download">
                 <div class="download-intro">
                     <h1 class="section-header">Get Started! Open-Source or Premium.</h1>
-                    <p>The two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" are included in the Cedalo Community Platform which you can download here.<p>
-                	<p>Cedalo also offers premium editions of both products. They are called "Cedalo Sheets" and "Cedalo Broker" and are included in the Cedalo Premium Platform. Try the Premium Platform free for 14 days or use our managed service in the Cedalo Cloud.</p>
+                    <p>The two Open-Source projects Eclipse Streamsheets and Eclipse Mosquitto are included in the <b>Cedalo Community Platform</b>. Cedalo also offers premium editions. They are called <b>Cedalo Sheets</b> and <b>Cedalo Broker</b> and are included in the <b>Cedalo Premium Platform</b>.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 download text-center" >
                 <span class="icon icon icon-cloud"></span>
                 <div class="download-content">
                     <h2>Managed Service</h2>
-                    <p>The easiest way to get started with Cedalo Sheets and Cedalo Broker is the managed service called Cedalo Cloud. Try it without risk, there is a 14-day money back guarantee.</p>
+                    <p>The easiest way to get started with the Premium Platform is our managed service called Cedalo Cloud. It comes with a 14-day money back guarantee.</p>
                     <p><a href="#cloud" class="btn btn-large">Cedalo Cloud</a></p>
                 </div>
             </div>
@@ -253,7 +252,7 @@ layout: default
                 <span class="icon icon-desktop"></span>
                 <div class="download-content">
                     <h2>On-Premises</h2>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+                    <p>You can run both the Community Platform and the Premium Platform on-premises on your local servers and even on your laptop.  </p>
                     <p><a href="#cloud" class="btn btn-large">Download</a></p>
                 </div>
             </div>
