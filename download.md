@@ -16,7 +16,7 @@ title: Cedalo - Download
 <!-- until here for nav menus to work smoothly  -->
             <div class="download">
                 <h1 class="section-header">Download Page (Under Construction)</h1>
-                <div class="col-md-8 col-md-offset-2 text-center">
+                <div class="col-md-8 col-md-offset-2 text-center download-intro">
                     <p>The two Open-Source projects Eclipse Streamsheets and Eclipse Mosquitto are included in the <b>Cedalo Community Platform</b>. Cedalo also offers premium editions. They are called <b>Cedalo Sheets</b> and <b>Cedalo Broker</b> and are included in the <b>Cedalo Premium Platform</b>.</p>
                     <p>Click on the download page of your choice and follow the intructions for your operating system.</p>
                     <p><a href="#" class="btn btn-large" style="width:120px" >Download Community Platform</a></p>
