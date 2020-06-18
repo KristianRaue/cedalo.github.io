@@ -12,7 +12,7 @@ layout: default
                     <p>&nbsp;</p>
                 </div><!-- banner text -->
             </div>
-            <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-xs-12">
+            <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-12">
                 <div class="banner-text text-center">
                     <h1>Stream processing for everybody</h1>
                     <p><b> Eclipse Streamsheets</b> - Anybody who knows how to use a spreadsheet can quickly build server-based, real-time applications, for any purpose. No programming required.</p>
@@ -24,7 +24,7 @@ layout: default
                     </p>
                 </div><!-- banner text -->
             </div>
-            <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-12">
+            <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-12">
                 <div class="banner-chart text-center">
                     <img  src="images/screenshot_orig.png" alt="">
                 </div><!-- banner text -->
@@ -35,7 +35,7 @@ layout: default
 <section id="products" class="products section">
     <div class="container-fluid fluid-padding" style="padding-top:20px;">
         <div class="row no-padding">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">  
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12">  
                 <div class="products-box">
                     <h1>Eclipse Streamsheets</h1>
                     <h4>Streaming data everywhere - Now an app to use it</h4>
@@ -59,7 +59,7 @@ layout: default
                     </p>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12 text-center">
                 <div class="products-chart" >
                     <img  src="images/overview.png">
                 </div>
@@ -236,7 +236,7 @@ layout: default
             <h1>Chart Gallery</h1>
             <div class="row no-padding" style="padding-top:20px">
                 {% for chartnum in (10..33)  %}
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 text-center" style="padding:20px">
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 text-center" style="padding:20px">
                         <img src="assets/images/chartgallery/chart{{ chartnum }}.jpg" alt="" style="width:100%;height:auto;">
                     </div>
                 {% endfor %}
