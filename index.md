@@ -260,7 +260,7 @@ layout: default
                 <span class="icon icon-gears"></span>
                 <div class="download-content">
                     <h2>Edge Devices</h2>
-                    <p>Both platform products are very efficient with CPU power and memory consumption. So you can run them on edge devices or even on the Raspberry Pi.</p>
+                    <p>Both platform products are very efficient with CPU power and memory consumption. So you can run them directlyy on edge devices, controllers or even on the Raspberry Pi.</p>
                     <p><a href="#cloud" class="btn btn-large">Download Page</a></p>
                 </div>
             </div>
