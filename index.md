@@ -269,13 +269,12 @@ layout: default
 </section><!-- download -->
 
 <section id="chartgallery" class="section"><!-- Chart Gallery -->
-    <div class="container-fluid">
-        {% for category in site.categories %}
-            <h3>{{ category[0] }}</h3>
+    <div class="container-fluid text-center">
+            <h1>Chart Gallery</h1>
             <div class="row">
                 {% for post in site.categories["chartgallery"] %}
                     <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                        {{post.url}}
+                        {{post.imgfile}}
                         <img src="images/team-4.jpg" alt="" class="img-responsive">
                     </div>
                 {% endfor %}
