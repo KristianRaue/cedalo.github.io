@@ -69,7 +69,7 @@ layout: default
 </section>
 
 <section id="features" class="features section">
-    <div class="container-flex" style="padding-left: 40px;padding-right: 40px;">
+    <div class="container" >
         <div class="row">
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="feature-content">
@@ -245,7 +245,7 @@ layout: default
 </section><!-- Chart Gallery -->
 
 <section id="download" class="section downloads">
-    <div class="container-flex" style="padding-left: 40px;padding-right: 40px;">
+    <div class="container" >
         <div class="row">
             <div class="col-md-12 col-sm-12 download">
                 <div class="download-intro">
