@@ -252,16 +252,16 @@ layout: default
                 <span class="icon icon-desktop"></span>
                 <div class="download-content">
                     <h2>On-Premises</h2>
-                    <p>You can run both the Community Platform and the Premium Platform on-premises on your local servers and even on your laptop.  </p>
-                    <p><a href="#cloud" class="btn btn-large">Download</a></p>
+                    <p>You can run both the Community Platform and the Premium Platform on-premises on your local machines. Simply go to the downlaod page.</p>
+                    <p><a href="#cloud" class="btn btn-large">Download Page</a></p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 download text-center">
                 <span class="icon icon-gears"></span>
                 <div class="download-content">
                     <h2>Edge Devices</h2>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
-                    <p><a href="#cloud" class="btn btn-large">Download</a></p>
+                    <p>Both Streamsheets and Mosquitto are very efficient with CPU power and memory consumption. So you can run them on edge devices or the Raspberry Pi.</p>
+                    <p><a href="#cloud" class="btn btn-large">Download Page</a></p>
                 </div>
             </div>
         </div>
