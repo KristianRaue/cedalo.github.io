@@ -22,7 +22,7 @@ title: Cedalo - Download
                     <p>Click on the download page of your choice and follow the intructions for your operating system.</p>
                     <p><a href="#" class="btn btn-large" style="width:300px">Download Community Platform</a><br />
                     <p><a href="#" class="btn btn-large" style="width:300px">Download Premium Platform</a></p>
-                </div>
+                </div> 
             </div>
         </div>
     </div>
