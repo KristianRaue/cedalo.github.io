@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogposts
 title: "Shopify Dashboard (Part 2): How to aggregate and chart Kafka data in Streamsheets"
 date: 2020-05-20
 ---

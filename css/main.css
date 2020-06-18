@@ -425,7 +425,7 @@ background-color: #313454; }
   max-width:900px;
   width:100%;
   height:auto;
-  padding-top:0px;"
+  padding-top:0px;
 }
 
 
@@ -572,7 +572,48 @@ background-color: #313454; }
   
 }
 
+/* ==========================================================================
+	$Blog
+========================================================================== */
 
+.blog {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.blog-intro {
+  margin-bottom: 30px;
+  margin-top: 50px;
+  padding-left: 40px;
+  padding-right: 40px;
+  }
+
+.blog-box {
+  padding-left: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
+
+.blog p {
+  margin-top: 0px;
+}
+
+.blog h1 {
+  margin-top: 0px;
+}
+
+.blog h2 {
+  margin-top: 0px;
+}
+
+.blog img {
+  vertical-align: middle;
+  max-width:900px;
+  width:100%;
+  height:auto;
+  padding-top:0px;
+}
 
 /* ==========================================================================
 	$Teams
