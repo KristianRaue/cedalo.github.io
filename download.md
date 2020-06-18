@@ -20,11 +20,11 @@ title: Cedalo - Download
             </div>
             <div class="col-md-5 col-md-offset-1 text-center download-intro">
                 <p>The Open-Source projects Eclipse Streamsheets and Eclipse Mosquitto are included in the <b>Community Platform</b>.<br />
-                <a href="https://docs.cedalo.com/installation/community-edition.html" class="btn btn-large" style="margin:20px;width:300px">Download Community Platform</a></p>
+                <a href="https://docs.cedalo.com/installation/community-edition.html" class="btn btn-large">Download Community Platform</a></p>
             </div>
             <div class="col-md-5 col-md-offset-1 text-center download-intro">
                 <p>The premiums editions Cedalo Sheets and Cedalo Broker are included in the <b>Premium Platform</b>.<br />
-                <a href="https://docs.cedalo.com/installation/premium-edition.html" class="btn btn-large" style="margin:20px;width:300px">Download Premium Platform</a></p>
+                <a href="https://docs.cedalo.com/installation/premium-edition.html" class="btn btn-large">Download Premium Platform</a></p>
             </div> 
         </div>
     </div>
