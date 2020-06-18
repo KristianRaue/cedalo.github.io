@@ -14,18 +14,20 @@ title: Cedalo - Download
                 </div>
             </div>
 <!-- until here for nav menus to work smoothly  -->
-            <div class="col-md-10 col-md-offset-1 downloadpage downloadpage-intro text-center">
-                <h1 class="section-header">Download the Cedalo Platform</h1>
-                <p>Click on the download page of your choice and follow the intructions for your operating system. To compare the feature sets just <a href="#feature-set">click here</a></p>
+            <div class="downloadpage downloadpage-intro text-center">
+                <div class="col-md-10 col-md-offset-1">
+                    <h1 class="section-header">Download the Cedalo Platform</h1>
+                    <p>Click on the download page of your choice and follow the intructions for your operating system. To compare the feature sets just <a href="#feature-set">click here</a></p>
+                </div>
+                <div class="col-md-6 col-md-offset-1">
+                    <p>The Open-Source projects Eclipse Streamsheets and Eclipse Mosquitto are included in the <b>Community Platform</b>.<br />
+                    <a href="https://docs.cedalo.com/installation/community-edition.html" class="btn btn-large">Download Community Platform</a></p>
+                </div>
+                <div class="col-md-6 col-md-offset-1">
+                    <p>The premiums editions Cedalo Sheets and Cedalo Broker are included in the <b>Premium Platform</b>.<br />
+                    <a href="https://docs.cedalo.com/installation/premium-edition.html" class="btn btn-large">Download Premium Platform</a></p>
+                </div> 
             </div>
-            <div class="col-md-6 col-md-offset-1 text-center">
-                <p>The Open-Source projects Eclipse Streamsheets and Eclipse Mosquitto are included in the <b>Community Platform</b>.<br />
-                <a href="https://docs.cedalo.com/installation/community-edition.html" class="btn btn-large">Download Community Platform</a></p>
-            </div>
-            <div class="col-md-6 col-md-offset-1 text-center">
-                <p>The premiums editions Cedalo Sheets and Cedalo Broker are included in the <b>Premium Platform</b>.<br />
-                <a href="https://docs.cedalo.com/installation/premium-edition.html" class="btn btn-large">Download Premium Platform</a></p>
-            </div> 
         </div>
     </div>
 </section><!-- banner -->
