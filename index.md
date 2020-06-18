@@ -274,7 +274,7 @@ layout: default
             <div class="row">
                 {% for post in site.categories["chartgallery"] %}
                     <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                        <img src="images/{{ post.imgfile }}" alt="" class="img-responsive">
+                        <img src="assets/images/chartgallery/{{ post.imgfile }}" alt="" class="img-responsive">
                     </div>
                 {% endfor %}
             </div>
