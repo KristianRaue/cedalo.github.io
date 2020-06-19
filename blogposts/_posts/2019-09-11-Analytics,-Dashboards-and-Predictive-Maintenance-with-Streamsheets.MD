@@ -4,6 +4,7 @@ title: "Analytics, Dashboards and Predictive Maintenance with Streamsheets"
 date: 2019-09-11
 image_url: "/assets/images/blogposts/factoryio_analytics.png"
 ---
+
 Find out how to build a dynamic dashboard that analyzes and visualizes data in realtime.
 
 In a previous blog posts I demonstrated how to set up a Streamsheet that controls a industrial machinery. I you haven’t read this previous post you might consider reading it before continuing with this new post.

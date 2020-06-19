@@ -4,6 +4,7 @@ title: "Condition Monitoring with Streamsheets and MongoDB"
 date: 2019-10-17
 image_url: "/assets/images/blogposts/condition-monitoring-with-streamsheets-and-mongoDB-picture.png"
 ---
+
 This blog post introduces the basic operation of Streamsheets. Using the example of a smart WiFi switch with an integrated power consumption meter (Shelly 2.5), we set up a complete Streamsheet use case within 10 minutes.
 
 <img src="{{page.image_url}}" width="100%" height="auto">

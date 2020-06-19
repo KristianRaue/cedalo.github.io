@@ -6,6 +6,7 @@ image_url: "/assets/images/blogposts/industrial-machinery-image.png"
 image_url1: "/assets/images/blogposts/mqtt-bridge.png"
 image_url2: "/assets/images/blogposts/factoryio_analytics (1).png"
 ---
+
 Streamsheets are suitable for many use cases in industrial environments (e.g. Smart Factory, Industrie 4.0, Industrial IoT). In this blog you find a 4 minute video that shows how to control an industrial machinery that sorts incoming parts according to their color and shape.
 
 To connect the machinery and the Streamsheet server a MQTT Broker (www.mosquitto.org) is used.

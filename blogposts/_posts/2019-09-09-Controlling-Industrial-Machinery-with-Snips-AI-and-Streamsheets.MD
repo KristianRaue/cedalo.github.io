@@ -2,7 +2,9 @@
 layout: blogposts
 title: "Controlling Industrial Machinery with Snips AI and Streamsheets"
 date: 2019-09-09
+image_url: ""
 ---
+
 In this post I will integrate an artificial intelligence based technology named Snips to control a sorting process in real-time.
 
 In my previous post I showed how to connect industrial machinery to Streamsheets over MQTT, analyze and visualize its data as well as control it. If you haven’t read that post yet you might consider having a look at it first.

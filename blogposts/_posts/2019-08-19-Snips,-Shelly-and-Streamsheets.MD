@@ -4,8 +4,8 @@ title: "Snips, Shelly and Streamsheets"
 date: 2019-08-19
 image_url: "/assets/images/blogposts/snips_shelly_bitmap0.png"
 image_url1: "/assets/images/blogposts/snips_shelly_bitmap1.png
-snips_shelly_bitmap1.png
 ---
+
 We will build our own intelligent speech assistant to control the lighting in several rooms.
 
 In a previous blog I already introduced the Wi-Fi switch Shelly 1 (www.shelly.cloud). Basically this IoT-enabled switch allows to open or close a electrical circuit by sending the value “on” or “off” to a a predefined MQTT topic. The electrical circuit can then be used to control a electrical light or electrically operated machine.

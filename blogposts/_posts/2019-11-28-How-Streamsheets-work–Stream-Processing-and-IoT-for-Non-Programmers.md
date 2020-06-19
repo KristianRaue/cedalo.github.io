@@ -4,6 +4,7 @@ title: "How Streamsheets work – Stream Processing and IoT for Non-Programmers"
 date: 2019-11-28
 image_url: "/assets/images/blogposts/blog_shelly_introduction.png"
 ---
+
 This blog post introduces the basic operation of Streamsheets. Using the example of a smart WiFi switch with an integrated power consumption meter (Shelly 2.5), we set up a complete Streamsheet use case within 10 minutes.
 
 <img src="{{page.image_url}}" width="100%" height="auto">
