@@ -298,7 +298,7 @@ layout: default
                             <h4>{{post.title}}</h4>
                             <p>{{post.excerpt}}</p>
                         </div>
-                    </div><!-- person -->
+                    </div><!-- blog -->
                 </div>
             {% endfor %}
         </div>
