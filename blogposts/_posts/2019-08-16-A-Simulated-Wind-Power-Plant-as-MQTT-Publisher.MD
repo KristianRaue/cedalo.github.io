@@ -4,6 +4,7 @@ title: "A Simulated Wind Power Plant as MQTT Publisher"
 date: 2019-08-16
 image_url: "/assets/images/blogposts/windmill.png"
 ---
+
 Have you ever wondered how to simulate data for your individual use cases quickly?
 
 In the following 8 minute video you can see how to set up a Streamsheet that simulates a wind mill power plant and and publishes its data in real-time to a MQTT broker.

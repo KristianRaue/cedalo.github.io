@@ -3,7 +3,7 @@ layout: blogposts
 title: "Snips, Shelly and Streamsheets"
 date: 2019-08-19
 image_url: "/assets/images/blogposts/snips_shelly_bitmap0.png"
-image_url1: "/assets/images/blogposts/snips_shelly_bitmap1.png
+image_url1: "/assets/images/blogposts/snips_shelly_bitmap1.png"
 ---
 
 We will build our own intelligent speech assistant to control the lighting in several rooms.
