@@ -286,7 +286,7 @@ layout: default
         <div class="row">
             <div class="col-md-12 col-sm-12">
                 <div class="person-intro">
-                    <h1 class="section-header">Visit our blog for more use cases</h1>
+                    <h1 class="section-header">Visit our video blog for more use cases</h1>
                 </div>
             </div>
              {% for post in site.categories["blogposts"] %}
@@ -294,7 +294,7 @@ layout: default
                     <div class="person">
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
                         <div>
-                            <h4>{{post.title}}</h4>
+                            <a href="{{post.url}}"><h4>{{post.title}}</h4></a>
                             <p>{{post.excerpt}}</p>
                         </div>
                     </div><!-- blog -->
