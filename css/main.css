@@ -621,6 +621,7 @@ background-color: #313454; }
 
 .blog-intro h1, .blog-intro h2, .blog-intro h3, .blog-intro p {
   color: #fff;
+  padding: 10px;
 }
 
 .blog-box {
@@ -646,7 +647,7 @@ background-color: #313454; }
 .blog h3 {
   margin-top: 20px;
   margin-bottom: 20px;
-  font-size: 20px;
+  font-size: 10px;
 }
 
 .blog img {
