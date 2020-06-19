@@ -643,6 +643,11 @@ background-color: #313454; }
   margin-top: 0px;
 }
 
+.blog h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .blog img {
   vertical-align: middle;
   text-align: center;
