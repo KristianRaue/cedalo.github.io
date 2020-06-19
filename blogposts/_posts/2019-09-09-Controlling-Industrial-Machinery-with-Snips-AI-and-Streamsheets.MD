@@ -13,7 +13,7 @@ Snips is able to receive and process voice commands without having to go through
 
 It is recommended that you watch the following video in full screen mode.
 
-### Video: Controlling industrial machinery with MQTT, Streamsheets and Snips AI
+### Video: Controlling Machinery with MQTT, Streamsheets and Snips AI
 
 <div class="iframe-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Po2UR_7nFD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
