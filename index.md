@@ -290,7 +290,7 @@ layout: default
                 </div>
             </div>
              {% for post in site.categories["blogposts"] %}
-                <div class="col-md-4 col-sm-6" Style="margin:20px>
+                <div class="col-md-4 col-sm-6" style="margin:20px">
                     <div class="person">
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
                         <div>
