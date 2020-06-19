@@ -19,7 +19,10 @@
     padding-right: 60px;
   }
   
+  .person {
+    min-height: 500px }
   
+
   .usecase-box {
     background-color: #eeeded;
     min-height: 400px;
@@ -38,6 +41,7 @@
     padding-right: 40px;
   }
 
+ 
   .products-chart img {
     padding-top:100px;
   }
