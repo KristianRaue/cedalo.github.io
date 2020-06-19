@@ -2,7 +2,7 @@
 layout: blogposts
 title: "An Introduction to JSON and MQTT with Roger Light"
 date: 2019-10-26
-image_url: ""
+image_url: "/assets/images/blogposts/roger_light.jpg"
 ---
 
 This week we had the pleasure to record a 10-minute video session with Roger Light, the project lead of the Eclipse Mosquitto MQTT project. We will get a simple introduction to JSON and MQTT and how these two standards work together in IoT and Stream Processing.
