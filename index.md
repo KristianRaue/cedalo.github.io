@@ -292,9 +292,7 @@ layout: default
              {% for post in site.categories["blogposts"] %}
                 <div class="col-md-4 col-sm-6" style="padding:20px">
                     <div class="person">
-                        <div style="max-height: 300px; overflow: hidden">
-                            <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
-                        </div>
+                        <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
                         <div>
                             <a href="{{post.url}}"><h4>{{post.title}}</h4></a>    
                             <p>{{post.excerpt}}</p>
