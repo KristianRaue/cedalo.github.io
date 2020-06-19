@@ -233,7 +233,7 @@ layout: default
 
 <section id="chartgallery" class="section gallery"><!-- Chart Gallery -->
     <div class="container-flex text-center fluid-padding" >
-            <h1>Chart Gallery</h1>
+            <h1>Streamcharts Gallery</h1>
             <div class="row no-padding" style="padding-top:20px">
                 {% for chartnum in (10..33)  %}
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 text-center" style="padding:20px">
@@ -290,46 +290,18 @@ layout: default
                     <p>In addition to sponsoring the two Open-Source projects "Eclipse Streamsheets" and "Eclipse Mosquitto" Cedalo also offers premium editions of both products. They are called "Cedalo Sheets" and "Cedalo Broker" and you can try them free for 14 days.</p>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="person">
-                    <img src="/images/team-1.jpg" alt="" class="img-responsive">
-                    <div class="person-content">
-                        <h4>Ruth Wood</h4>
-                        <h5 class="role">Founder, CEO</h5>
-                        <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
-                    </div>
-                </div><!-- person -->
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="person">
-                    <img src="/images/team-2.jpg" alt="" class="img-responsive">
-                    <div class="person-content">
-                        <h4>Timothy Reed</h4>
-                        <h5 class="role">Co-Founder, Developer</h5>
-                        <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
-                    </div>
-                </div><!-- person -->
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="person">
-                    <img src="/images/team-3.jpg" alt="" class="img-responsive">
-                    <div class="person-content">
-                        <h4>Victoria Valdez</h4>
-                        <h5 class="role">UI Designer</h5>
-                        <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
-                    </div>
-                </div><!-- person -->
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="person">
-                    <img src="/images/team-4.jpg" alt="" class="img-responsive">
-                    <div class="person-content">
-                        <h4>Beverly Little</h4>
-                        <h5 class="role">Data Scientist</h5>
-                        <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
-                    </div>
-                </div><!-- person -->
-            </div>
+             {% for post in site.categories["blogposts"] %}
+                <div class="col-md-3 col-sm-6">
+                    <div class="person">
+                        <img src="{{ post.image_url }}" alt="" class="img-responsive">
+                        <div class="person-content">
+                            <h4>Ruth Wood</h4>
+                            <h5 class="role">Founder, CEO</h5>
+                            <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+                        </div>
+                    </div><!-- person -->
+                </div>
+            {% endfor %}
         </div>
     </div>
 </section><!-- blog -->
