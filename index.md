@@ -302,5 +302,5 @@ layout: default
             {% endfor %}
         </div>
     </div>
-</section><!-- blog -->
+</section><!-- blog --> 
 
