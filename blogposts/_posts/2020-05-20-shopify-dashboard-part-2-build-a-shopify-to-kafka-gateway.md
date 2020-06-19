@@ -13,7 +13,7 @@ This second Streamsheet Server runs on-premise behind the local firewall. Since 
 The following slide shows the setup of this use case.
 
 <div style="text-align:center">
-    ![Shopify Kafka Streamsheet]({{page.image_url}})
+    <img src="{{page.image_url}}" width="100%" height="auto">
 </div>
 
 
