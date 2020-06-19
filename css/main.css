@@ -590,6 +590,20 @@ background-color: #313454; }
 	$Blog
 ========================================================================== */
 
+.blogpage {
+  background-color: #3a3e64;
+  background-position: center top;
+  background-repeat: no-repeat;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  min-height: 350px; }
+
+.blogpage-spacer {
+  padding-top: 115px; 
+}
+
 .blog {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -805,7 +819,7 @@ background-color: #313454; }
   -o-background-size: cover;
   -webkit-background-size: cover;
   background-size: cover;
-  min-height: 450px; }
+  min-height: 650px; }
 
 .downloadpage-spacer {
   padding-top: 115px; 
