@@ -12,16 +12,13 @@ This second Streamsheet Server runs on-premise behind the local firewall. Since 
 
 The following slide shows the setup of this use case.
 
-<div style="text-align:center">
-    <img src="{{page.image_url}}" width="100%" height="auto">
-</div>
-
+<img src="{{page.image_url}}" width="100%" height="auto">
 
 In the video you will see how to aggregate and chart the data from the Kafka cluster that we used in the previous post. In the video I demonstrate 2 different ways on how to store the aggregated data. First I simply use Streamsheet cells to store the aggregated data. This will work if you only need the data persisted for a limited time (for example the last 300 sales). At the end of the video I show an alternative way using MongoDB. This allows to store the aggregated data persistently over long periods of time. And it also allows to retrieve the data from other applications. This could be another Streamsheet or even a 3rd party application build with another programming framework.
 
 I recommended to watch the following video in full screen mode. The video is about 12 minutes long. 
 
-### First Video: Build a Shopify-to-Kafka Gateway with Streamsheets
+### Video: Build a Shopify-to-Kafka Gateway with Streamsheets
 
 <div class="iframe-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/-pzir2aWcF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
