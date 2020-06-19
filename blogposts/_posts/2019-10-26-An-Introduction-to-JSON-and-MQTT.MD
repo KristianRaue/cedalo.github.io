@@ -16,4 +16,4 @@ Thank you to Roger Light to make this video possible. We recommend that you watc
     <iframe width="560" height="315" src="https://www.youtube.com/embed/qZtBHSaseYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-This session is also the first of a series of sessions where we show the basic steps towards IoT, Stream Processing, MQTT, Pub/Sub and the use of Streamsheets. So stay tuned for more!
+This session is also the first of a series of sessions where we show the basic steps towards IoT, Stream Processing, MQTT, Pub/Sub and the use of Streamsheets. So stay tuned for more! 

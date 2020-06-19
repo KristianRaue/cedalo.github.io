@@ -20,4 +20,4 @@ In the second half of the video it is shown how you can animate the wind mill by
     <iframe width="560" height="315" src="https://www.youtube.com/embed/jKSTfNGPv18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-In a later post, I will show how you can use the MQTT stream of this Streamsheet as an input source for a digital twin and an energy dashboard , both implemented via Streamsheets.
+In a later post, I will show how you can use the MQTT stream of this Streamsheet as an input source for a digital twin and an energy dashboard , both implemented via Streamsheets. 

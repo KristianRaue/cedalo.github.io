@@ -23,4 +23,4 @@ Hint: The IF column at the right side of the 1st Streamsheet controls whether th
 
 In addition to specifying a pusher the voice commands can also “free” the pushers from a specified part assignment by using the word “nothing” as part code.
 
-In a future blog post we will show a video on how to build a real-time condition monitoring app for this use case. Stay tuned.
+In a future blog post we will show a video on how to build a real-time condition monitoring app for this use case. Stay tuned. 

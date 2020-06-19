@@ -78,6 +78,6 @@ In cell B9 we calculate the current time serial using the NOW() formula. The WEE
 
 The OR() function in cell B12 checks if it is Sunday or after 8 pm and returns TRUE/FALSE depending on the result of the OR condition.
 
-Finally in cell B16 we use the IF() function with a string formula to calculate the topic we want to use as input for the MQTT.PUBLISH() function in cell B18.
+Finally in cell B16 we use the IF() function with a string formula to calculate the topic we want to use as input for the MQTT.PUBLISH() function in cell B18. 
 
 

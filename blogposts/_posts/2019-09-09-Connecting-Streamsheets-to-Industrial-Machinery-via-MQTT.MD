@@ -38,4 +38,4 @@ In the next part of this use case I will show how to integrate some AI capabilit
 
 In another blog post for this use case I show an analytic dashboard of the sorter station with charts and statistical functionality. In the following screenshot you can see a short preview of this analytic dashboard. Follow this link to see how I created the dashboard.
 
-<img src="{{page.image_url2}}" width="100%" height="auto">
+<img src="{{page.image_url2}}" width="100%" height="auto"> 

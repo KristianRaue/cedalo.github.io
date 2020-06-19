@@ -40,4 +40,4 @@ Note: In this demo were are not making use of the slot 1 value, instead we are a
 
 <div class="iframe-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/b60ZLrHoCOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div> 
