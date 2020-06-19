@@ -664,7 +664,7 @@ background-color: #313454; }
 	$Teams
 ========================================================================== */
 .person {
-  max-width: 270px; }
+  max-width: 350px; }
 
 .person-intro {
   margin-bottom: 30px;
@@ -684,10 +684,10 @@ background-color: #313454; }
 .person h4 {
   font-weight: 400; }
 .person h5 {
-  color: #e84545;
-  font-size: 13px;
-  font-weight: 400;
-  margin-bottom: 20px; }
+  line-height: 1.4;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 10px; }
 
 .social-icons, .footer .footer-share {
   margin-top: 30px; }

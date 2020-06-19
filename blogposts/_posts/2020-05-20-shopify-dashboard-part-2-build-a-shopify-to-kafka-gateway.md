@@ -5,7 +5,7 @@ date: 2020-05-20
 image_url: "/assets/images/blogposts/streamsheets-shopify-kafka.png"
 ---
 
-In this video post you see how you can build a Streamsheet that receives data from Shopify via Apache Kafka The resulting Streamsheet generates aggregations and charts to serve as a real-time dashboard for a Shopify online shop.
+In this video post you see how you can build a Streamsheet that receives data from Shopify via Apache Kafka. The resulting Streamsheet generates aggregations and charts to serve as a real-time dashboard for a Shopify online shop.
 
 This is the second part of the Shopify/Kafka/Streamsheet use case. In the first part we built a cloud based gateway to connect a Shopify store to Apache Kafka (hosted on the Confluent Cloud). In this second part we build a Streamsheet on a second Streamsheet Server that subscribes to the Kafka cluster and displays the real time data from Shopify in a dashboard. 
 

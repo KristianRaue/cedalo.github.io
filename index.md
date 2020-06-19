@@ -295,7 +295,7 @@ layout: default
                     <div class="person">
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
                         <div>
-                            <h4>{{post.title}}</h5>
+                            <h4>{{post.title}}</h4>
                             <p>{{post.excerpt}}</p>
                         </div>
                     </div><!-- person -->
