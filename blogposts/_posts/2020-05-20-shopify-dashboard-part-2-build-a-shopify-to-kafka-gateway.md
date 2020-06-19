@@ -18,6 +18,8 @@ In the video you will see how to aggregate and chart the data from the Kafka clu
 
 I recommended to watch the following video in full screen mode. The video is about 12 minutes long. 
 
-# First Video: Build a Shopify-to-Kafka Gateway with Streamsheets
+### First Video: Build a Shopify-to-Kafka Gateway with Streamsheets
 
-<iframe  allowfullscreen title="youtube Video Player"  data-src="https://www.youtube.com/embed/-pzir2aWcF8?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>
+<div class="iframe-container">
+    <iframe  allowfullscreen title="youtube Video Player"  data-src="https://www.youtube.com/embed/-pzir2aWcF8?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=0&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>
+</div>
