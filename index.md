@@ -295,8 +295,8 @@ layout: default
                     <div class="person">
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
                         <div class="person-content">
-                            <h4>{{post.title}}</h4>
-                            <h5>{{ page.date | date_to_string }}</h5>
+                            <h5>{{post.title}}</h5>
+                            <p>{{post.date| date_to_string }}</p>
                             <p>{{post.excerpt}}</p>
                         </div>
                     </div><!-- person -->
