@@ -291,11 +291,11 @@ layout: default
                 </div>
             </div>
              {% for post in site.categories["blogposts"] %}
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-4 col-sm-6">
                     <div class="person">
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
                         <div>
-                            <h5>{{post.title}}</h5>
+                            <h4>{{post.title}}</h5>
                             <p>{{post.excerpt}}</p>
                         </div>
                     </div><!-- person -->
