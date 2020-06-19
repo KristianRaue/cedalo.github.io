@@ -625,7 +625,8 @@ background-color: #313454; }
 }
 
 .blog p {
-  margin-top: 0px;
+  margin-top: 10px
+  margin-bottom: 10px;
 }
 
 .blog h1 {
@@ -641,7 +642,8 @@ background-color: #313454; }
   max-width:900px;
   width:100%;
   height:auto;
-  padding-top:0px;
+  padding-top:20px;
+  padding-bottom:20px
 }
 
 /* ==========================================================================
