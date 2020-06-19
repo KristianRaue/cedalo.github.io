@@ -21,5 +21,5 @@ I recommended to watch the following video in full screen mode. The video is abo
 ### First Video: Build a Shopify-to-Kafka Gateway with Streamsheets
 
 <div class="iframe-container">
-    <iframe  allowfullscreen title="youtube Video Player"  data-src="https://www.youtube.com/embed/-pzir2aWcF8?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=0&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-pzir2aWcF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
