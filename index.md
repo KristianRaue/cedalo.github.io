@@ -293,7 +293,7 @@ layout: default
              {% for post in site.categories["blogposts"] %}
                 <div class="col-md-3 col-sm-6">
                     <div class="person">
-                        <img src="{{ post.image_url }}" alt="" class="img-responsive">
+                        <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
                         <div class="person-content">
                             <h4>{{post.title}}</h4>
                             <h5>{{ page.date | date_to_string }}</h5>
