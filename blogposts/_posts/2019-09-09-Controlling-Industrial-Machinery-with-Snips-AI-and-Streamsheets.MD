@@ -2,7 +2,7 @@
 layout: blogposts
 title: "Controlling Industrial Machinery with Snips AI and Streamsheets"
 date: 2019-09-09
-image_url: ""
+image_url: "/assets/images/blogposts/snips_ai_and_streamsheets.jpg"
 ---
 
 In this post I will integrate an artificial intelligence based technology named Snips to control a sorting process in real-time.
