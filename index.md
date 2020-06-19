@@ -295,9 +295,9 @@ layout: default
                     <div class="person">
                         <img src="{{ post.image_url }}" alt="" class="img-responsive">
                         <div class="person-content">
-                            <h4>Ruth Wood</h4>
-                            <h5 class="role">Founder, CEO</h5>
-                            <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+                            <h4>{{post.title}}</h4>
+                            <h5>{{ page.date | date_to_string }}</h5>
+                            <p>{{post.excerpt}}</p>
                         </div>
                     </div><!-- person -->
                 </div>
