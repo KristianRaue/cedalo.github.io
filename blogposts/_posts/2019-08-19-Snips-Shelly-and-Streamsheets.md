@@ -27,7 +27,7 @@ In the JSON payload of the messages you find the name of the intent (here: krist
 
 You can then build a Streamsheet that subscribes to the given topic and reads the JSON payload of the incoming messages. If you link the JSON fields slots.0.rawValue and slots.1.rawValue to cells in the Streamsheets via Drag-and-Drop, you can build some senseful spreadsheet logic based on theses values. This is shown in the following screenshot (which is in formula view).
 
-<img src="{{page.image_url1}" width="100%" height="auto">
+<img src="{{page.image_url1}}" width="100%" height="auto">
 
 Everytime a message arrives, the Streamsheet will publish data to two topics simultaneously. In cell B19 the Streamsheet publishes the payload in cell A12:B13 as JSON to the topic “dialogueManager/endSession”. This very handy MQTT command ends the Snips session and sends the given voice output to the speakers of the Raspi, telling the user what action has been executed.
 
