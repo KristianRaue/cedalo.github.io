@@ -1,7 +1,7 @@
 ---
 layout: blogposts
 title: "How Streamsheets work – Stream Processing and IoT for Non-Programmers"
-date: 2019-11-28
+date: 2020-11-28
 image_url: "/assets/images/blogposts/blog_shelly_introduction.png"
 ---
 
