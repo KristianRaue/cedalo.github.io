@@ -1,6 +1,6 @@
 ---
 layout: blogposts
-title: "Shopify Dashboard (Part 2): How to aggregate and chart Kafka data in Streamsheets"
+title: "Shopify Dashboard (Part 2): How to aggregate and chart Kafka data"
 date: 2020-05-20
 image_url: "/assets/images/blogposts/streamsheets-shopify-kafka.png"
 ---
