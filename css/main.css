@@ -347,7 +347,7 @@ background-color: #313454; }
     line-height: 1.5;
     margin: 40px; }
 
-   .banner-text ol, .banner-text li  {
+   .banner-text ul, .banner-text li  {
       color: #fff;
       font-size: 20px;
       font-weight: 300;
