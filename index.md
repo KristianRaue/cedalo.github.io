@@ -29,6 +29,15 @@ layout: default
                     <img  src="/images/screenshot_orig.png" alt="">
                 </div><!-- banner text -->
             </div>
+            <div class="col-md-12">
+                <div class="banner-spacer">
+                    <p>June 30, 2020<br />11:00am - 12:00pm CEST</p>
+                    <h2>Streamsheets and Apache Kafka – Interactively build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills</h2>
+                    <p>Join Us Virtually on GoToWebinar</p>
+                    <p><a href="https://events.confluent.io/streamsheets-realtime" target="_blank" class="btn btn-large">Get Started</a>
+                </div><!-- banner text -->
+            </div>
+
         </div>
     </div>
 </section><!-- banner -->
