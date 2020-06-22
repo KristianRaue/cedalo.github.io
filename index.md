@@ -30,7 +30,7 @@ layout: default
                 </div><!-- banner text -->
             </div>
             <div class="col-md-12">
-                <div>
+                <div class="banner-text">
                     <p>June 30, 2020<br />11:00am - 12:00pm CEST</p>
                     <h2>Streamsheets and Apache Kafka – Interactively build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills</h2>
                     <p>Join Us Virtually on GoToWebinar</p>
