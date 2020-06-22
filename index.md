@@ -32,11 +32,15 @@ layout: default
             <div class="col-md-12">
                 <div class="banner-text fluid-padding">
                     <hr>
-                    <p>Joint Webinar with CONFLUENT, the original creators of Apache Kafka®
+                    <p>Joint Webinar with CONFLUENT, the original creators of Apache Kafka®<br />
                     June 30, 2020 - 11:00am - 12:00pm CEST</p>
                     <h2>Streamsheets and Apache Kafka – Interactively build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills</h2>
-                    <p>Join Us Virtually on GoToWebinar</p>
-                    <p><a href="https://events.confluent.io/streamsheets-realtime" target="_blank" class="btn btn-large">Register</a></p>
+                    <ul>Hear Kai Waehner of Confluent and Kristian Raue of Cedalo on these topics:</ul>
+                        <li>Where Apache Kafka and Streamsheets fit in the data ecosystem (Industrial IoT, Smart Energy, Clinical Applications, Finance Applications)</li>
+                        <li>Customer Story: How the Freiburg University Hospital uses Kafka and Streamsheets for dashboarding the utilization of clinical assets</li>
+                        <li>15-Minutes Live Demonstration: Building a financial fraud detection dashboard based on Confluent Cloud, ksqlDB and Cedalo Cloud Streamsheets just using spreadsheet formulas.</li>
+                    </ul>
+                    <p><a href="https://events.confluent.io/streamsheets-realtime" target="_blank" class="btn btn-large">Register for the Webinar</a></p>
                 </div><!-- banner text -->
             </div>
 
