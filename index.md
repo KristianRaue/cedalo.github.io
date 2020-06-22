@@ -32,7 +32,8 @@ layout: default
             <div class="col-md-12">
                 <div class="banner-text fluid-padding">
                     <hr>
-                    <p>June 30, 2020<br />11:00am - 12:00pm CEST</p>
+                    <p>Joint Webinar with CONFLUENT, the original creators of Apache Kafka®
+                    June 30, 2020 - 11:00am - 12:00pm CEST</p>
                     <h2>Streamsheets and Apache Kafka – Interactively build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills</h2>
                     <p>Join Us Virtually on GoToWebinar</p>
                     <p><a href="https://events.confluent.io/streamsheets-realtime" target="_blank" class="btn btn-large">Register</a></p>
