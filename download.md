@@ -38,7 +38,7 @@ title: Cedalo - Download
             <div class="col-lg-8 col-md-10 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-1">  
                 <div class="products-box text-center">
                     <h1>Overview of the Feature Set</h1>
-                    <p>&nbsp;</p>
+                    <p>&nbsp;&nbsp;</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
