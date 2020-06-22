@@ -366,6 +366,9 @@ background-color: #313454; }
       margin-top: 5px;
       margin-bottom: 5px;
       padding: 0px;  }
+
+      .banner-text  .btn-large {
+        margin: 0px; }
   
 
     .banner-chart {
