@@ -345,11 +345,22 @@ background-color: #313454; }
     line-height: 1.5;
     margin: 40px; }
 
-   .banner-text ul, .banner-text li  {
+   .banner-text ul  {
       color: #fff;
       font-size: 20px;
       font-weight: 300;
       line-height: 1.5;
+      margin-left: 40px;
+      margin-right: 40px;
+      margin-top: 15px;
+      margin-bottom: 5px;
+      padding: 0px;  }
+
+    .banner-text li  {
+      color: #fff;
+      font-size: 20px;
+      font-weight: 300;
+      line-height: 1.4;
       margin-left: 40px;
       margin-right: 40px;
       margin-top: 5px;
