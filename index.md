@@ -30,9 +30,9 @@ layout: default
                 </div><!-- banner text -->
             </div>
             <div class="col-md-12">
-                <div class="banner-text fluid-padding" style="padding-top: 0px">
+                <div class="banner-text fluid-padding" style="padding-bottom: 0px">
                     <hr>
-                    <p>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®<br />
+                    <p style="margin-buttom:10px">Joint Webinar with CONFLUENT - The original creators of Apache Kafka®<br />
                     June 30, 2020 - 11:00am - 12:00pm CEST</p>
                     <h2>Streamsheets and Apache Kafka – Interactively build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills</h2>
                     <ul>Hear Kai Waehner of Confluent and Kristian Raue of Cedalo on these topics:
