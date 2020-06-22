@@ -340,7 +340,7 @@ background-color: #313454; }
     font-weight: 700;
   }
 
-  .banner-text p, .banner-text ol, .banner-text li,  {
+  .banner-text p, .banner-text ol, .banner-text li  {
     color: #fff;
     font-size: 20px;
     font-weight: 300;
