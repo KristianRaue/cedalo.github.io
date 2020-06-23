@@ -109,15 +109,14 @@
     <script src="/js/jquery.cookieBar.min.js"></script>
     <script>
         $(function() {
-            $.cookieBar('addTranslation', 'en', {
+            $.cookieBar('addTranslation', 'de', {
                 message:	'We use cookies and third-party providers for the following purposes: videos, statistics, functionality, security. By using this website, you agree to this',
                 acceptText:	'OK',
                 infoText:	'Privacy Policy',
-                privacyText:	'Privacy Policy'
-            });
-            $.cookieBar({
+                privacyText:	'Privacy Policy',
+                language: 'de',
                 style: 'bottom-right',
-                infoLink: "privacy-policy.html",
+                infoLink: "privacy-policy.html"
             });
         });
     </script>
