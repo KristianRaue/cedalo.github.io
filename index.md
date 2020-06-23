@@ -14,7 +14,7 @@ layout: default
             </div>
             <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-xs-12">
                 <div class="banner-text text-center">
-                    <h1>Stream processing & IoT for everybody</h1>
+                    <h1>Stream processing & IoT<br />for everybody</h1>
                     <p><b> Eclipse Streamsheets</b> - Anybody who knows how to use a spreadsheet can quickly build server-based, real-time applications, for any purpose. No programming required.</p>
                     <p><b>Eclipse Mosquitto</b> -  Devices and apps communicate in real-time, based the most popular broker technology in the world.</p>
                     <p>
