@@ -1,9 +1,18 @@
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1500px) {
 
   
   .usecase-box {
     background-color: #eeeded;
     min-height: 300px;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+
+  
+  .usecase-box {
+    background-color: #eeeded;
+    min-height: 360px;
   }
 
   .feature-content {
