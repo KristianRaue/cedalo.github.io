@@ -76,8 +76,7 @@ a:hover, a:focus {
 body {
   font-family: 'MarkOT-Medium', sans-serif;
   font-weight: 400;
-  color: #6c7279;
-  display:grid }
+  color: #6c7279;}
 
 ul, ol {
   margin: 10px;
