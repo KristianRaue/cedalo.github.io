@@ -271,23 +271,9 @@
     vertical-align: unset;
   }
 
-  .usecase-body {
-    opacity: 1;
-  }
 
   .usecase-box {
     min-height: unset;
-  }
-  
-  .usecase .overlay-caption {
-    -moz-transform: translateY(-0%);
-    -ms-transform: translateY(-0%);
-    -webkit-transform: translateY(-0%);
-    transform: translateY(0%);
-    -moz-transition: all, 0.5s;
-    -o-transition: all, 0.5s;
-    -webkit-transition: all, 0.5s;
-    transition: all, 0.5
   }
 
   .products-box {
