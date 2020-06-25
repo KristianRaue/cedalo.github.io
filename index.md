@@ -36,7 +36,7 @@ layout: default
     <div class="container-flex  fluid-padding" >
         <div class="row no-padding" style="padding-top:20px">
             <div class="col-md-12">
-                <div class="banner-text fluid-padding" style="margin-bottom: 0px">
+                <div class="fluid-padding" style="margin-bottom: 0px">
                     <hr>
                     <p style="margin-bottom:10px"><b>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®</b><br />
                     June 30, 2020 - 11:00am - 12:00pm CEST</p>
