@@ -54,9 +54,7 @@ title: Cedalo - Download
 </tr>
 <tr>
 <td><b>Essentials</b></td>
-<td></td>
-<td></td>
-<td></td>
+
 
 </tr>
 <tr>
@@ -82,9 +80,7 @@ title: Cedalo - Download
 </tr>
 <tr>
 <td><b>Channels</b></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>MQTT</td>
@@ -165,9 +161,7 @@ title: Cedalo - Download
 </tr>
 <tr>
 <td><b>Advanced</b></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>Premium Charts</td>
@@ -243,9 +237,7 @@ title: Cedalo - Download
 </tr>
 <tr>
 <td><b>Admin</b></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>User Mgmt</td>
@@ -275,9 +267,7 @@ title: Cedalo - Download
 </tr>
 <tr>
 <td><b>Support</b></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>Community Support</td>
