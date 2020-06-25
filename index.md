@@ -29,7 +29,12 @@ layout: default
                     <img  src="/images/screenshot_orig.png" alt="">
                 </div><!-- banner text -->
             </div>
-            <div class="col-md-12">
+        </div>
+    </div>
+</section><!-- banner -->
+<section id="event" class="section gallery"><!-- Chart Gallery -->
+    <div class="container-flex text-center fluid-padding" >
+            <div class="row no-padding" style="padding-top:20px">
                 <div class="banner-text fluid-padding" style="margin-bottom: 0px">
                     <hr>
                     <p style="margin-bottom:10px"><b>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®</b><br />
@@ -43,10 +48,8 @@ layout: default
                     <p style="margin-bottom:10px"><a href="https://events.confluent.io/streamsheets-realtime" target="_blank" class="btn btn-large">Register for the Webinar</a></p>
                 </div><!-- banner text -->
             </div>
-
-        </div>
     </div>
-</section><!-- banner -->
+</section><!-- Chart Gallery -->
 <section id="products" class="products section">
     <div class="container-fluid fluid-padding" style="padding-top:20px;">
         <div class="row no-padding">
