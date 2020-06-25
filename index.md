@@ -34,7 +34,7 @@ layout: default
 </section><!-- banner -->
 <section id="event" class="section confluent no-padding"><!-- Chart Gallery -->
     <div class="container-flex  fluid-padding" >
-        <div class="row no-padding" style="padding-top:20px">
+        <div class="row no-padding">
             <div class="col-md-12">
                 <div class="fluid-padding" style="margin-bottom: 0px">
                     <hr>
