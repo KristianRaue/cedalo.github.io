@@ -32,7 +32,7 @@ layout: default
         </div>
     </div>
 </section><!-- banner -->
-<section id="event" class="section features"><!-- Chart Gallery -->
+<section id="event" class="section confluent"><!-- Chart Gallery -->
     <div class="container-flex text-center fluid-padding" >
             <div class="row no-padding" style="padding-top:20px">
                 <div class="col-md-12">

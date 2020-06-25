@@ -385,6 +385,10 @@ background-color: #313454; }
     transition: all 2s;}
 
 
+    .confluent {
+      background-color: #3a3e64; 
+    }
+
 /* ==========================================================================
 	$Intro (später interessant für weitere Seiten)
 ========================================================================== */
@@ -472,6 +476,8 @@ background-color: #313454; }
   height:auto;
   padding-top:0px;
 }
+
+
 
 
 
