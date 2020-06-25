@@ -53,7 +53,7 @@ title: Cedalo - Download
 <tr>
 </tr>
 <tr>
-<td>Essentials</td>
+<td><b>Essentials</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -81,7 +81,7 @@ title: Cedalo - Download
 <tr>
 </tr>
 <tr>
-<td>Channels</td>
+<td><b>Channels</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -164,7 +164,7 @@ title: Cedalo - Download
 <tr>
 </tr>
 <tr>
-<td>Advanced</td>
+<td><b>Advanced</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -242,7 +242,7 @@ title: Cedalo - Download
 <tr>
 </tr>
 <tr>
-<td>Admin</td>
+<td><b>Admin</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -274,7 +274,7 @@ title: Cedalo - Download
 <tr>
 </tr>
 <tr>
-<td>Support</td>
+<td><b>Support</b></td>
 <td></td>
 <td></td>
 <td></td>
