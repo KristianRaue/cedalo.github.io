@@ -48,7 +48,7 @@ title: Cedalo - Download
 <div>
 <div><strong>Further Description</strong></div>
 </div>
-</td>
+</th>
 </tr>
 <tr>
 </tr>
