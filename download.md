@@ -38,14 +38,263 @@ title: Cedalo - Download
             <div class="col-lg-8 col-md-10 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-1">  
                 <div class="products-box text-center">
                     <h1>Overview of the Feature Set</h1>
-                    <p>&nbsp;&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
+                    <table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="197" /><col width="199" /><col width="117" /><col width="207" /><col width="390" /></colgroup>
+<tbody>
+<tr>
+<th><strong>Features</strong></th>
+<th><strong>Eclipse Streamsheets</strong></th>
+<th><strong>Cedalo Sheets</strong></th>
+<th>
+<div>
+<div><strong>Further Description</strong></div>
+</div>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>Essentials</td>
+<td></td>
+<td></td>
+<td></td>
+
+</tr>
+<tr>
+<td>150+ Shet Functions</td>
+<td>yes</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Standard Charts</td>
+<td>yes</td>
+<td>yes</td>
+<td></td>
+
+</tr>
+<tr>
+<td>Realtime Collaboration</td>
+<td>yes</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>Channels</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MQTT</td>
+<td>yes</td>
+<td>yes</td>
+<td></td>
+
+</tr>
+<tr>
+<td>Apache Kafka</td>
+<td>yes</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+<td>HTTP Client</td>
+<td>yes</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Webhooks</td>
+<td>yes</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+<td>HTTP / REST API Server</td>
+<td>-</td>
+<td>optional</td>
+<td></td>
+</tr>
+<tr>
+<td>OPC UA Client</td>
+<td>-</td>
+<td>optional</td>
+<td></td>
+</tr>
+<tr>
+<td>OPC UA Server</td>
+<td>-</td>
+<td>optional</td>
+<td></td>
+</tr>
+<tr>
+<td>Synchronous File Reader</td>
+<td>-</td>
+<td>optional</td>
+<td>
+<div>
+<div>Observe text files and continuously read new entries. With this feature you turn text files into a data stream that can be sent and stored anywhere.</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>MongoDB support</td>
+<td>yes</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Influx Db support</td>
+<td>yes</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+<td>TimescaleDB included</td>
+<td>-</td>
+<td>yes</td>
+<td>
+<div>
+<div>Sheets comes with a built-in timescaledb.</div>
+</div>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>Advanced</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Premium Charts</td>
+<td>-</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Screenshots as PDF</td>
+<td>-</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Send SMS &amp; Email</td>
+<td>-</td>
+<td>optional</td>
+<td></td>
+</tr>
+<tr>
+<td>JSON Process Function</td>
+<td>-</td>
+<td>yes</td>
+<td>
+<div>
+<div>This function allows you to process large messages more effectively. This is especially true if looping at at the granular key-value pair level is not an option.</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>InfluxDB Export Function</td>
+<td>-</td>
+<td>yes</td>
+<td>
+<div>
+<div>Implement your own Streamsheets functions in JavaScript and Node.js.</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>Timescale Export Function</td>
+<td>-</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Custom User Functions</td>
+<td>-</td>
+<td>optional</td>
+<td>
+<div>
+<div>Implement your own Streamsheets functions in JavaScript and Node.js.</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>Sharable Links</td>
+<td>-</td>
+<td>yes</td>
+<td>
+<div>
+<div>Share your Dashboards and solutions with people outside of your organization. No log-in required. You can even set ann expiry date for the access.</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>Custom Machine Tile Images</td>
+<td>yes</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>Admin</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>User Mgmt</td>
+<td>yes</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+<td>User roles</td>
+<td>-</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Workspaces</td>
+<td>-</td>
+<td>optional</td>
+<td></td>
+</tr>
+<tr>
+<td>Single Sign On</td>
+<td>-</td>
+<td>optional</td>
+<td></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>Support</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Community Support</td>
+<td>yes</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Full Support</td>
+<td>-</td>
+<td>yes</td>
+<td></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
                 </div>
             </div>
         </div>
