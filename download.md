@@ -51,7 +51,7 @@ title: Cedalo - Download
 </th>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Essentials</strong></span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp;<strong>Essentials</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
