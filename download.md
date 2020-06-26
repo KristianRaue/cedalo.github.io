@@ -38,250 +38,245 @@ title: Cedalo - Download
             <div class="col-lg-8 col-md-10 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-1">  
                 <div class="products-box text-center">
                     <h1>Overview of the Feature Set</h1>
-                    <table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="197" /><col width="199" /><col width="117" /><col width="207" /><col width="390" /></colgroup>
+                    <table dir="ltr" style="width: 693px; border-color: #3A3E64;" border="1" cellspacing="0" cellpadding="5"><colgroup><col width="250" /><col width="250" /><col width="200" /><col width="250" /><col width="250" /></colgroup>
 <tbody>
 <tr>
-<th><strong>Features</strong></th>
-<th><strong>Eclipse Streamsheets</strong></th>
-<th><strong>Cedalo Sheets</strong></th>
-<th>
+<th style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Features</strong></span></th>
+<th style="width: 186px; text-align: center;"><span style="color: #3a3e64;"><strong>Eclipse Streamsheets</strong></span></th>
+<th style="width: 140px; text-align: center;"><span style="color: #3a3e64;"><strong>Cedalo Sheets</strong></span></th>
+<th style="width: 185px; text-align: center;">
 <div>
-<div><strong>Further Description</strong></div>
+<div><span style="color: #3a3e64;"><strong>Further Description</strong></span></div>
 </div>
 </th>
 </tr>
 <tr>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Essentials</strong></span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td><b>Essentials</b></td>
-
-
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">150+ Shet Functions</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>150+ Shet Functions</td>
-<td>yes</td>
-<td>yes</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Standard Charts</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>Standard Charts</td>
-<td>yes</td>
-<td>yes</td>
-<td></td>
-
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Realtime Collaboration</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>Realtime Collaboration</td>
-<td>yes</td>
-<td>yes</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Channels</strong></span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">MQTT</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td><b>Channels</b></td>
-
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Apache Kafka</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>MQTT</td>
-<td>yes</td>
-<td>yes</td>
-<td></td>
-
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">HTTP Client</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>Apache Kafka</td>
-<td>yes</td>
-<td>yes</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Webhooks</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>HTTP Client</td>
-<td>yes</td>
-<td>yes</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">HTTP / REST API Server</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>Webhooks</td>
-<td>yes</td>
-<td>yes</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">OPC UA Client</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>HTTP / REST API Server</td>
-<td>-</td>
-<td>optional</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">OPC UA Server</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>OPC UA Client</td>
-<td>-</td>
-<td>optional</td>
-<td></td>
-</tr>
-<tr>
-<td>OPC UA Server</td>
-<td>-</td>
-<td>optional</td>
-<td></td>
-</tr>
-<tr>
-<td>Synchronous File Reader</td>
-<td>-</td>
-<td>optional</td>
-<td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Synchronous File Reader</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 185px;">
 <div>
-<div>Observe text files and continuously read new entries. With this feature you turn text files into a data stream that can be sent and stored anywhere.</div>
+<div><span style="color: #3a3e64;">Observe text files and continuously read new entries. With this feature you turn text files into a data stream that can be sent and stored anywhere.</span></div>
 </div>
 </td>
 </tr>
 <tr>
-<td>MongoDB support</td>
-<td>yes</td>
-<td>yes</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">MongoDB support</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>Influx Db support</td>
-<td>yes</td>
-<td>yes</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Influx Db support</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>TimescaleDB included</td>
-<td>-</td>
-<td>yes</td>
-<td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">TimescaleDB included</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;">
 <div>
-<div>Sheets comes with a built-in timescaledb.</div>
+<div><span style="color: #3a3e64;">Sheets comes with a built-in timescaledb.</span></div>
 </div>
 </td>
 </tr>
 <tr>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Advanced</strong></span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td><b>Advanced</b></td>
-
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Premium Charts</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>Premium Charts</td>
-<td>-</td>
-<td>yes</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Screenshots as PDF</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>Screenshots as PDF</td>
-<td>-</td>
-<td>yes</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Send SMS &amp; Email</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>Send SMS &amp; Email</td>
-<td>-</td>
-<td>optional</td>
-<td></td>
-</tr>
-<tr>
-<td>JSON Process Function</td>
-<td>-</td>
-<td>yes</td>
-<td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">JSON Process Function</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;">
 <div>
-<div>This function allows you to process large messages more effectively. This is especially true if looping at at the granular key-value pair level is not an option.</div>
+<div><span style="color: #3a3e64;">This function allows you to process large messages more effectively. This is especially true if looping at at the granular key-value pair level is not an option.</span></div>
 </div>
 </td>
 </tr>
 <tr>
-<td>InfluxDB Export Function</td>
-<td>-</td>
-<td>yes</td>
-<td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">InfluxDB Export Function</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;">
 <div>
-<div>Implement your own Streamsheets functions in JavaScript and Node.js.</div>
+<div><span style="color: #3a3e64;">Implement your own Streamsheets functions in JavaScript and Node.js.</span></div>
 </div>
 </td>
 </tr>
 <tr>
-<td>Timescale Export Function</td>
-<td>-</td>
-<td>yes</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Timescale Export Function</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>Custom User Functions</td>
-<td>-</td>
-<td>optional</td>
-<td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Custom User Functions</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 185px;">
 <div>
-<div>Implement your own Streamsheets functions in JavaScript and Node.js.</div>
+<div><span style="color: #3a3e64;">Implement your own Streamsheets functions in JavaScript and Node.js.</span></div>
 </div>
 </td>
 </tr>
 <tr>
-<td>Sharable Links</td>
-<td>-</td>
-<td>yes</td>
-<td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Sharable Links</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;">
 <div>
-<div>Share your Dashboards and solutions with people outside of your organization. No log-in required. You can even set ann expiry date for the access.</div>
+<div><span style="color: #3a3e64;">Share your Dashboards and solutions with people outside of your organization. No log-in required. You can even set ann expiry date for the access.</span></div>
 </div>
 </td>
 </tr>
 <tr>
-<td>Custom Machine Tile Images</td>
-<td>yes</td>
-<td></td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Custom Machine Tile Images</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Admin</strong></span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td><b>Admin</b></td>
-
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">User Mgmt</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>User Mgmt</td>
-<td>yes</td>
-<td>yes</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">User roles</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>User roles</td>
-<td>-</td>
-<td>yes</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Workspaces</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>Workspaces</td>
-<td>-</td>
-<td>optional</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Single Sign On</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td>Single Sign On</td>
-<td>-</td>
-<td>optional</td>
-<td></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Support</strong></span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Community Support</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td><b>Support</b></td>
-
-</tr>
-<tr>
-<td>Community Support</td>
-<td>yes</td>
-<td>yes</td>
-<td></td>
-</tr>
-<tr>
-<td>Full Support</td>
-<td>-</td>
-<td>yes</td>
-<td></td>
-</tr>
-<tr>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Full Support</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 </tbody>
 </table>
