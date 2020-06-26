@@ -51,7 +51,13 @@ title: Cedalo - Download
 </th>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp;<strong>Essentials</strong></span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+</tr>
+<tr>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Essentials</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
@@ -72,6 +78,12 @@ title: Cedalo - Download
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Realtime Collaboration</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+</tr>
+<tr>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
@@ -155,6 +167,12 @@ title: Cedalo - Download
 </td>
 </tr>
 <tr>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+</tr>
+<tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Advanced</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
@@ -231,6 +249,12 @@ title: Cedalo - Download
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+</tr>
+<tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Admin</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
@@ -258,6 +282,12 @@ title: Cedalo - Download
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Single Sign On</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+</tr>
+<tr>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
