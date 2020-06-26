@@ -38,7 +38,7 @@ title: Cedalo - Download
             <div class="col-lg-8 col-md-10 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-1">  
                 <div class="products-box text-center">
                     <h1>Overview of the Feature Set</h1>
-                    <table dir="ltr" style="width: 693px; border-color: #3A3E64;" border="1" cellspacing="0" cellpadding="5"><colgroup><col width="250" /><col width="250" /><col width="200" /><col width="250" /><col width="250" /></colgroup>
+                    <table dir="ltr" style="width: 693px; border-color: #3A3E64;" border="1" cellspacing="0" cellpadding="8"><colgroup><col width="250" /><col width="250" /><col width="200" /><col width="250" /><col width="250" /></colgroup>
 <tbody>
 <tr>
 <th style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Features</strong></span></th>
