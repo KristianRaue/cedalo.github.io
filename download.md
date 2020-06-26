@@ -41,7 +41,7 @@ title: Cedalo - Download
                     <table dir="ltr" style="width: 693px; border-color: #3A3E64;" border="1" cellspacing="0" cellpadding="8"><colgroup><col width="250" /><col width="250" /><col width="200" /><col width="250" /><col width="250" /></colgroup>
 <tbody>
 <tr>
-<th style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Features</strong></span></th>
+<th style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Features</strong></span></th>
 <th style="width: 186px; text-align: center;"><span style="color: #3a3e64;"><strong>Eclipse Streamsheets</strong></span></th>
 <th style="width: 140px; text-align: center;"><span style="color: #3a3e64;"><strong>Cedalo Sheets</strong></span></th>
 <th style="width: 185px; text-align: center;">
@@ -57,73 +57,73 @@ title: Cedalo - Download
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">150+ Shet Functions</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; 150+ Shet Functions</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Standard Charts</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Standard Charts</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Realtime Collaboration</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Realtime Collaboration</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Channels</strong></span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Channels</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">MQTT</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; MQTT</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Apache Kafka</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Apache Kafka</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">HTTP Client</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; HTTP Client</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Webhooks</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Webhooks</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">HTTP / REST API Server</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; HTTP / REST API Server</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">OPC UA Client</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; OPC UA Client</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">OPC UA Server</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; OPC UA Server</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Synchronous File Reader</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Synchronous File Reader</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
 <td style="width: 185px;">
@@ -133,19 +133,19 @@ title: Cedalo - Download
 </td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">MongoDB support</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; MongoDB support</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Influx Db support</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Influx Db support</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">TimescaleDB included</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; TimescaleDB included</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;">
@@ -155,31 +155,31 @@ title: Cedalo - Download
 </td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Advanced</strong></span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Advanced</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Premium Charts</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Premium Charts</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Screenshots as PDF</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Screenshots as PDF</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Send SMS &amp; Email</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Send SMS &amp; Email</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">JSON Process Function</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; JSON Process Function</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;">
@@ -189,7 +189,7 @@ title: Cedalo - Download
 </td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">InfluxDB Export Function</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; InfluxDB Export Function</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;">
@@ -199,13 +199,13 @@ title: Cedalo - Download
 </td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Timescale Export Function</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Timescale Export Function</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Custom User Functions</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Custom User Functions</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
 <td style="width: 185px;">
@@ -215,7 +215,7 @@ title: Cedalo - Download
 </td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Sharable Links</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Sharable Links</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;">
@@ -225,55 +225,55 @@ title: Cedalo - Download
 </td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Custom Machine Tile Images</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Custom Machine Tile Images</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Admin</strong></span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Admin</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">User Mgmt</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; User Mgmt</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">User roles</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; User roles</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Workspaces</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Workspaces</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Single Sign On</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Single Sign On</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"><strong>Support</strong></span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Support</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Community Support</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Community Support</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">Full Support</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Full Support</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
