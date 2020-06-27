@@ -15,7 +15,7 @@ layout: default
             <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-xs-12">
                 <div class="banner-text text-center">
                     <h1>Stream processing & IoT<br />for everybody</h1>
-                    <p><b> Eclipse Streamsheets</b> - Anybody who knows how to use a spreadsheet can quickly build server-based, real-time applications, for any purpose. No programming required.</p>
+                    <p><b> Eclipse Streamsheets</b> - Anybody who knows how to use a spreadsheet can quickly build server-based, real-time applications for any purpose. No programming required.</p>
                     <p><b>Eclipse Mosquitto</b> -  Devices and apps communicate in real-time, based the most popular broker technology in the world.</p>
                     <p>
                         <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
@@ -169,7 +169,7 @@ layout: default
                         <h5>Banking, Payments, Securities</h5>
                     </div>
                     <div class="usecase-body">
-                        <p>Analyze financial transactions in real-time. Aggregate, compare, search for anomalies and send alerts in real-time as conditions arise.</p>
+                        <p>Analyze financial transactions in real-time. Aggregate, compare, detect anomalies and send alerts in real-time when conditions are met.</p>
                         <ul>
                         <li>Fraud Detection</li>
                         <li>Real-time Analytics</li>
@@ -191,7 +191,7 @@ layout: default
                         <li>Real-Time Infection Control</li>
                         <li>Utilization Monitoring</li>
                         <li>Real-Time Asset Tracking</li>
-                        <li>Gateways for MQTT/FHIR/KAFKA)</li>                        
+                        <li>Gateways for MQTT/FHIR/KAFKA</li>                        
                         </ul>
                     </div>
                 </div>
@@ -203,7 +203,7 @@ layout: default
                         <h5>Oil & Gas, Electric Power</h5>
                     </div>
                     <div class="usecase-body">
-                       <p>With the rise of renewable energy sources, energy grids need to be reacting fast. Streamsheets and Mosquitto provide the necessary speed.</p>
+                       <p>With the rise of renewable energy sources, plants & energy grids need to react fast. Streamsheets and Mosquitto provide the necessary speed.</p>
                         <ul>
                         <li>Condition Monitoring </li>
                         <li>Dashboards and Charting</li>
