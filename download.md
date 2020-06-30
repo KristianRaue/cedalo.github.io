@@ -44,269 +44,202 @@ title: Cedalo - Download
 <th style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Features</strong></span></th>
 <th style="width: 186px; text-align: center;"><span style="color: #3a3e64;"><strong>Eclipse Streamsheets</strong></span></th>
 <th style="width: 140px; text-align: center;"><span style="color: #3a3e64;"><strong>Cedalo Sheets</strong></span></th>
-<th style="width: 185px; text-align: center;">
-<div>
-<div><span style="color: #3a3e64;"><strong>Further Description</strong></span></div>
-</div>
-</th>
+
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Essentials</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; 150+ Shet Functions</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Standard Charts</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Realtime Collaboration</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Channels</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; MQTT</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Apache Kafka</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; HTTP Client</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Webhooks</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; HTTP / REST API Server</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; OPC UA Client</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; OPC UA Server</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Synchronous File Reader</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
-<td style="width: 185px;">
-<div>
-<div><span style="color: #3a3e64;">Observe text files and continuously read new entries. With this feature you turn text files into a data stream that can be sent and stored anywhere.</span></div>
-</div>
-</td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; MongoDB support</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Influx Db support</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; TimescaleDB included</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;">
-<div>
-<div><span style="color: #3a3e64;">Sheets comes with a built-in timescaledb.</span></div>
-</div>
-</td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Advanced</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Premium Charts</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Screenshots as PDF</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Send SMS &amp; Email</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; JSON Process Function</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;">
-<div>
-<div><span style="color: #3a3e64;">This function allows you to process large messages more effectively. This is especially true if looping at at the granular key-value pair level is not an option.</span></div>
-</div>
-</td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; InfluxDB Export Function</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;">
-<div>
-<div><span style="color: #3a3e64;">Implement your own Streamsheets functions in JavaScript and Node.js.</span></div>
-</div>
-</td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Timescale Export Function</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Custom User Functions</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
-<td style="width: 185px;">
-<div>
-<div><span style="color: #3a3e64;">Implement your own Streamsheets functions in JavaScript and Node.js.</span></div>
-</div>
-</td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Sharable Links</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;">
-<div>
-<div><span style="color: #3a3e64;">Share your Dashboards and solutions with people outside of your organization. No log-in required. You can even set ann expiry date for the access.</span></div>
-</div>
-</td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Custom Machine Tile Images</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Admin</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; User Mgmt</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; User roles</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Workspaces</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Single Sign On</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Support</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Community Support</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Full Support</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 185px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 </tbody>
 </table>
