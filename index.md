@@ -278,7 +278,7 @@ layout: default
                 <div class="download-content">
                     <h2>Managed Service</h2>
                     <p>The easiest way to get started with the Premium Platform is our managed service called Cedalo Cloud. It comes with a 14-day money back guarantee.</p>
-                    <p><a href="#cloud" class="btn btn-large">Cedalo Cloud</a></p>
+                    <p><a href="#cloud" class="btn btn-large">Coming Soon</a></p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 download text-center">
