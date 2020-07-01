@@ -28,18 +28,18 @@ title: Cedalo - Download
                             <div class="form-group">
                                 <label for="inputEmail" class="col-sm-2">Email:</label>
                                 <div class="col-sm-8">
-                                <input name="email" type="email" class="form-control" id="inputEmail" placeholder="Email">
+                                <input name="Email" type="email" class="form-control" id="inputEmail" placeholder="Email">
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="inputMessage" class="col-sm-2">Text:</label>
                                 <div class="col-sm-8">
-                                <textarea name="message" class="form-control" rows="8" id="inputMessage" placeholder="Your message"></textarea>
+                                <textarea name="Message" class="form-control" rows="8" id="inputMessage" placeholder="Your message"></textarea>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="col-sm-offset-8 col-sm-8">
-                                <button name="Submit" type="submit" class="btn btn-large">Submit</button>
+                                <button type="submit" class="btn btn-large">Submit</button>
                                 </div>
                             </div>
                         </form>
