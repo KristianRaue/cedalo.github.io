@@ -56,7 +56,7 @@ title: Cedalo - Download
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Essentials</strong></span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Essential Features</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
@@ -81,7 +81,7 @@ title: Cedalo - Download
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Channels</strong></span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Connectivity Features</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
@@ -108,22 +108,22 @@ title: Cedalo - Download
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; HTTP / REST API Server</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
-<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; OPC UA Client</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
-<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; OPC UA Server</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
-<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Synchronous File Reader</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
-<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; MongoDB support</span></td>
@@ -146,7 +146,7 @@ title: Cedalo - Download
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Advanced</strong></span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Advanced Features</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
@@ -163,7 +163,7 @@ title: Cedalo - Download
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Send SMS &amp; Email</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
-<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; JSON Process Function</span></td>
@@ -183,7 +183,7 @@ title: Cedalo - Download
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Custom User Functions</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
-<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Sharable Links</span></td>
@@ -201,29 +201,29 @@ title: Cedalo - Download
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Admin</strong></span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Admin Features</strong></span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; User Mgmt</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; User Management</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; User roles</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; User Roles</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Workspaces</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
-<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Single Sign On</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
-<td style="width: 140px;"><span style="color: #3a3e64;">optional</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
