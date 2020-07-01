@@ -38,13 +38,17 @@ title: Cedalo - Download
             <div class="col-lg-8 col-md-10 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-1">  
                 <div class="products-box text-center">
                     <h1>Overview of the Feature Set</h1>
-                    <table dir="ltr" style="width: 693px; border-color: #3A3E64;" border="1" cellspacing="0" cellpadding="8"><colgroup><col width="250" /><col width="250" /><col width="200" /><col width="250" /><col width="250" /></colgroup>
+                    <table dir="ltr" style="width: 693px; border-color: #3A3E64;" border="1" cellspacing="0" cellpadding="8"><colgroup><col width="250" /><col width="250" /><col width="200" /><col width="200" /><col width="200" /></colgroup>
 <tbody>
 <tr>
-<th style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>Features</strong></span></th>
-<th style="width: 186px; text-align: center;"><span style="color: #3a3e64;"><strong>Eclipse Streamsheets</strong></span></th>
-<th style="width: 140px; text-align: center;"><span style="color: #3a3e64;"><strong>Cedalo Sheets</strong></span></th>
-
+<th style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; <strong>&nbsp;</strong></span></th>
+<th style="width: 186px; text-align: center;"><span style="color: #3a3e64;"><strong>Open Source</strong></span></th>
+<th style="width: 140px; text-align: center;"><span style="color: #3a3e64;"><strong>Premium</strong></span></th>
+</tr>
+<tr>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp;Product Name</span></td>
+<td style="width: 186px; text-align: center;"><span style="color: #3a3e64;">Eclipse Streamsheets</span></td>
+<td style="width: 140px; text-align: center;"><span style="color: #3a3e64;">Cedalo Sheets</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
@@ -57,7 +61,7 @@ title: Cedalo - Download
 <td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
 </tr>
 <tr>
-<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; 150+ Shet Functions</span></td>
+<td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; 150+ Sheet Functions</span></td>
 <td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
 <td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 </tr>
