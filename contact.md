@@ -15,7 +15,7 @@ title: Cedalo - Download
             </div>
 <!-- until here for nav menus to work smoothly  -->
             <div class="downloadpage-box text-center">
-                <div class="col-md-12 col-sm-12">
+                <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3">
                     <h1 class="section-header">Contact</h1>
                     <p>Please enter your name and email and we will contact you immediately.</p>
                         <form class="form-horizontal contactcedalo">
