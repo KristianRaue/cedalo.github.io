@@ -849,8 +849,15 @@ background-color: #313454; }
 	$contact cedalo
 ========================================================================== */
 
-.contactcedalo label, .contactcedalo input {
+.contactcedalo label {
   color: #fff;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: left;
+  padding-top:3px;
+}
+
+.contactcedalo input {
   font-size: 20px;
   font-weight: 300;
   text-align: left;
