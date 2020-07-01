@@ -15,20 +15,20 @@ title: Cedalo - Download
             </div>
 <!-- until here for nav menus to work smoothly  -->
             <div class="downloadpage-box text-center">
-                <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3">
+                <div class="col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
                     <h1 class="section-header">Contact</h1>
                     <p>Please enter your name and email and we will contact you immediately.</p>
                         <form class="form-horizontal contactcedalo">
                             <div class="form-group">
-                                <label for="inputEmail3" class="col-sm-2 control-label">Email</label>
+                                <label for="inputName" class="col-sm-2 control-label">Name:</label>
                                 <div class="col-sm-6">
-                                <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+                                <input type="text" class="form-control" id="inputName" placeholder="Name">
                                 </div>
                             </div>
                             <div class="form-group">
-                                <label for="inputPassword3" class="col-sm-2 control-label">Password</label>
+                                <label for="inputEmail" class="col-sm-2 control-label">Email:</label>
                                 <div class="col-sm-6">
-                                <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+                                <input type="email" class="form-control" id="inputEmail" placeholder="Email">
                                 </div>
                             </div>
                             <div class="form-group">
