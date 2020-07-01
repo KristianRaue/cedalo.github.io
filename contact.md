@@ -32,17 +32,14 @@ title: Cedalo - Download
                                 </div>
                             </div>
                             <div class="form-group">
-                                <div class="col-sm-offset-2 col-sm-4">
-                                <div class="checkbox">
-                                    <label>
-                                    <input type="checkbox"> Remember me
-                                    </label>
-                                </div>
+                                <label for="inputMessage" class="col-sm-2 control-label">Message:</label>
+                                <div class="col-sm-6">
+                                <textarea class="form-control" rows="3" id="inputMessage" placeholder="Your message"></textarea>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="col-sm-offset-2 col-sm-10">
-                                <button type="submit" class="btn btn-default">Sign in</button>
+                                <button type="submit" class="btn btn-default">Submit</button>
                                 </div>
                             </div>
                         </form>
