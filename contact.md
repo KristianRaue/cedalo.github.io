@@ -16,7 +16,7 @@ title: Cedalo - Download
 <!-- until here for nav menus to work smoothly  -->
             <div class="downloadpage-box">
                 <div class="col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
-                    <h1 class="section-header">Contact</h1>
+                    <h1 class="section-header">Contact Cedalo</h1>
                     <p>Please enter your name and email and we will contact you immediately.</p>
                         <form class="form-horizontal contactcedalo">
                             <div class="form-group">
@@ -34,7 +34,7 @@ title: Cedalo - Download
                             <div class="form-group">
                                 <label for="inputMessage" class="col-sm-2 control-label">Message:</label>
                                 <div class="col-sm-6">
-                                <textarea class="form-control" rows="3" id="inputMessage" placeholder="Your message"></textarea>
+                                <textarea class="form-control" rows="8" id="inputMessage" placeholder="Your message"></textarea>
                                 </div>
                             </div>
                             <div class="form-group">
