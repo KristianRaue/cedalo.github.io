@@ -34,7 +34,7 @@ title: Cedalo - Download
                             <div class="form-group">
                                 <label for="inputMessage" class="col-sm-2">Text:</label>
                                 <div class="col-sm-8">
-                                <textarea name="Message" class="form-control" rows="8" id="inputMessage" placeholder="Your message" required></textarea>
+                                <textarea name="Message" class="form-control" rows="5" id="inputMessage" placeholder="Your message" required></textarea>
                                 </div>
                             </div>
                             <div class="form-group">
