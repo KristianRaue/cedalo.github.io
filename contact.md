@@ -17,7 +17,7 @@ title: Cedalo - Download
             <div class="downloadpage-box">
                 <div class="col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
                     <h1 class="section-header">Contact Cedalo</h1>
-                    <p>Please enter your name and email and we will contact you immediately.</p>
+                    <p>Please enter your name and email and we will contact you shortly.</p>
                         <form accept-charset="UTF-8" method="POST" action="https://api.cedalo.cloud/rest/request/website/cloudcontacts" class="form-horizontal control-label contactcedalo">
                             <div class="form-group">
                                 <label for="inputName" class="col-sm-2">Name:</label>
