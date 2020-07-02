@@ -26,7 +26,7 @@ layout: default
             </div>
             <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-12">
                 <div class="banner-chart text-center">
-                    <img  src="/images/screenshot_orig.png" alt="">
+                    <img  src="https://cedalo.com/images/screenshot_orig.png" alt="">
                 </div><!-- banner text -->
             </div>
         </div>
@@ -81,7 +81,7 @@ layout: default
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
                 <div class="products-chart" >
-                    <img  src="/images/overview.png">
+                    <img  src="https://cedalo.com/images/overview.png">
                 </div>
             </div>
         </div>
@@ -257,7 +257,7 @@ layout: default
             <div class="row no-padding" style="padding-top:20px">
                 {% for chartnum in (10..33)  %}
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 text-center" style="padding:20px">
-                        <img src="/assets/images/chartgallery/chart{{ chartnum }}.jpg" alt="" style="width:100%;height:auto;">
+                        <img src="https://cedalo.com/assets/images/chartgallery/chart{{ chartnum }}.jpg" alt="" style="width:100%;height:auto;">
                     </div>
                 {% endfor %}
             </div>
