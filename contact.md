@@ -22,19 +22,19 @@ title: Cedalo - Download
                             <div class="form-group">
                                 <label for="inputName" class="col-sm-2">Name:</label>
                                 <div class="col-sm-8">
-                                <input name="Name" type="text" class="form-control" id="inputName" placeholder="Name">
+                                <input name="Name" type="text" class="form-control" id="inputName" placeholder="Name" required>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="inputEmail" class="col-sm-2">Email:</label>
                                 <div class="col-sm-8">
-                                <input name="Email" type="email" class="form-control" id="inputEmail" placeholder="Email">
+                                <input name="Email" type="email" class="form-control" id="inputEmail" placeholder="Email" required>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="inputMessage" class="col-sm-2">Text:</label>
                                 <div class="col-sm-8">
-                                <textarea name="Message" class="form-control" rows="8" id="inputMessage" placeholder="Your message"></textarea>
+                                <textarea name="Message" class="form-control" rows="8" id="inputMessage" placeholder="Your message" required></textarea>
                                 </div>
                             </div>
                             <div class="form-group">
