@@ -32,6 +32,12 @@ title: Cedalo - Download
                                 </div>
                             </div>
                             <div class="form-group">
+                                <label for="inputMessage" class="col-sm-2">Text:</label>
+                                <div class="col-sm-8">
+                                <textarea name="Message" class="form-control" rows="5" id="inputMessage" placeholder="Your message" required></textarea>
+                                </div>
+                            </div>
+                            <div class="form-group">
                                 <div class="col-sm-2 col-sm-offset-2">
                                 <button name="Submit" value="Webinar" type="submit" class="btn btn-large">Watch Webinar Recording</button>
                                 </div>
