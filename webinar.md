@@ -16,7 +16,7 @@ title: Cedalo - Download
 <!-- until here for nav menus to work smoothly  -->
             <div class="downloadpage-box">
                 <div class="col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
-                    <h1 class="section-header">Watch Webinar Recording</h1>
+                    <h2 class="section-header">Watch Webinar Recording</h2>
                     <p>Please enter your name and email</p>
                         <form accept-charset="UTF-8" method="POST" action="https://api.cedalo.cloud/rest/request/website/cloudcontacts" class="form-horizontal control-label contactcedalo">
                             <div class="form-group">

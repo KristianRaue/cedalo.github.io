@@ -16,7 +16,7 @@ title: Cedalo - Download
 <!-- until here for nav menus to work smoothly  -->
             <div class="downloadpage-box text-center">
                 <div class="col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">            
-                    <h1 class="section-header">Thank You!</h1>
+                    <h2 class="section-header">Thank You!</h2>
                     <p>We received your message and we will contact you shortly.</p>
                     <p><a href='https://cedalo.com/index.html#banner' class='btn btn-large'>Home</a></p> 
                 </div>         
