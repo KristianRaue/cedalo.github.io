@@ -33,7 +33,7 @@ title: Cedalo - Download
                             </div>
                             <div class="form-group">
                                 <div class="col-sm-2 col-sm-offset-2">
-                                <button name="Webinar" type="submit" class="btn btn-large">Watch Webinar Recording</button>
+                                <button name="Submit" value="Webinar" type="submit" class="btn btn-large">Watch Webinar Recording</button>
                                 </div>
                             </div>
                         </form>

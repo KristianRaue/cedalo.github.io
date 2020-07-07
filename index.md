@@ -45,7 +45,7 @@ layout: default
                         <li>Customer Story: How the Freiburg University Hospital uses Kafka and Streamsheets for dashboarding the utilization of clinical assets</li>
                         <li>15-Minutes Live Demonstration: Building a financial fraud detection dashboard based on Confluent Cloud, ksqlDB and Cedalo Cloud Streamsheets just using spreadsheet formulas.</li>
                     </ul>
-                    <p style="margin-bottom:10px"><a href="https://cedalo.com/webinar.html" target="_blank" class="btn btn-large">Register for the Webinar</a></p>
+                    <p style="margin-bottom:10px"><a href="https://cedalo.com/webinar.html" target="_blank" class="btn btn-large">Watch the recorded Webinar</a></p>
                 </div><!-- banner text -->
             </div>
         </div>
