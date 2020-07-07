@@ -28,7 +28,7 @@ title: Cedalo - Download
                     <a href="https://docs.cedalo.com/installation/premium-edition.html" target="_blank" class="btn btn-large">Premium Download</a></p>
                 </div>
                 <div class="col-md-12 col-sm-12">
-                    <h1 class="section-header">Support and Documentation</h1>
+                    <h2 class="section-header">Support and Documentation</h2>
                     <p>For first steps and tutorials have a look at our documentation. For the community edition we offer support through our support forum.</p>
                 </div>
                 <div class="col-md-6 col-sm-6 downloadpage-intro">
