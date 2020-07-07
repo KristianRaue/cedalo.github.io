@@ -14,7 +14,7 @@ title: Cedalo - Download
                 </div>
             </div>
 <!-- until here for nav menus to work smoothly  -->
-            <div class="downloadpage-box text-center" style="min-height:800px">
+            <div class="downloadpage-box text-center" style="min-height:1000px">
                 <div class="col-md-12 col-sm-12">
                     <h1 class="section-header">Download the Cedalo Platform</h1>
                     <p>Here you can download the Cedalo Open-Source and the Cedalo Premium Platform. Click on the download page of your choice and follow the intructions for your operating system. To compare the feature sets, just click <a href="#feature-set">here</a></p>
