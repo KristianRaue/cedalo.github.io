@@ -14,7 +14,7 @@ title: Cedalo - Download
                 </div>
             </div>
 <!-- until here for nav menus to work smoothly  -->
-            <div class="downloadpage-box text-center">
+            <div class="downloadpage-box text-center" style="min-height:800px">
                 <div class="col-md-12 col-sm-12">
                     <h1 class="section-header">Download the Cedalo Platform</h1>
                     <p>Here you can download the Cedalo Open-Source and the Cedalo Premium Platform. Click on the download page of your choice and follow the intructions for your operating system. To compare the feature sets, just click <a href="#feature-set">here</a></p>
@@ -27,7 +27,7 @@ title: Cedalo - Download
                     <p>The premiums editions - called Cedalo Sheets and Cedalo Broker - are included in the <b>Premium Platform</b>.<br />
                     <a href="https://docs.cedalo.com/installation/premium-edition.html" target="_blank" class="btn btn-large">Premium Download</a></p>
                 </div>
-                <div class="col-md-12 col-sm-12" style="min-height:400px">
+                <div class="col-md-12 col-sm-12">
                     <h1 class="section-header">Support and Documentation</h1>
                     <p>For first steps and tutorials have a look at our documentation. For the community edition we offer support through our support forum.</p>
                 </div>
