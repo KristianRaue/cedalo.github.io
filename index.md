@@ -38,7 +38,7 @@ layout: default
             <div class="col-md-12">
                 <div class="fluid-padding" style="margin-bottom: 0px">
                     <hr>
-                    <p style="margin-bottom:10px"><b>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®</b><br />Watch the recorded Webinar</p>
+                    <p style="margin-bottom:10px"><b>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®</b></p>
                     <h2>Streamsheets and Apache Kafka – Interactively build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills</h2>
                     <ul><b>Hear Kai Waehner of Confluent and Kristian Raue of Cedalo on these topics:</b>
                         <li>Where Apache Kafka and Streamsheets fit in the data ecosystem (Industrial IoT, Smart Energy, Clinical Applications, Finance Applications)</li>
