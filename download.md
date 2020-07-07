@@ -35,7 +35,7 @@ title: Cedalo - Download
                     <a href="https://docs.cedalo.com" target="_blank" class="btn btn-large">Documentation</a></p>
                 </div>
                 <div class="col-md-6 col-sm-6 downloadpage-intro">
-                    <a href="https://support.cedalo.com" target="_blank" class="btn btn-large">Support Forum</a></p>
+                    <a href="http://support.cedalo.com" target="_blank" class="btn btn-large">Support Forum</a></p>
                 </div>
             </div>
         </div>
