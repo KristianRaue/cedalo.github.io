@@ -39,7 +39,7 @@ title: Cedalo - Download
                             </div>
                             <div class="form-group">
                                 <div class="col-sm-2 col-sm-offset-2">
-                                <button type="submit" class="btn btn-large">Submit</button>
+                                <button name="Contact" type="submit" class="btn btn-large">Submit</button>
                                 </div>
                             </div>
                         </form>
