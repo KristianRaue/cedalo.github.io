@@ -26,7 +26,17 @@ title: Cedalo - Download
                 <div class="col-md-6 col-sm-6 downloadpage-intro">
                     <p>The premiums editions - called Cedalo Sheets and Cedalo Broker - are included in the <b>Premium Platform</b>.<br />
                     <a href="https://docs.cedalo.com/installation/premium-edition.html" target="_blank" class="btn btn-large">Premium Download</a></p>
-                </div> 
+                </div>
+                <div class="col-md-12 col-sm-12">
+                    <h1 class="section-header">Support and Documentation</h1>
+                    <p>For first steps and tutorials have a look at our documentation. For the community edition we offer support through our support forum.</p>
+                </div>
+                <div class="col-md-6 col-sm-6 downloadpage-intro">
+                    <a href="https://docs.cedalo.com" target="_blank" class="btn btn-large">Documentation</a></p>
+                </div>
+                <div class="col-md-6 col-sm-6 downloadpage-intro">
+                    <a href="https://support.cedalo.com" target="_blank" class="btn btn-large">Support Forum</a></p>
+                </div>
             </div>
         </div>
     </div>
