@@ -9,9 +9,7 @@ title: Cedalo - Download
     <div class="container">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-md-12 col-sm-12">
-                <div class="downloadpage-spacer">
-                    <p>&nbsp;</p>
-                </div>
+                <p>&nbsp;</p>
             </div>
 <!-- until here for nav menus to work smoothly  -->
             <div class="downloadpage-box text-center" style="min-height:1000px">
