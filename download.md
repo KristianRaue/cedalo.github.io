@@ -3,15 +3,24 @@ layout: default
 title: Cedalo - Download
 ---
 
-<section id="banner" class="downloadpage" role="banner">
-<!-- leave unchanged from here  --> 
+<section id="banner" class="banner" role="banner">
     {% include _nav.html %}      
+    <div class="container text-center">
+        <div class="row flex-start" class="align-items: flex-start;">
+            <div class="col-md-12 col-sm-12">
+                <div class="banner-spacer">
+                </div>
+            </div>
+        </div>
+    </div>
+</section><!-- banner -->
+
+<section id="download" class="downloadpage" role="banner">  
     <div class="container">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-md-12 col-sm-12">
                 <p>&nbsp;</p>
             </div>
-<!-- until here for nav menus to work smoothly  -->
             <div class="downloadpage-box text-center" style="min-height:1000px">
                 <div class="col-md-12 col-sm-12">
                     <h1 class="section-header">Download the Cedalo Platform</h1>
@@ -38,7 +47,7 @@ title: Cedalo - Download
             </div>
         </div>
     </div>
-</section><!-- banner -->
+</section><!-- downöoad -->
 
 <section id="feature-set" class="products section">
     <div class="container">
