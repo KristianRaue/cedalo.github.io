@@ -19,7 +19,7 @@ title: Cedalo - Download
     </div>
 </section><!-- banner -->
 <section id="chartgallery" class="section gallery"><!-- Chart Gallery -->
-    <div class="container-flex text-center fluid-padding max-width:1200px" >
+    <div class="container-flex text-center fluid-padding" style="max-width:1200px" >
             <div class="row no-padding" style="padding-top:20px">
                 {% for chartnum in (10..33)  %}
                     <div class="col-md-4 col-sm-6 col-xs-12 text-center" style="padding:20px">
