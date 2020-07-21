@@ -322,6 +322,8 @@ layout: default
                 {% endif %}
             {% endfor %}
         </div>
+        <p>&nbsp;</p>
+        <p><a href="all_posts.html" class="btn btn-large">All blog posts</a></p>
     </div>
 </section><!-- blog --> 
 
