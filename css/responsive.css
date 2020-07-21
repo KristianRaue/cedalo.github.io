@@ -1,19 +1,4 @@
 
-@media screen and (min-width: 1500px) {
-  .gallery {
-    padding-left: 100px;
-    padding-right: 100px;
-  }
-}
-
-@media screen and (min-width: 1700px) {
-  .gallery {
-    padding-left: 200px;
-    padding-right: 200px;
-  }
-}
-
-
 @media screen and (min-width: 768px) {
   .contactcedalo label {
     color: #fff;
@@ -35,6 +20,20 @@
     font-weight: 300;
     text-align: left;
     padding-top:8px;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  .gallery {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+}
+
+@media screen and (min-width: 1900px) {
+  .gallery {
+    padding-left: 200px;
+    padding-right: 200px;
   }
 }
 
