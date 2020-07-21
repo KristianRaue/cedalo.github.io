@@ -28,7 +28,7 @@ title: Cedalo - Download
                 {% endfor %}
             </div>
             <p>&nbsp;</p>
-            <p>This is just a small sample of possible chart types, there are many more...</p>
+            <h2>This is just a small sample of possible chart types, there are many more...</h2>
     </div>
 </section>
 
