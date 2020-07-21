@@ -3,7 +3,7 @@ layout: default
 title: Cedalo - Download
 ---
 
-<section id="header" class="banner" role="banner">
+<section id="banner" class="downloadpage" role="banner">
     {% include _nav.html %}      
     <div class="container text-center">
         <div class="row flex-start" class="align-items: flex-start;">
@@ -13,7 +13,7 @@ title: Cedalo - Download
             </div>
         </div>
     </div>
-</section><!-- header -->
+</section><!-- banner -->
 
 <section id="banner" class="downloadpage" role="banner">   
     <div class="container text-center">
