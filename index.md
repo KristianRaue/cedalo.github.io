@@ -15,7 +15,7 @@ layout: default
     </div>
 </section><!-- banner -->
 
-<section id="banner" class="banner" role="banner">
+<section id="intro" class="banner" role="banner">
     <div class="container-fluid">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-xs-12">
