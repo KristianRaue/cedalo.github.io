@@ -18,9 +18,6 @@ title: Cedalo - Download
 <section id="download" class="downloadpage" role="banner">  
     <div class="container">
         <div class="row flex-start" class="align-items: flex-start;">
-            <div class="col-md-12 col-sm-12">
-                <p>&nbsp;</p>
-            </div>
             <div class="downloadpage-box text-center" style="min-height:1000px">
                 <div class="col-md-12 col-sm-12">
                     <h1 class="section-header">Download the Cedalo Platform</h1>
@@ -47,7 +44,7 @@ title: Cedalo - Download
             </div>
         </div>
     </div>
-</section><!-- downöoad -->
+</section><!-- download -->
 
 <section id="feature-set" class="products section">
     <div class="container">
