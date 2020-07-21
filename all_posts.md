@@ -8,26 +8,30 @@ title: Cedalo - Streamchart Gallery
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-md-12 col-sm-12">
                 <div class="downloadpage-spacer">
-                    <h1>Streamcharts Gallery</h1>
+                    <h1>Cedalo Blog</h1>
                 </div>
             </div>
         </div>
     </div>
 </section><!-- banner -->
 
-<section id="chartgallery" class="section gallery"><!-- Chart Gallery -->
-    <div class="container-flex text-center fluid-padding" >
-        <div class="row no-padding">
-            {% for chartnum in (10..33)  %}
-                <div class="col-md-4 col-sm-6 col-xs-12 text-center" style="padding:20px">
-                    <img src="https://cedalo.com/assets/images/chartgallery/chart{{ chartnum }}.jpg" alt="" style="width:100%;height:auto;">
+<section id="blog" class="section teams">
+    <div class="container-flex fluid-padding">
+        <div class="row">
+             {% for post in site.categories["blogposts"] %}
+                <div class="col-md-4 col-sm-6" style="padding:20px">
+                    <div class="person">
+                        <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
+                        <div>
+                            <a href="{{post.url}}"><h4>{{post.title}}</h4></a>    
+                            <p>{{post.excerpt}}</p>
+                        </div>
+                    </div><!-- blog -->
                 </div>
             {% endfor %}
         </div>
-        <p>&nbsp;</p>
-        <h2>This is just a small sample of possible chart types, there are many more...</h2>
     </div>
-</section>
+</section><!-- blog --> 
 
 
 
