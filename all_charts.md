@@ -19,10 +19,8 @@ title: Cedalo - Download
     <div class="container text-center">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-md-12 col-sm-12">
-                <div class="downloadpage-spacer">
-                    <h1>Streamcharts Gallery</h1>
-                    <p>&nbsp;</p>
-                </div>
+                <h1>Streamcharts Gallery</h1>
+                <p>&nbsp;</p>
             </div>
 
         </div>
