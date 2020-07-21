@@ -21,6 +21,7 @@ title: Cedalo - Download
             <div class="col-md-12 col-sm-12">
                 <div class="downloadpage-spacer">
                     <h1>Streamcharts Gallery</h1>
+                    <p>&nbsp;</p>
                 </div>
             </div>
 
