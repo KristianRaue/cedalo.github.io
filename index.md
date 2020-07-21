@@ -323,8 +323,8 @@ layout: default
             {% endfor %}
         </div>
         <div class="col-md-12 col-sm-12 text-center">
-            <p>&nbsp;</p>
             <p><a href="all_posts.html" class="btn btn-large">All blog posts</a></p>
+              <p>&nbsp;</p>
         </div>
     </div>
 </section><!-- blog --> 
