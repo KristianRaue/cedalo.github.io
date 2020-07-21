@@ -6,7 +6,7 @@ title: Cedalo - Download
 <section id="banner" class="downloadpage" role="banner">
 <!-- leave unchanged from here  --> 
     {% include _nav.html %}      
-    <div class="container">
+    <div class="container text-center">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-md-12 col-sm-12">
                 <div class="downloadpage-spacer">
