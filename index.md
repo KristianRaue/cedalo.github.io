@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<section id="header" class="downloadpage" role="banner">
+<section id="banner" class="downloadpage" role="banner">
     {% include _nav.html %}      
     <div class="container text-center">
         <div class="row flex-start" class="align-items: flex-start;">
@@ -13,7 +13,7 @@ layout: default
             </div>
         </div>
     </div>
-</section><!-- header -->
+</section><!-- banner -->
 
 <section id="banner" class="banner" role="banner">
     <div class="container-fluid">
