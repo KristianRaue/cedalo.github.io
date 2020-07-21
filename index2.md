@@ -8,7 +8,7 @@ layout: default
     <div class="container text-center">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-md-12 col-sm-12">
-                <div class="downloadpage-spacer">
+                <div class="banner-spacer">
                     <p>&nbsp;</p>
                 </div>
             </div>
