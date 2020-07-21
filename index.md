@@ -323,8 +323,6 @@ layout: default
             {% endfor %}
             <div class="col-md-12 col-sm-12 text-center">
                 <p><a href="all_posts.html" class="btn btn-large">Explore all blog posts</a></p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
             </div>
         </div>
         
