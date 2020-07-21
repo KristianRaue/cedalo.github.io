@@ -319,7 +319,8 @@ background-color: #313454; }
   min-height: 750px; }
 
 .banner-spacer {
-  padding-top: 150px; 
+  padding-top: 150px;
+  min-height: 120px;  
 }
 
 .banner-text {
