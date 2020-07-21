@@ -9,12 +9,27 @@ title: Cedalo - Download
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-md-12 col-sm-12">
                 <div class="banner-spacer">
-                <h1>Streamcharts Gallery</h1>
                 </div>
             </div>
         </div>
     </div>
 </section><!-- header -->
+
+<section id="banner" class="downloadpage" role="banner">
+<!-- leave unchanged from here  --> 
+    {% include _nav.html %}      
+    <div class="container text-center">
+        <div class="row flex-start" class="align-items: flex-start;">
+            <div class="col-md-12 col-sm-12">
+                <div class="downloadpage-spacer">
+                    <p>&nbsp;</p>
+                    <h1>Streamcharts Gallery</h1>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section><!-- banner -->
 
 <section id="chartgallery" class="section gallery"><!-- Chart Gallery -->
     <div class="container-flex text-center fluid-padding" >
