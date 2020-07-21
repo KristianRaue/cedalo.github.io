@@ -15,7 +15,7 @@ title: Cedalo - Download
     </div>
 </section><!-- banner -->
 
-<section id="banner" class="downloadpage" role="banner">     
+<section id="thankyou" class="downloadpage" role="banner">     
     <div class="container">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="downloadpage-box text-center">
