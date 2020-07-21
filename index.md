@@ -260,7 +260,8 @@ layout: default
                     </div>
                 {% endfor %}
             </div>
-            <p><a href="all_charts.html" class="btn btn-large">See Full Chart Gallery</a></p>
+             <p>&nbsp;</p>
+            <p><a href="all_charts.html" class="btn btn-large">Complete Chart Gallery</a></p>
     </div>
 </section><!-- Chart Gallery -->
 
