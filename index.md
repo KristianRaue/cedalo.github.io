@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<section id="banner" class="downloadpage" role="banner">
+<section id="header" class="downloadpage" role="banner">
     {% include _nav.html %}      
     <div class="container text-center">
         <div class="row flex-start" class="align-items: flex-start;">
@@ -13,7 +13,7 @@ layout: default
             </div>
         </div>
     </div>
-</section><!-- banner -->
+</section><!-- header -->
 
 <section id="banner" class="banner" role="banner">
     <div class="container-fluid">
@@ -38,6 +38,7 @@ layout: default
         </div>
     </div>
 </section><!-- banner -->
+
 <section id="event" class="section confluent no-padding"><!-- Chart Gallery -->
     <div class="container-flex  fluid-padding" >
         <div class="row no-padding">
