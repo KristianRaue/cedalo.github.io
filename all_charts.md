@@ -4,7 +4,6 @@ title: Cedalo - Download
 ---
 
 <section id="banner" class="downloadpage" role="banner">
-<!-- leave unchanged from here  --> 
     {% include _nav.html %}      
     <div class="container text-center">
         <div class="row flex-start" class="align-items: flex-start;">
@@ -14,7 +13,6 @@ title: Cedalo - Download
                     <h1>Streamcharts Gallery</h1>
                 </div>
             </div>
-
         </div>
     </div>
 </section><!-- banner -->
