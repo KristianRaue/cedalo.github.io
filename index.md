@@ -249,6 +249,11 @@ layout: default
 <section id="partnerships" class="features section">
     <div class="container" >
         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 usecase-intro">  
+                <div>
+                    <h1 class="section-header">Where Cedalo plays an active role</h1>
+                </div>
+            </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
                     <a href="https://openindustry4.com/About-Us.html" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/openindustry.png" alt="" style="width:100%;height:auto;"></a>
