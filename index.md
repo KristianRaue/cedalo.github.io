@@ -296,7 +296,7 @@ layout: default
 
 <section id="chartgallery" class="section gallery"><!-- Chart Gallery -->
     <div class="container-flex text-center fluid-padding" >
-            <h1>Powerful Charts for bound and unbound Data</h1>
+            <h1>Powerful charts for bound and unbound data</h1>
             <div class="row no-padding" style="padding-top:20px">
                 {% for chartnum in (10..15)  %}
                     <div class="col-md-4 col-sm-6 col-xs-12 text-center" style="padding:20px">
