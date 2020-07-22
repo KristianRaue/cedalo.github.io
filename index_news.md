@@ -257,7 +257,7 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
                     <a href="https://www.eclipse.org/membership/showMember.php?member_id=1376#projects" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/eclipse.png" alt="" style="width:100%;height:auto;"></a>
-                    <p>Cedalo is an <a href="https://www.eclipse.org/membership/showMember.php?member_id=1376#projects" target="_blank">Eclipse Solution Member</a> and sponsors two key projects: <a href="https://projects.eclipse.org/projects/iot.mosquitto" target="_blank">Eclipse Mosquitto</a> and <a href="https://projects.eclipse.org/projects/iot.streamsheets" target="_blank">Eclipse Streamsheets.</a></p>
+                    <p>Cedalo is an <a href="https://www.eclipse.org/membership/showMember.php?member_id=1376#projects" target="_blank">Eclipse Solution Member</a> and sponsors two key IoT projects: <a href="https://projects.eclipse.org/projects/iot.mosquitto" target="_blank">Eclipse Mosquitto</a> and <a href="https://projects.eclipse.org/projects/iot.streamsheets" target="_blank">Eclipse Streamsheets.</a></p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
