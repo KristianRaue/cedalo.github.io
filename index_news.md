@@ -249,37 +249,37 @@ layout: default
     <div class="container" >
         <div class="row">
             <div class="col-md-4 col-sm-6 feature text-center">
-                <div class="feature-content">
+                <div class="partnership-content">
                     <img src="https://cedalo.com/assets/images/partnerships/openindustry.png" alt="" style="width:100%;height:auto;">
                     <p>We include extensive charting features. Have a look at our <a href="#chartgallery">chart gallery.</a></p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <div class="feature-content">
+                <div class="partnership-content">
                     <img src="https://cedalo.com/assets/images/partnerships/eclipse.png" alt="" style="width:100%;height:auto;">
                     <p>We include extensive charting features. Have a look at our <a href="#chartgallery">chart gallery.</a></p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <div class="feature-content">
+                <div class="partnership-content">
                     <img src="https://cedalo.com/assets/images/partnerships/plattform40.png" alt="" style="width:100%;height:auto;">
                     <p>We include extensive charting features. Have a look at our <a href="#chartgallery">chart gallery.</a></p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <div class="feature-content">
+                <div class="partnership-content">
                     <img src="https://cedalo.com/assets/images/partnerships/lni40.png" alt="" style="width:100%;height:auto;">
                     <p>We include extensive charting features. Have a look at our <a href="#chartgallery">chart gallery.</a></p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
-                <div class="feature-content">
+                <div class="partnership-content">
                     <img src="https://cedalo.com/assets/images/partnerships/100orte.png" alt="" style="width:100%;height:auto;">
                     <p>We include extensive charting features. Have a look at our <a href="#chartgallery">chart gallery.</a></p>
                 </div>
             </div>
              <div class="col-md-4 col-sm-6 feature text-center">
-                <div class="feature-content">
+                <div class="partnership-content">
                     <img src="https://cedalo.com/assets/images/partnerships/confluent.png" alt="" style="width:100%;height:auto;">
                     <p>We include extensive charting features. Have a look at our <a href="#chartgallery">chart gallery.</a></p>
                 </div>
