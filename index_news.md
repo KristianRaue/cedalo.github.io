@@ -274,14 +274,14 @@ layout: default
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
-                    <img src="https://cedalo.com/assets/images/partnerships/100orte.png" alt="" style="width:100%;height:auto;">
-                    <p>We include extensive charting features. Have a look at our <a href="#chartgallery">chart gallery.</a></p>
+                    <a href="https://www.i40-bw.de/de/100orte/cedalo-ag/" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/100orte.png" alt="" style="width:100%;height:auto;"></a>
+                    <p>Cedalo was awarded as an innovative and tangible solution in the "100 Places for Industrie 4.0 in Baden-Württemberg" contest.  The contest is organized by the <a href="https://www.i40-bw.de/en/" target="_blank">Allianz Industrie 4.0 Baden-Württemberg.</a></p>
                 </div>
             </div>
              <div class="col-md-4 col-sm-6 feature text-center">
-                <div class="partnership-content">
-                    <img src="https://cedalo.com/assets/images/partnerships/confluent.png" alt="" style="width:100%;height:auto;">
-                    <p>We include extensive charting features. Have a look at our <a href="#chartgallery">chart gallery.</a></p>
+                 <div class="partnership-content">
+                    <a href="https://www.confluent.io/" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/confluent.png" alt="" style="width:100%;height:auto;"></a>
+                    <p>Cedalo is an certified Technology Partner of <a href="https://www.confluent.io/" target="_blank">CONFLUENT</a> - The original creators of streaming platform Apache Kafka®</p>
                 </div>
             </div>
         </div>
