@@ -251,13 +251,13 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
                     <img src="https://cedalo.com/assets/images/partnerships/openindustry.png" alt="" style="width:100%;height:auto;">
-                    <p>We include extensive charting features. Have a look at our <a href="#chartgallery">chart gallery.</a></p>
+                    <p>Cedalo sponsors the development of Eclipse Mosquitto and Eclipse Streamsheets and is a <a href="#chartgallery">Solutions Member</a></p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
-                    <img src="https://cedalo.com/assets/images/partnerships/eclipse.png" alt="" style="width:100%;height:auto;">
-                    <p>We include extensive charting features. Have a look at our <a href="#chartgallery">chart gallery.</a></p>
+                    <a href="https://www.eclipse.org/membership/showMember.php?member_id=1376#projects" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/eclipse.png" alt="" style="width:100%;height:auto;"></a>
+                    <p>Cedalo is an official <a href="https://www.eclipse.org/membership/showMember.php?member_id=1376#projects" target="_blank">Eclipse Solution Member</a>and sponsors <a href="https://projects.eclipse.org/projects/iot.mosquitto" target="_blank">Eclipse Mosquitto</a> and <a href="https://projects.eclipse.org/projects/iot.streamsheets" target="_blank">Eclipse Streamsheets.</a> </p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
