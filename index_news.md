@@ -263,13 +263,13 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
                     <a href="https://www.plattform-i40.de/PI40/Redaktion/DE/Anwendungsbeispiele/455-cedalo/beitrag-cedalo.html" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/plattform40.png" alt="" style="width:100%;height:auto;"></a>
-                    <p>Cedalo was assigned an official entry in the Map of Industrie 4.0 use cases ("Industrie 4.0 Landkarte") which is maintained by the <a href="https://www.plattform-i40.de/PI40/Navigation/EN/Home/home.html" target="_blank">Plattform Industrie 4.0</a></p>
+                    <p>Cedalo was assigned an official entry in the Map of Industrie 4.0 use cases which is maintained by the <a href="https://www.plattform-i40.de/PI40/Navigation/EN/Home/home.html" target="_blank">Plattform Industrie 4.0</a>.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
                     <a href="https://lni40.de/?lang=en" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/lni40.png" alt="" style="width:100%;height:auto;"></a>
-                    <p>Cedalo is actively engaging in "Edge Configuration" and in the "Asset Administration Shell" Test Labs of the <a href="https://lni40.de/practice/usecases/?lang=en" target="_blank">Labs Network Industrie 4.0 organisation.</a></p>
+                    <p>Cedalo is actively engaging in "Edge Configuration" and in the "Asset Administration Shell" Test Labs, hosted by the <a href="https://lni40.de/practice/usecases/?lang=en" target="_blank">LNI 4.0 association.</a></p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
