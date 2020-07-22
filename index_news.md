@@ -269,13 +269,13 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
                     <a href="https://lni40.de/?lang=en" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/lni40.png" alt="" style="width:100%;height:auto;"></a>
-                    <p>Cedalo is actively engaging in "Edge Configuration" and in the "Asset Administration Shell" Test Labs, hosted by the <a href="https://lni40.de/practice/usecases/?lang=en" target="_blank">LNI 4.0 association.</a></p>
+                    <p>Cedalo is actively engaging in two test labs, hosted by the <a href="https://lni40.de/practice/usecases/?lang=en" target="_blank">Labs Network Industrie 4.0 association.</a></p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
                     <a href="https://www.i40-bw.de/de/100orte/cedalo-ag/" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/100orte.png" alt="" style="width:100%;height:auto;"></a>
-                    <p>Cedalo was awarded as an innovative and tangible solution in the "100 Places for Industrie 4.0 in Baden-Württemberg" contest.  The contest is organized by the <a href="https://www.i40-bw.de/en/" target="_blank">Allianz Industrie 4.0 Baden-Württemberg.</a></p>
+                    <p>Cedalo was awarded in the "100 Places for Industrie 4.0 in Baden-Württemberg" contest from the <a href="https://www.i40-bw.de/en/" target="_blank">Allianz Industrie 4.0 Baden-Württemberg.</a></p>
                 </div>
             </div>
              <div class="col-md-4 col-sm-6 feature text-center">
