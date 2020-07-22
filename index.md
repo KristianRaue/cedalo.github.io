@@ -249,6 +249,11 @@ layout: default
 <section id="partnerships" class="features section">
     <div class="container" >
         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 usecase-intro">  
+                <div>
+                    <h1 class="section-header">Partnerships and Awards</h1>
+                </div>
+            </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
                     <a href="https://openindustry4.com/About-Us.html" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/openindustry.png" alt="" style="width:100%;height:auto;"></a>
@@ -270,7 +275,7 @@ layout: default
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
                     <a href="https://lni40.de/?lang=en" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/lni40.png" alt="" style="width:100%;height:auto;"></a>
-                    <p>Cedalo is actively engaging in two test LNI Test Labs, hosted by the <a href="https://lni40.de/practice/usecases/?lang=en" target="_blank">Labs Network Industrie 4.0 association.</a></p>
+                    <p>Cedalo is actively engaging in two test LNI Test Labs, hosted by the <a href="https://lni40.de/practice/usecases/?lang=en" target="_blank">Labs Network Industrie 4.0</a> association.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
