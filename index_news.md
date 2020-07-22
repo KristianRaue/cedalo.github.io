@@ -245,6 +245,55 @@ layout: default
     </div>
 </section><!-- usecase -->
 
+<section id="partnerships" class="features section">
+    <div class="container" >
+        <div class="row">
+            <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="feature-content">
+                    <img src="https://cedalo.com/assets/images/partnerships/openindustry.png" alt="" style="width:100%;height:auto;">
+                    <h3>Powerful<br />Charts</h3>
+                    <p>We include extensive charting features including custom and time-series charts that update with real-time data. No need to install third-party chart extensions. Have a look at our <a href="#chartgallery">chart gallery.</a></p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="feature-content">
+                    <img src="https://cedalo.com/assets/images/partnerships/eclipse.png" alt="" style="width:100%;height:auto;">
+                    <h3>On-Event<br />or Cyclic</h3>
+                    <p>Streamsheets calculate their formulas on each incoming stream event or based on a cycle timer. You can set the cycle timer to control how often a Sheet receives, processes and sends data.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="feature-content">
+                    <span class="icon icon-speedometer"></span>
+                    <h3>Milliseconds<br />Automation</h3>
+                    <p>Real-time event streams from technical or financial applications can have a very high frequencies. Streamsheets are able to run up to 1000 cycles per second to guarantee precise operations.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="feature-content">
+                    <span class="icon icon-browser"></span>
+                    <h3>Server-based<br />24/7 Operations</h3>
+                    <p>Streamsheets run on their own, even if you close the browser window. They run as microservices, 24 hours a day, receiving data from multiple sources, transforming it, and sending it out again.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="feature-content">
+                    <span class="icon icon-streetsign"></span>
+                    <h3>Open-Source<br /> & Premium</h3>
+                    <p>Both Mosquitto and Streamsheets are Eclipse IoT open-source projects which are commercially sponsored by Cedalo. We also offer premium editions of the products under the name "Cedalo Premium Platform"</p>
+                </div>
+            </div>
+             <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="feature-content">
+                    <span class="icon icon-download"></span>
+                    <h3>On-Premises<br />& Cloud</h3>
+                    <p>Our products run as managed service in the Cedalo Cloud, on your AWS or Azure account or on-premises under any major operating system. They even run on edge devices with weak CPUs or on the Raspberry Pi.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><!-- features -->
+
 <section id="chartgallery" class="section gallery"><!-- Chart Gallery -->
     <div class="container-flex text-center fluid-padding" >
             <h1>Streamcharts Gallery</h1>
