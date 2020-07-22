@@ -262,8 +262,8 @@ layout: default
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
-                    <img src="https://cedalo.com/assets/images/partnerships/plattform40.png" alt="" style="width:100%;height:auto;">
-                    <p>We include extensive charting features. Have a look at our <a href="#chartgallery">chart gallery.</a></p>
+                    <a href="https://www.plattform-i40.de/PI40/Redaktion/DE/Anwendungsbeispiele/455-cedalo/beitrag-cedalo.html" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/platform40.png" alt="" style="width:100%;height:auto;"></a>
+                    <p>Cedalo was assigned an official entry in the Map of Industrie 4.0 use cases ("Industrie 4.0 Landkarte") which is maintained by the <a href="https://www.eclipse.org/membership/showMember.php?member_id=1376#projects" target="_blank">Plattform Industrie 4.0</a></p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 feature text-center">
