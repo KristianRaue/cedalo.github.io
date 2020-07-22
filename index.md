@@ -136,7 +136,7 @@ layout: default
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 usecase-intro">  
                 <div>
-                    <h1 class="section-header">Typical use cases in selected Industries</h1>
+                    <h1 class="section-header">How our Customers use Streamsheets & Mosquitto</h1>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
@@ -249,11 +249,6 @@ layout: default
 <section id="partnerships" class="features section">
     <div class="container" >
         <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 usecase-intro">  
-                <div>
-                    <h1 class="section-header">Partnerships and Awards</h1>
-                </div>
-            </div>
             <div class="col-md-4 col-sm-6 feature text-center">
                 <div class="partnership-content">
                     <a href="https://openindustry4.com/About-Us.html" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/openindustry.png" alt="" style="width:100%;height:auto;"></a>
