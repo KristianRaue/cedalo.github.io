@@ -305,7 +305,7 @@ layout: default
                 {% endfor %}
             </div>
             <p>&nbsp;</p>
-            <p><a href="all_charts.html" class="btn btn-large">Complete Chart Gallery</a></p>
+            <p><a href="all_charts.html" class="btn btn-large">More Charts Types</a></p>
     </div>
 </section><!-- Chart Gallery -->
 
