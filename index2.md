@@ -45,12 +45,13 @@ layout: default
         <div class="row">
             <div class="col-md-12 col-sm-12">
                <hr>
+               <p style="margin-bottom:10px"><b>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®</b></p>
             </div>
              {% for post in site.categories["newsposts"] %}
                 <!--
                 {% increment my_post %}
                 -->
-                <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="col-md-3 col-sm-4 feature text-center">
                     <div class="partnership-content">
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" style="width:100%;height:auto;"></a>
                         <div>

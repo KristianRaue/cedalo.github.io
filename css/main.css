@@ -564,7 +564,8 @@ background-color: #313454; }
 .features h4{
   padding-bottom: 0px;
   padding-top: 10px;
-  color: #ffffff; }
+  color: #ffffff;
+  font-size: 16px; }
 
 .feature h2, .feature h3, .feature h5, .feature ul, .feature li {
   color: #ffffff; }
