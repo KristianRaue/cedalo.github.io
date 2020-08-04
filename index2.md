@@ -6,22 +6,32 @@ layout: default
     <div class="container-fluid">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-xs-12">
-                 <div class="banner-text">
-                    <h1 class="text-center">Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
-                    <ul class="text-left"><b>Eclipse Streamsheets:</b>
-                        <li>Dashboards and Visualizations in Real-Time</li>
-                        <li>Continous Analysis and Processing of Data</li>
-                        <li>Monitoring and Alerting</li>
-                        <li>Automation of Actions, Processes and Workflows</li>
-                        <li>Semantic Mappings between Protocols and Systems</li>
-                    </ul>
-                    <p class="text-left"><b>Eclipse Mosquitto</b> -  Devices and apps communicate in real-time, based the most popular broker technology in the world.</p>
-                    <p class="text-center">
+                <h1 class="banner-text;text-center">Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                <ul class="banner-text;text-left"><b>Eclipse Streamsheets:</b>
+                    <li>Dashboards and Visualizations in Real-Time</li>
+                    <li>Continous Analysis and Processing of Data</li>
+                    <li>Monitoring and Alerting</li>
+                    <li>Automation of Actions, Processes and Workflows</li>
+                    <li>Semantic Mappings between Protocols and Systems</li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                <ul class="banner-text;text-left"><b>Eclipse Streamsheets:</b>
+                    <li>Dashboards and Visualizations in Real-Time</li>
+                    <li>Continous Analysis and Processing of Data</li>
+                    <li>Monitoring and Alerting</li>
+                    <li>Automation of Actions, Processes and Workflows</li>
+                    <li>Semantic Mappings between Protocols and Systems</li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                <p class="banner-text;text-center">
                         <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
                         <a href="#products" class="btn btn-large">Learn more</a>
                         <a href="#download" class="btn btn-large">Get Started</a>
                     </p>
-                </div><!-- banner text -->
             </div>
             <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-12">
                 <div class="banner-chart text-center">
