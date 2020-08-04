@@ -322,6 +322,10 @@ background-color: #313454; }
   min-height: 180px;  
 }
 
+.banner-list {
+  min-height: 180px;  
+}
+
 .banner-text {
   padding-top: 20px; 
   padding-bottom: 20px;}
