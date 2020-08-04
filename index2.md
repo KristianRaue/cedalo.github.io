@@ -8,7 +8,7 @@ layout: default
             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                  <div class="banner-text">
                     <h1 class="text-center">Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
-                    <div class="col-lg-5  col-md-5  col-sm-5 col-xs-12">
+                    <div class="col-lg-6  col-md-6  col-sm-6 col-xs-12">
                         <ul class="text-left"><b>Eclipse Streamsheets:</b>
                             <li>Dashboards and Visualizations in Real-Time</li>
                             <li>Continous Analysis and Processing of Data</li>
@@ -17,7 +17,7 @@ layout: default
                             <li>Semantic Mappings between Protocols and Systems</li>
                         </ul>
                     </div>
-                    <div class="col-lg-5  col-md-5  col-sm-5 col-xs-12">
+                    <div class="col-lg-6 col-md-6  col-sm-6 col-xs-12">
                         <ul class="text-left"><b>Eclipse Streamsheets:</b>
                             <li>Dashboards and Visualizations in Real-Time</li>
                             <li>Continous Analysis and Processing of Data</li>
