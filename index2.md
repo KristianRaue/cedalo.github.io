@@ -40,7 +40,7 @@ layout: default
     </div>
 </section><!-- banner -->
 
-<section id="news" class="section features">
+<section id="news" class="section features" style="padding-top:0px;padding-bottom:0px;">
     <div class="container-fluid fluid-padding">
         <div class="row">
             <div class="col-md-12 col-sm-12">
