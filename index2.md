@@ -42,7 +42,7 @@ layout: default
 
 <section id="blog" class="section features no-padding">
     <div class="container-flex">
-        <div class="row no-padding">
+        <div class="row">
             <div class="col-md-12 col-sm-12">
                 <div class="usecase-intro">
                     <h1 class="section-header">News</h1>
