@@ -2,25 +2,12 @@
 layout: default
 ---
 
-
-<section id="banner" class="downloadpage" role="banner">
-    {% include _nav.html %}      
-    <div class="container text-center">
-        <div class="row flex-start" class="align-items: flex-start;">
-            <div class="col-md-12 col-sm-12">
-                <div class="banner-spacer">
-                </div>
-            </div>
-        </div>
-    </div>
-</section><!-- banner -->
-
-<section id="banner" class="banner" role="banner">
+<section id="intro" class="banner" role="banner">
     <div class="container-fluid">
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-xs-12">
                 <div class="banner-text text-center">
-                    <h1>Stream processing & IoT<br />for everybody</h1>
+                    <h1>Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
                     <p><b> Eclipse Streamsheets</b> - Anybody who knows how to use a spreadsheet can quickly build server-based, real-time applications for any purpose. No programming required.</p>
                     <p><b>Eclipse Mosquitto</b> -  Devices and apps communicate in real-time, based the most popular broker technology in the world.</p>
                     <p>
@@ -38,6 +25,7 @@ layout: default
         </div>
     </div>
 </section><!-- banner -->
+
 <section id="event" class="section confluent no-padding"><!-- Chart Gallery -->
     <div class="container-flex  fluid-padding" >
         <div class="row no-padding">
@@ -57,6 +45,7 @@ layout: default
         </div>
     </div>
 </section><!-- Chart Gallery -->
+
 <section id="products" class="products section">
     <div class="container-fluid fluid-padding" style="padding-top:20px;">
         <div class="row no-padding">
@@ -147,7 +136,7 @@ layout: default
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 usecase-intro">  
                 <div>
-                    <h1 class="section-header">Typical use cases in selected Industries</h1>
+                    <h1 class="section-header">How our Customers use Streamsheets & Mosquitto</h1>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 usecase">  
@@ -256,9 +245,58 @@ layout: default
     </div>
 </section><!-- usecase -->
 
+
+<section id="partnerships" class="features section">
+    <div class="container" >
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 usecase-intro">  
+                <div>
+                    <h1 class="section-header">Where Cedalo plays an active role</h1>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="partnership-content">
+                    <a href="https://openindustry4.com/About-Us.html" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/openindustry.png" alt="" style="width:100%;height:auto;"></a>
+                    <p>Cedalo is part of the <a href="https://www.eclipse.org/membership/showMember.php?member_id=1376#projects" target="_blank">Open Industry 4.0 Alliance</a> along with big names like SAP, Endress+Hauser, Hilscher and many more.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="partnership-content">
+                    <a href="https://www.eclipse.org/membership/showMember.php?member_id=1376#projects" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/eclipse.png" alt="" style="width:100%;height:auto;"></a>
+                    <p>Cedalo is an <a href="https://www.eclipse.org/membership/showMember.php?member_id=1376" target="_blank">Eclipse Solution Member</a> and sponsors two key IoT projects: <a href="https://projects.eclipse.org/projects/iot.mosquitto" target="_blank">Eclipse Mosquitto</a> and <a href="https://projects.eclipse.org/projects/iot.streamsheets" target="_blank">Eclipse Streamsheets.</a></p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="partnership-content">
+                    <a href="https://www.plattform-i40.de/PI40/Redaktion/DE/Anwendungsbeispiele/455-cedalo/beitrag-cedalo.html" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/plattform40.png" alt="" style="width:100%;height:auto;"></a>
+                    <p>Cedalo was assigned an official entry in the Map of Industrie 4.0 use cases which is maintained by the <a href="https://www.plattform-i40.de/PI40/Navigation/EN/Home/home.html" target="_blank">Plattform Industrie 4.0</a>.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="partnership-content">
+                    <a href="https://lni40.de/?lang=en" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/lni40.png" alt="" style="width:100%;height:auto;"></a>
+                    <p>Cedalo is actively engaging in two test LNI Test Labs, hosted by the <a href="https://lni40.de/practice/usecases/?lang=en" target="_blank">Labs Network Industrie 4.0</a> association.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="partnership-content">
+                    <a href="https://www.i40-bw.de/de/100orte/cedalo-ag/" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/100orte.png" alt="" style="width:100%;height:auto;"></a>
+                    <p>Cedalo was awarded in the "100 Places for Industrie 4.0 in Baden-Württemberg" contest from the <a href="https://www.i40-bw.de/en/" target="_blank">Allianz Industrie 4.0 BW.</a></p>
+                </div>
+            </div>
+             <div class="col-md-4 col-sm-6 feature text-center">
+                 <div class="partnership-content">
+                    <a href="https://www.confluent.io/" target="_blank"><img src="https://cedalo.com/assets/images/partnerships/confluent.png" alt="" style="width:100%;height:auto;"></a>
+                    <p>Cedalo is an certified Technology Partner of <a href="https://www.confluent.io/" target="_blank">CONFLUENT</a> - The original creators of streaming platform Apache Kafka®</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><!-- partnerships -->
+
 <section id="chartgallery" class="section gallery"><!-- Chart Gallery -->
     <div class="container-flex text-center fluid-padding" >
-            <h1>Streamcharts Gallery</h1>
+            <h1>Powerful charts for bound and unbound data</h1>
             <div class="row no-padding" style="padding-top:20px">
                 {% for chartnum in (10..15)  %}
                     <div class="col-md-4 col-sm-6 col-xs-12 text-center" style="padding:20px">
@@ -267,7 +305,7 @@ layout: default
                 {% endfor %}
             </div>
             <p>&nbsp;</p>
-            <p><a href="all_charts.html" class="btn btn-large">Complete Chart Gallery</a></p>
+            <p><a href="all_charts.html" class="btn btn-large">More Charts Types</a></p>
     </div>
 </section><!-- Chart Gallery -->
 
@@ -317,6 +355,9 @@ layout: default
                 </div>
             </div>
              {% for post in site.categories["blogposts"] %}
+                <!--
+                {% increment my_post %}
+                -->
                 <div class="col-md-4 col-sm-6" style="padding:20px">
                     <div class="person">
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
@@ -326,8 +367,15 @@ layout: default
                         </div>
                     </div><!-- blog -->
                 </div>
+                {% if my_post == 6 %}
+                    {% break %}
+                {% endif %}
             {% endfor %}
+            <div class="col-md-12 col-sm-12 text-center">
+                <p><a href="all_posts.html" class="btn btn-large">Explore all blog posts</a></p>
+            </div>
         </div>
+        
     </div>
 </section><!-- blog --> 
 
