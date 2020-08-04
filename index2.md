@@ -24,6 +24,11 @@ layout: default
                             <li>Support for MQTT Version 3.1.1 and 5.0</li>
                         </ul>
                     </div>
+                    <p class="text-center">
+                        <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
+                        <a href="#products" class="btn btn-large">Learn more</a>
+                        <a href="#download" class="btn btn-large">Get Started</a>
+                    </p>
                 </div><!-- banner text -->
             </div>
             <div class="col-lg-3  col-md-3 col-sm-3 col-xs-12">
@@ -36,7 +41,7 @@ layout: default
 </section><!-- banner -->
 
 <section id="event" class="section confluent no-padding"><!-- Chart Gallery -->
-    <div class="container-flex  fluid-padding" >
+    <div class="container-flex" >
         <div class="row no-padding">
             <div class="col-md-12">
                 <div class="fluid-padding" style="margin-bottom: 0px">
