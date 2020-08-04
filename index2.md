@@ -5,10 +5,10 @@ layout: default
 <section id="intro" class="banner" role="banner">
     <div class="container-fluid">
         <div class="row flex-start" class="align-items: flex-start;">
-            <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-xs-12">
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                  <div class="banner-text">
                     <h1 class="text-center">Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
-                    <div class="col-lg-5 col-lg-offset-1 col-md-5 col-md-offset-1 col-sm-5 col-sm-offset-1 col-xs-12">
+                    <div class="col-lg-5  col-md-5  col-sm-5 col-xs-12">
                         <ul class="text-left"><b>Eclipse Streamsheets:</b>
                             <li>Dashboards and Visualizations in Real-Time</li>
                             <li>Continous Analysis and Processing of Data</li>
@@ -17,7 +17,7 @@ layout: default
                             <li>Semantic Mappings between Protocols and Systems</li>
                         </ul>
                     </div>
-                    <div class="col-lg-5 col-lg-offset-1 col-md-5 col-md-offset-1 col-sm-5 col-sm-offset-1 col-xs-12">
+                    <div class="col-lg-5  col-md-5  col-sm-5 col-xs-12">
                         <ul class="text-left"><b>Eclipse Streamsheets:</b>
                             <li>Dashboards and Visualizations in Real-Time</li>
                             <li>Continous Analysis and Processing of Data</li>
