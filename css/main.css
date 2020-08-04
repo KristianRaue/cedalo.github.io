@@ -356,7 +356,7 @@ background-color: #313454; }
       font-size: 20px;
       font-weight: 300;
       line-height: 1.5;
-      margin-left: 30px;
+      margin-left: 40px;
       margin-right: 30px;
       margin-top: 22px;
       margin-bottom: 5px;
@@ -367,14 +367,14 @@ background-color: #313454; }
       font-size: 20px;
       font-weight: 300;
       line-height: 1.4;
-      margin-left: 30px;
+      margin-left: 40px;
       margin-right: 30px;
       margin-top: 7px;
       margin-bottom: 5px;
       padding: 0px;  }
 
     .banner-chart {
-      margin-top:20px;
+      margin-top:50px;
       margin-bottom:80px;
       overflow: hidden;
     }
