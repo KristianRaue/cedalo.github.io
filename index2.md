@@ -40,7 +40,7 @@ layout: default
     </div>
 </section><!-- banner -->
 
-<section id="blog" class="section features no-padding">
+<section id="news" class="section features no-padding">
     <div class="container-flex">
         <div class="row">
             <div class="col-md-12 col-sm-12">
