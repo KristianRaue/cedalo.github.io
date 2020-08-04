@@ -8,9 +8,7 @@ layout: default
             <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-xs-12">
                 <div class="banner-text text-center">
                     <h1>Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
-                </div>
-                <div class="banner-text text-left">
-                    <p><b> Eclipse Streamsheets and Eclipse Mosquitto</b> - Anybody who knows how to use a spreadsheet can quickly build server-based, real-time applications for any purpose. No programming required.</p>
+                    <p><b> Eclipse Streamsheets</b> - Anybody who knows how to use a spreadsheet can quickly build server-based, real-time applications for any purpose. No programming required.</p>
                     <p><b>Eclipse Mosquitto</b> -  Devices and apps communicate in real-time, based the most popular broker technology in the world.</p>
                     <p>
                         <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
