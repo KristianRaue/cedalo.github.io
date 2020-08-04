@@ -52,7 +52,7 @@ layout: default
                 {% increment my_post %}
                 -->
                 <div class="col-md-3 col-sm-4 feature text-center">
-                    <div class="partnership-content">
+                    <div class="partnership-content"> /// >>>>>> News und News-Content amstatt features und partnership-content mit neuenpaddings
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" style="width:100%;height:auto;"></a>
                         <div>
                             <a href="{{post.url}}"><h4>{{post.title}}</h4></a>    
