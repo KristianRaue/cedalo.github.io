@@ -52,26 +52,25 @@ layout: default
                 <!--
                 {% increment my_post %}
                 -->
-                <div class="col-md-4 col-sm-6" style="padding:20px">
-                    <div class="person">
-                        <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
+                <div class="col-md-4 col-sm-6 feature text-center">
+                    <div class="partnership-content">
+                        <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" style="width:100%;height:auto;"></a>
                         <div>
                             <a href="{{post.url}}"><h4>{{post.title}}</h4></a>    
                             <p>{{post.excerpt}}</p>
                         </div>
-                    </div><!-- blog -->
+                    </div>
                 </div>
-                {% if my_post == 6 %}
+                {% if my_post == 3 %}
                     {% break %}
                 {% endif %}
             {% endfor %}
             <div class="col-md-12 col-sm-12 text-center">
-                <p><a href="all_posts.html" class="btn btn-large">See all News</a></p>
+                <p><a href="all_posts.html" class="btn btn-large">Explore all News posts</a></p>
             </div>
         </div>
-        
     </div>
-</section><!-- blog --> 
+</section><!-- news --> 
 
 <section id="event" class="section confluent no-padding"><!-- Chart Gallery -->
     <div class="container-flex" >
