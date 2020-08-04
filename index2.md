@@ -40,13 +40,11 @@ layout: default
     </div>
 </section><!-- banner -->
 
-<section id="blog" class="section features">
-    <div class="container-flex">
+<section id="news" class="section features">
+    <div class="container-fluid fluid-padding">
         <div class="row">
             <div class="col-md-12 col-sm-12">
-                <div class="usecase-intro">
-                    <h1 class="section-header">News</h1>
-                </div>
+               <hr>
             </div>
              {% for post in site.categories["newsposts"] %}
                 <!--
