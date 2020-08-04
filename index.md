@@ -5,19 +5,33 @@ layout: default
 <section id="intro" class="banner" role="banner">
     <div class="container-fluid">
         <div class="row flex-start" class="align-items: flex-start;">
-            <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1 col-sm-7 col-sm-offset-1 col-xs-12">
-                <div class="banner-text text-center">
-                    <h1>Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
-                    <p><b> Eclipse Streamsheets</b> - Anybody who knows how to use a spreadsheet can quickly build server-based, real-time applications for any purpose. No programming required.</p>
-                    <p><b>Eclipse Mosquitto</b> -  Devices and apps communicate in real-time, based the most popular broker technology in the world.</p>
-                    <p>
+            <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+                 <div class="banner-text">
+                    <h1 class="text-center">Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
+                    <div class="col-lg-6  col-md-12  col-sm-12 col-xs-12 banner-list">
+                        <ul class="text-left"><b>Eclipse Streamsheets:</b>
+                            <li>Dashboards and Visualizations in Real-Time</li>
+                            <li>Continuous Analysis and Processing of Data</li>
+                            <li>Monitoring, Alerting and Automation</li>
+                            <li>Semantic Mappings between Protocols</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-md-12  col-sm-12 col-xs-12 banner-list">
+                        <ul class="text-left"><b>Eclipse Mosquitto:</b>
+                            <li>The most popular MQTT Broker in the World</li>
+                            <li>Apps and Devices connected in Real-Time</li>
+                            <li>Secure and Firewall friendly</li>
+                            <li>Support for MQTT Version 3.1.1 and 5.0</li>
+                        </ul>
+                    </div>
+                    <p class="text-center">
                         <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
                         <a href="#products" class="btn btn-large">Learn more</a>
                         <a href="#download" class="btn btn-large">Get Started</a>
                     </p>
                 </div><!-- banner text -->
             </div>
-            <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-12">
+            <div class="col-lg-3  col-md-3 col-sm-3 col-xs-12">
                 <div class="banner-chart text-center">
                     <img  src="https://cedalo.com/images/screenshot_orig.png" alt="">
                 </div><!-- banner text -->
@@ -27,7 +41,7 @@ layout: default
 </section><!-- banner -->
 
 <section id="event" class="section confluent no-padding"><!-- Chart Gallery -->
-    <div class="container-flex  fluid-padding" >
+    <div class="container-flex" >
         <div class="row no-padding">
             <div class="col-md-12">
                 <div class="fluid-padding" style="margin-bottom: 0px">
