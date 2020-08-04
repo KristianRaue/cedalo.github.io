@@ -11,7 +11,7 @@ layout: default
                     <div class="col-lg-6  col-md-12  col-sm-12 col-xs-12 banner-list">
                         <ul class="text-left"><b>Eclipse Streamsheets:</b>
                             <li>Dashboards and Visualizations in Real-Time</li>
-                            <li>Continous Analysis and Processing of Data</li>
+                            <li>Continuous Analysis and Processing of Data</li>
                             <li>Monitoring, Alerting and Automation</li>
                             <li>Semantic Mappings between Protocols</li>
                         </ul>
