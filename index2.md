@@ -40,6 +40,39 @@ layout: default
     </div>
 </section><!-- banner -->
 
+<section id="blog" class="section confluent no-padding">
+    <div class="container-flex">
+        <div class="row">
+            <div class="col-md-12 col-sm-12">
+                <div class="person-intro">
+                    <h1 class="section-header">News</h1>
+                </div>
+            </div>
+             {% for post in site.categories["newsposts"] %}
+                <!--
+                {% increment my_post %}
+                -->
+                <div class="col-md-4 col-sm-6" style="padding:20px">
+                    <div class="person">
+                        <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
+                        <div>
+                            <a href="{{post.url}}"><h4>{{post.title}}</h4></a>    
+                            <p>{{post.excerpt}}</p>
+                        </div>
+                    </div><!-- blog -->
+                </div>
+                {% if my_post == 6 %}
+                    {% break %}
+                {% endif %}
+            {% endfor %}
+            <div class="col-md-12 col-sm-12 text-center">
+                <p><a href="all_posts.html" class="btn btn-large">See all News</a></p>
+            </div>
+        </div>
+        
+    </div>
+</section><!-- blog --> 
+
 <section id="event" class="section confluent no-padding"><!-- Chart Gallery -->
     <div class="container-flex" >
         <div class="row no-padding">
