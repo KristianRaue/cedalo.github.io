@@ -16,6 +16,8 @@ layout: default
                             <li>Automation of Actions, Processes and Workflows</li>
                             <li>Semantic Mappings between Protocols and Systems</li>
                         </ul>
+                    </div>
+                    <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-12">
                         <p class="text-left"><b>Eclipse Mosquitto</b> -  Devices and apps communicate in real-time, based the most popular broker technology in the world.</p>
                     </div>
                     <p class="text-center">
