@@ -4,7 +4,7 @@ layout: default
 
 <section id="intro" class="banner" role="banner">
     <div class="container-fluid">
-        <div class="row flex-start" class="align-items: flex-start;">
+        <div class="row flex-start">
             <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                  <div class="banner-text">
                     <h1 class="text-center">Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
@@ -40,11 +40,11 @@ layout: default
     </div>
 </section><!-- banner -->
 
-<section id="blog" class="section confluent no-padding">
+<section id="blog" class="section features no-padding">
     <div class="container-flex">
-        <div class="row">
+        <div class="row no-padding">
             <div class="col-md-12 col-sm-12">
-                <div class="person-intro">
+                <div class="usecase-intro">
                     <h1 class="section-header">News</h1>
                 </div>
             </div>
