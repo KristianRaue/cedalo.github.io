@@ -26,11 +26,6 @@ layout: default
                             <li>Semantic Mappings between Protocols and Systems</li>
                         </ul>
                     </div>
-                    <p class="text-center">
-                        <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
-                        <a href="#products" class="btn btn-large">Learn more</a>
-                        <a href="#download" class="btn btn-large">Get Started</a>
-                    </p>
                 </div><!-- banner text -->
             </div>
             <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-12">
