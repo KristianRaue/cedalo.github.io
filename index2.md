@@ -5,7 +5,7 @@ layout: default
 <section id="intro" class="banner" role="banner">
     <div class="container-fluid">
         <div class="row flex-start" class="align-items: flex-start;">
-            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+            <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                  <div class="banner-text">
                     <h1 class="text-center">Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
                     <div class="col-lg-6  col-md-12  col-sm-12 col-xs-12">
