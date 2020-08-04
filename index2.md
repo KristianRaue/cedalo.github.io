@@ -18,9 +18,9 @@ layout: default
                     </div>
                     <div class="col-lg-6 col-md-12  col-sm-12 col-xs-12">
                         <ul class="text-left"><b>Eclipse Mosquitto:</b>
-                            <li>Apps and Devices communicate in Real-Time</li>
                             <li>The most popular MQTT Broker in the world</li>
-                            <li>Secure and Firewall Friendly - Edge and Cloud</li>
+                            <li>Apps and Devices communicate in Real-Time</li>
+                            <li>Secure and Firewall Friendly - Edge & Cloud</li>
                             <li>Support for MQTT Version 3.1.1 and 5.0</li>
                         </ul>
                     </div>
