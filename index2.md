@@ -43,9 +43,9 @@ layout: default
 <section id="news" class="section features" style="padding-top:0px;padding-bottom:0px;">
     <div class="container-fluid fluid-padding">
         <div class="row">
-            <div class="col-md-12 col-sm-12">
+            <div class="col-md-12 col-sm-12 feature">
                <hr>
-               <p style="margin-bottom:10px"><b>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®</b></p>
+               <p><b>News</b></p>
             </div>
              {% for post in site.categories["newsposts"] %}
                 <!--
