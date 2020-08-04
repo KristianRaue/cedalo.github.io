@@ -25,7 +25,6 @@ layout: default
                         </ul>
                     </div>
                     <p class="text-center">
-                        <hr>
                         <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
                         <a href="#products" class="btn btn-large">Learn more</a>
                         <a href="#download" class="btn btn-large">Get Started</a>
