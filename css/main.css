@@ -566,6 +566,8 @@ background-color: #313454; }
   
   .news p {
     color: #ffffff;
+    padding-bottom: 0px;
+    padding-top: 0px;
     margin-top: 0px;
     margin-left: 0px;
     margin-right: 0px;
