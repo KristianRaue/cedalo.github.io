@@ -545,6 +545,32 @@ background-color: #313454; }
   max-width: 520px;
   text-align: center; }
 
+  .news h1 {
+    padding-bottom: 20px;
+    padding-top: 30px;
+    color: #ffffff; }
+  
+  .news h3 {
+    padding-bottom: 0px;
+    padding-top: 20px;
+    color: #ffffff; }
+  
+  .news h4 {
+    padding-bottom: 0px;
+    padding-top: 10px;
+    color: #ffffff;
+    font-size: 16px; }
+  
+  .news h2, .feature h3, .feature h5, .feature ul, .feature li {
+    color: #ffffff; }
+  
+  .news p {
+    color: #ffffff;
+    margin-top: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 30px; }
+
 
 /* ==========================================================================
 	$Features
