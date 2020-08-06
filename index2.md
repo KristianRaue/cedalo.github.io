@@ -43,9 +43,12 @@ layout: default
 <section id="news" class="section news" style="padding-top:0px;padding-bottom:0px;">
     <div class="container-fluid fluid-padding">
         <div class="row">
-            <div class="col-md-12 col-sm-12 news_sing">
-               <hr>
-               <h2><b>News</b><a href="all_posts.html" class="btn btn-large">Explore all News posts</a></h2>
+            <hr>
+            <div class="col-md-2 col-sm-2 news_sing">  
+               <h2><b>News</b></h2>
+            </div>
+            <div class="col-md-10 col-sm-10 news_sing">
+                <a href="all_posts.html" class="btn btn-large">Explore all News posts</a>
             </div>
              {% for post in site.categories["newsposts"] %}
                 <!--
@@ -70,26 +73,6 @@ layout: default
         </div>
     </div>
 </section><!-- news --> 
-
-<section id="event" class="section confluent no-padding"><!-- Chart Gallery -->
-    <div class="container-flex" >
-        <div class="row no-padding">
-            <div class="col-md-12">
-                <div class="fluid-padding" style="margin-bottom: 0px">
-                    <hr>
-                    <p style="margin-bottom:10px"><b>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®</b></p>
-                    <h2>Streamsheets and Apache Kafka – Interactively build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills</h2>
-                    <ul><b>Hear Kai Waehner of Confluent and Kristian Raue of Cedalo on these topics:</b>
-                        <li>Where Apache Kafka and Streamsheets fit in the data ecosystem (Industrial IoT, Smart Energy, Clinical Applications, Finance Applications)</li>
-                        <li>Customer Story: How the Freiburg University Hospital uses Kafka and Streamsheets for dashboarding the utilization of clinical assets</li>
-                        <li>15-Minutes Live Demonstration: Building a financial fraud detection dashboard based on Confluent Cloud, ksqlDB and Cedalo Cloud Streamsheets just using spreadsheet formulas.</li>
-                    </ul>
-                    <p style="margin-bottom:10px"><a href="https://cedalo.com/webinar.html" target="_blank" class="btn btn-large">Watch the recorded Webinar</a></p>
-                </div><!-- banner text -->
-            </div>
-        </div>
-    </div>
-</section><!-- Chart Gallery -->
 
 <section id="products" class="products section">
     <div class="container-fluid fluid-padding" style="padding-top:20px;">
