@@ -48,7 +48,7 @@ layout: default
                 <div class="col-md-6 col-sm-6">
                     <h2><b>News</b></h2>
                 </div>
-                <div class="col-md-6 col-sm-6 text-left">
+                <div class="col-md-6 col-sm-6 text-right">
                     <a href="all_posts.html" class="btn btn-large">Explore all News posts</a>
                 </div>
             </div>
