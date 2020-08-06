@@ -45,7 +45,7 @@ layout: default
         <div class="row">
             <div class="col-md-12 col-sm-12 news_sing">
                <hr>
-               <h2><b>News</b></h2>
+               <h2><b>News</b><a href="all_posts.html" class="btn btn-large">Explore all News posts</a></h2>
             </div>
              {% for post in site.categories["newsposts"] %}
                 <!--
@@ -65,7 +65,7 @@ layout: default
                 {% endif %}
             {% endfor %}
             <div class="col-md-12 col-sm-12 text-center">
-                <p><a href="all_posts.html" class="btn btn-large">Explore all News posts</a></p>
+                <hr>
             </div>
         </div>
     </div>
