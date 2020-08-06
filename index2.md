@@ -60,7 +60,7 @@ layout: default
                     <div class="news-content">
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" style="width:100%;height:auto;"></a>
                         <div>
-                            <a href="{{post.url}}"><h4>{{post.title}}</h4></a>    
+                            <p><b><a href="{{post.url}}">{{post.title}}</a></b></p>    
                             <p>{{post.excerpt}}</p>
                         </div>
                     </div>
