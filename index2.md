@@ -74,27 +74,7 @@ layout: default
             </div>
         </div>
     </div>
-</section><!-- news --> 
-
-<section id="event" class="section confluent no-padding"><!-- Chart Gallery -->
-    <div class="container-flex" >
-        <div class="row no-padding">
-            <div class="col-md-12">
-                <div class="fluid-padding" style="margin-bottom: 0px">
-                    <hr>
-                    <p style="margin-bottom:10px"><b>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®</b></p>
-                    <h2>Streamsheets and Apache Kafka – Interactively build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills</h2>
-                    <ul><b>Hear Kai Waehner of Confluent and Kristian Raue of Cedalo on these topics:</b>
-                        <li>Where Apache Kafka and Streamsheets fit in the data ecosystem (Industrial IoT, Smart Energy, Clinical Applications, Finance Applications)</li>
-                        <li>Customer Story: How the Freiburg University Hospital uses Kafka and Streamsheets for dashboarding the utilization of clinical assets</li>
-                        <li>15-Minutes Live Demonstration: Building a financial fraud detection dashboard based on Confluent Cloud, ksqlDB and Cedalo Cloud Streamsheets just using spreadsheet formulas.</li>
-                    </ul>
-                    <p style="margin-bottom:10px"><a href="https://cedalo.com/webinar.html" target="_blank" class="btn btn-large">Watch the recorded Webinar</a></p>
-                </div><!-- banner text -->
-            </div>
-        </div>
-    </div>
-</section><!-- Chart Gallery -->
+</section><!-- news -->
 
 <section id="products" class="products section">
     <div class="container-fluid fluid-padding" style="padding-top:20px;">
