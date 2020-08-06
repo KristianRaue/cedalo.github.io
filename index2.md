@@ -59,7 +59,7 @@ layout: default
                 <!--
                 {% increment my_post %}
                 -->
-                <div class="col-lg-3 col-md-4 col-sm-6 news_sing text-center">
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 news_sing text-center">
                     <div class="news-content">
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" style="width:100%;height:auto;"></a>
                         <div>
