@@ -52,6 +52,7 @@ layout: default
                     <a href="all_posts.html" class="btn btn-large">Explore all News posts</a>
                 </div>
             </div>
+            <div class="col-md-12 col-sm-12 news_sing">
              {% for post in site.categories["newsposts"] %}
                 <!--
                 {% increment my_post %}
@@ -69,6 +70,7 @@ layout: default
                     {% break %}
                 {% endif %}
             {% endfor %}
+            </div>
             <div class="col-md-12 col-sm-12 text-center">
                 <hr>
             </div>
