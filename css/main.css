@@ -552,7 +552,8 @@ background-color: #313454; }
 
   .news h2 {
     padding-bottom: 10px;
-    padding-top: 10px;
+    padding-top: 0px;
+    margin-top: 0px;
     color: #ffffff; }
   
   .news h3 {
