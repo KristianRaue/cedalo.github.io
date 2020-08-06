@@ -1,8 +1,9 @@
 ---
 layout: blogposts
-title: "How Streamsheets work – Stream Processing and IoT for Non-Programmers"
+title: "How Streamsheets work"
 date: 2020-11-28
 image_url: "/assets/images/blogposts/blog_shelly_introduction.png"
+excerpt: "sjkldj klasj lkasjd askljd aslkdj aslkd kldfjasl djaslk jslkfj lskfa"
 ---
 
 This blog post introduces the basic operation of Streamsheets. Using the example of a smart WiFi switch with an integrated power consumption meter (Shelly 2.5), we set up a complete Streamsheet use case within 10 minutes.
@@ -26,17 +27,4 @@ I recommended to watch the following video in full screen mode. The video is 10 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Y_7Irtc-d08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Video: Second Video: Device Status – Dynamic drawings in Streamsheets
-
-<div class="iframe-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/v_lS5vnhqyQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-### Video:Third Video: Using Streamsheets to build bridges – REST to MQTT Gateway
-
-
-<div class="iframe-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/rUSzsGKzjno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
  
