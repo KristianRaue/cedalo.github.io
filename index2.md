@@ -52,12 +52,14 @@ layout: default
                     <a href="all_posts.html" class="btn btn-large">Explore all News posts</a>
                 </div>
             </div>
+        </div>
+        <div class="row">
             <div class="col-md-12 col-sm-12 news_sing">
              {% for post in site.categories["newsposts"] %}
                 <!--
                 {% increment my_post %}
                 -->
-                <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 news_sing text-center">
+                <div class="col-lg-2 col-md-3 col-sm-4 news_sing text-center">
                     <div class="news-content">
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" style="width:100%;height:auto;"></a>
                         <div>
@@ -71,7 +73,9 @@ layout: default
                 {% endif %}
             {% endfor %}
             </div>
-            <div class="col-md-12 col-sm-12 text-center">
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-sm-12 news_sing">
                 <hr>
             </div>
         </div>
