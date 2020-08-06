@@ -526,6 +526,24 @@ background-color: #313454; }
 
 
 
+/* ==========================================================================
+	$News
+========================================================================== */
+.news {
+  background-color: #3a3e64; 
+}
+
+.news_sing {
+  margin-bottom: 30px;
+  margin-top: 20px;
+  }
+
+.news-content {
+  padding: 10px 15px;
+  margin-top: 30px; 
+  min-height: 360px;
+  max-width: 520px;
+  text-align: center; }
 
 
 /* ==========================================================================

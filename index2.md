@@ -40,10 +40,10 @@ layout: default
     </div>
 </section><!-- banner -->
 
-<section id="news" class="section features" style="padding-top:0px;padding-bottom:0px;">
+<section id="news" class="section news" style="padding-top:0px;padding-bottom:0px;">
     <div class="container-fluid fluid-padding">
         <div class="row">
-            <div class="col-md-12 col-sm-12 feature">
+            <div class="col-md-12 col-sm-12 news_sing">
                <hr>
                <p><b>News</b></p>
             </div>
@@ -51,8 +51,8 @@ layout: default
                 <!--
                 {% increment my_post %}
                 -->
-                <div class="col-md-3 col-sm-4 feature text-center">
-                    <div class="partnership-content"> /// >>>>>> News und News-Content amstatt features und partnership-content mit neuenpaddings
+                <div class="col-md-3 col-sm-4 news_sing text-center">
+                    <div class="news-content">
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" style="width:100%;height:auto;"></a>
                         <div>
                             <a href="{{post.url}}"><h4>{{post.title}}</h4></a>    
