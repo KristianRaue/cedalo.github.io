@@ -45,7 +45,7 @@ layout: default
         <div class="row">
             <div class="col-md-12 col-sm-12 news_sing">
                <hr>
-               <p><b>News</b></p>
+               <h2><b>News</b></h2>
             </div>
              {% for post in site.categories["newsposts"] %}
                 <!--
