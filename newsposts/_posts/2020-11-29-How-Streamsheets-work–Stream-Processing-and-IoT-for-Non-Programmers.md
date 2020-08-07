@@ -3,7 +3,7 @@ layout: blogposts
 title: "How Streamsheets work"
 date: 2020-11-28
 image_url: "/assets/images/blogposts/blog_shelly_introduction.png"
-excerpt: "sjkldj klasj lkasjd askljd aslkdj aslkd kldfjasl djaslk jslkfj lskfa"
+excerpt: "sjkldj klasj lkasjd askljd aslkdj aslkd kldfjasl djaslk jslkfj lskfa ldj ask sakldj asdj asdjl las dad sadas"
 ---
 
 This blog post introduces the basic operation of Streamsheets. Using the example of a smart WiFi switch with an integrated power consumption meter (Shelly 2.5), we set up a complete Streamsheet use case within 10 minutes.
