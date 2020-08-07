@@ -26,6 +26,13 @@
 
 }
 
+@media screen and (min-width: 991px) {
+  
+  .news-content {
+    max-width: 620px;}
+
+}
+
 @media screen and (min-width: 1500px) {
   .gallery {
     padding-left: 100px;
@@ -399,6 +406,13 @@
       font-size: 18px;
       margin-left: 25px;
       margin-right: 5px; }
+
+      .news .btn-large {
+        padding: 4px;
+        margin-top: 20px;
+        margin-left: 4px;
+        margin-right: 4px;
+        margin-bottom: 30px; }
   
   }
 @media screen and (max-width: 480px) {
