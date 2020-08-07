@@ -532,6 +532,7 @@ background-color: #313454; }
 .news {
   background-color: #3a3e64; 
   height: 200px;
+  overflow: hidden;
 }
 
 .news_sing {
