@@ -1,7 +1,7 @@
 ---
 layout: newsposts
 title: "How Streamsheets work"
-date: 2020-11-28
+date: 2019-11-28
 image_url: "/assets/images/blogposts/blog_shelly_introduction.png"
 excerpt: "sjkldj klasj lkasjd askljd aslkdj aslkd kldfjasl djaslk jslkfj lskfa ldj ask sakldj asdj asdjl las dad sadas"
 ---
