@@ -531,12 +531,12 @@ background-color: #313454; }
 ========================================================================== */
 .news {
   background-color: #3a3e64; 
+  height: 200px;
 }
 
 .news_sing {
   margin-bottom: 0px;
   margin-top: 0px;
-  height: 300px;
   }
 
 .news-content {
