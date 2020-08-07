@@ -21,6 +21,8 @@ title: Cedalo - Blog
         <div class="row">
             <div class="col-lg-8 col-md-8 col-lg-offset-2 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">   
                 <div class="blog-box">
+                    <h2 class="section-header">{{page.title}}</h2>
+                    <p>{{ page.date | date_to_string }} - Author: Kristian Raue</p>
                     {{content}}
                 </div>
             </div>
