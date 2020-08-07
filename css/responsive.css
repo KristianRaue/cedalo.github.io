@@ -28,11 +28,6 @@
   
   .news-content {
     max-width: 620px;}
-
-  .news {
-    height: 440px;
-    }
-
 }
 
 @media screen and (min-width: 1500px) {
@@ -44,6 +39,11 @@
   .banner-list {
     min-height: 260px;  
   }
+  
+  .news {
+    height: 420px;
+    }
+
 }
 
 @media screen and (min-width: 1900px) {
@@ -51,6 +51,11 @@
     padding-left: 200px;
     padding-right: 200px;
   }
+    
+  .news {
+    height: 440px;
+    }
+  
 }
 
 @media screen and (max-width: 1500px) {
