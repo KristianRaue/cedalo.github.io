@@ -6,23 +6,11 @@ image_url: "/assets/images/blogposts/blog_shelly_introduction.png"
 excerpt: "Joint Webinar with CONFLUENT - Build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills"
 ---
 
-This blog post introduces the basic operation of Streamsheets. Using the example of a smart WiFi switch with an integrated power consumption meter (Shelly 2.5), we set up a complete Streamsheet use case within 10 minutes.
-
-<img src="{{page.image_url}}" width="100%" height="auto">
-
-This post contains 3 video sessions:
-
-In the first video just below you see how the data connection is established and how the necessary spreadsheet formulas and charts are created. This includes an energy monitoring and an automatic shutdown if the energy consumption or operating temperature is too high. In addition, the first video shows how to set up the Streamsheet to automatically send emails in the event of an alarm and how to make entries in a log database (here MongoDB).
-
-The second video extends the demo to show how you can created visual representations of the device status directly in the Streamsheets. This is done simply by dynamically linking the attributes of graphical objects with the contents of Streamsheet cells (cells, which then in turn are linked to the JSON data from the MQTT messages)
-
-In the third video we confess, that we actually did not use the MQTT connectivity of the Shelly 2.5 device. Instead we used the REST API which delivers very complete JSON payloads. This gave us another use case, namely to show how easy it is to use a Streamsheet to build a highly flexible REST-to-MQTT Gateway just using spreadsheet formulas.
-
-I recommended to watch the following video in full screen mode. The video is 10 minutes long, but the first 5 minutes are enough to understand the basic principle of Streamsheets.
-
-
-### Video: Introduction to Streamsheets (Main Video)
-
-<div class="iframe-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Y_7Irtc-d08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<p style="margin-bottom:10px"><b>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®</b></p>
+<h2>Streamsheets and Apache Kafka – Interactively build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills</h2>
+<ul><b>Hear Kai Waehner of Confluent and Kristian Raue of Cedalo on these topics:</b>
+    <li>Where Apache Kafka and Streamsheets fit in the data ecosystem (Industrial IoT, Smart Energy, Clinical Applications, Finance Applications)</li>
+    <li>Customer Story: How the Freiburg University Hospital uses Kafka and Streamsheets for dashboarding the utilization of clinical assets</li>
+    <li>15-Minutes Live Demonstration: Building a financial fraud detection dashboard based on Confluent Cloud, ksqlDB and Cedalo Cloud Streamsheets just using spreadsheet formulas.</li>
+</ul>
+<p style="margin-bottom:10px"><a href="https://cedalo.com/webinar.html" target="_blank" class="btn btn-large">Watch the recorded Webinar</a></p>
