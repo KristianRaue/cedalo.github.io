@@ -49,7 +49,7 @@ layout: default
                     <h2><b>News</b></h2>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-6 text-right">
-                    <a href="all_posts.html" class="btn btn-large">Show All</a>
+                    <a href="all_news.html" class="btn btn-large">Show All News</a>
                 </div>
             </div>
         </div>
