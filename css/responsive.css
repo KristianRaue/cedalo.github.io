@@ -29,6 +29,10 @@
   .news-content {
     max-width: 620px;}
 
+  .news {
+    height: 440px;
+    }
+
 }
 
 @media screen and (min-width: 1500px) {
