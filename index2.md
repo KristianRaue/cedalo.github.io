@@ -45,10 +45,10 @@ layout: default
         <div class="row">
             <div class="col-md-12 col-sm-12 news_sing">
                 <hr>
-                <div class="col-md-6 col-sm-6">
+                <div class="col-md-6 col-sm-6 col-xs-6">
                     <h2><b>News</b></h2>
                 </div>
-                <div class="col-md-6 col-sm-6 text-right">
+                <div class="col-md-6 col-sm-6 col-xs-6 text-right">
                     <a href="all_posts.html" class="btn btn-large">Explore all News posts</a>
                 </div>
             </div>
