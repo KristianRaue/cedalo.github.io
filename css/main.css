@@ -81,7 +81,8 @@ body {
 ul, ol {
   margin: 10px;
   padding-left: 10px; 
-  padding-bottom: 10px; }
+  padding-bottom: 10px;
+  font-size: 16px; }
 
 ul li {
   list-style: disc; 
