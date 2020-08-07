@@ -416,10 +416,10 @@
 
       .news .btn-large {
         padding: 4px;
-        margin-top: 20px;
+        margin-top: 0px;
         margin-left: 4px;
         margin-right: 4px;
-        margin-bottom: 30px; }
+        margin-bottom: 10px; }
   
   }
 @media screen and (max-width: 480px) {
