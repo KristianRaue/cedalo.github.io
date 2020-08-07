@@ -57,7 +57,7 @@ layout: default
             <div class="col-md-12 col-sm-12 news_sing">
              {% for post in site.categories["newsposts"] %}
                 <!--
-                {% increment my_post %}
+                {% increment my_news %}
                 -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 news_sing text-center">
                     <div class="news-content">
@@ -68,7 +68,7 @@ layout: default
                         </div>
                     </div>
                 </div>
-                {% if my_post == 3 %}
+                {% if my_news == 3 %}
                     {% break %}
                 {% endif %}
             {% endfor %}
