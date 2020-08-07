@@ -1,0 +1,30 @@
+---
+layout: default
+title: Cedalo - News
+---
+
+<section id="banner" class="blogpage" role="banner">
+    <div class="container">
+        <div class="row flex-start" class="align-items: flex-start;">
+            <div class="blog-intro text-center">
+                <div class="col-lg-8 col-md-8 col-lg-offset-2 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">  
+                    <h1 class="section-header">Cedalo News</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><!-- banner -->
+
+<section id="blogentry" class="blog section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-lg-offset-2 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">   
+                <div class="blog-box">
+                    <h2 class="section-header">{{page.title}}</h2>
+                    <h4 class="text-center">{{ page.date | date_to_string }}</h4>
+                    {{content}}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
