@@ -68,7 +68,7 @@ layout: default
                         </div>
                     </div>
                 </div>
-                {% if my_news == 3 %}
+                {% if my_news == 4 %}
                     {% break %}
                 {% endif %}
             {% endfor %}
