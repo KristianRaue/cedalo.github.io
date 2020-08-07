@@ -19,7 +19,7 @@ title: Cedalo - News
     <div class="container-flex fluid-padding">
         <div class="row">
              {% for post in site.categories["newsposts"] %}
-                <div class="col-md-4 col-sm-6" style="padding:20px">
+                <div class="col-lg-3 col-md-4 col-sm-6" style="padding:20px">
                     <div class="news-content">
                         <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" class="img-responsive"></a>
                         <div>
