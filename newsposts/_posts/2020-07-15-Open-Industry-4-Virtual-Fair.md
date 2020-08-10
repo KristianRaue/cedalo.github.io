@@ -3,10 +3,10 @@ layout: newsposts
 title: "Open Industry Virtual Fair"
 date: 2020-08-01
 image_url: "/assets/images/newsposts/openindustryfair.jpg"
-excerpt: "The Open Industry 4.0 Alliance is giving a Virtual Fair 2020. Simply visit online."
+excerpt: "The Open Industry 4.0 Alliance hosted a Virtual fair 2020 on July 16th & 17th. You can still visit the fair online."
 ---
 
-<h2>The Open Industry 4.0 Alliance is giving a Virtual Fair 2020</h2>
+<h2>The Open Industry 4.0 Alliance Virtual Fair 2020</h2>
 
 <img src="{{page.image_url}}" width="100%" height="auto">
 
