@@ -6,9 +6,9 @@ image_url: "/assets/images/newsposts/openindustryfair.jpg"
 excerpt: "The Open Industry 4.0 Alliance hosted a Virtual fair 2020 on July 16th & 17th. You can still visit the fair online."
 ---
 
-<h2>The Open Industry 4.0 Alliance Virtual Fair 2020</h2>
-
 <img src="{{page.image_url}}" width="100%" height="auto">
+
+<h2>The Open Industry 4.0 Alliance Virtual Fair 2020</h2>
 
 <p>A BIG THANK YOU for joining us during the Virtual Fair days last week! Hopefully you have had some deeper insights and better understanding about the Alliance.</p>
 
