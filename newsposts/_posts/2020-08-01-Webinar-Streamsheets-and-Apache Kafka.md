@@ -8,6 +8,9 @@ excerpt: "Joint Webinar with CONFLUENT - Build real-time Dashboards & Streaming 
 
 <p style="margin-bottom:10px"><b>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®</b></p>
 <h2>Interactively build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills</h2>
+
+<img src="{{page.image_url}}" width="100%" height="auto">
+
 <ul><b>Hear Kai Waehner of Confluent and Kristian Raue of Cedalo on these topics:</b>
     <li>Where Apache Kafka and Streamsheets fit in the data ecosystem (Industrial IoT, Smart Energy, Clinical Applications, Finance Applications)</li>
     <li>Customer Story: How the Freiburg University Hospital uses Kafka and Streamsheets for dashboarding the utilization of clinical assets</li>
