@@ -4,7 +4,7 @@ layout: default
 
 <section id="intro" class="banner" role="banner">
     <div class="container-fluid">
-        <div class="row flex-start" class="align-items: flex-start;">
+        <div class="row flex-start">
             <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                  <div class="banner-text">
                     <h1 class="text-center">Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
@@ -40,25 +40,42 @@ layout: default
     </div>
 </section><!-- banner -->
 
-<section id="event" class="section confluent no-padding"><!-- Chart Gallery -->
-    <div class="container-flex" >
-        <div class="row no-padding">
-            <div class="col-md-12">
-                <div class="fluid-padding" style="margin-bottom: 0px">
-                    <hr>
-                    <p style="margin-bottom:10px"><b>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®</b></p>
-                    <h2>Streamsheets and Apache Kafka – Interactively build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills</h2>
-                    <ul><b>Hear Kai Waehner of Confluent and Kristian Raue of Cedalo on these topics:</b>
-                        <li>Where Apache Kafka and Streamsheets fit in the data ecosystem (Industrial IoT, Smart Energy, Clinical Applications, Finance Applications)</li>
-                        <li>Customer Story: How the Freiburg University Hospital uses Kafka and Streamsheets for dashboarding the utilization of clinical assets</li>
-                        <li>15-Minutes Live Demonstration: Building a financial fraud detection dashboard based on Confluent Cloud, ksqlDB and Cedalo Cloud Streamsheets just using spreadsheet formulas.</li>
-                    </ul>
-                    <p style="margin-bottom:10px"><a href="https://cedalo.com/webinar.html" target="_blank" class="btn btn-large">Watch the recorded Webinar</a></p>
-                </div><!-- banner text -->
+<section id="news" class="section news" style="padding-top:0px;padding-bottom:0px;">
+    <div class="container-fluid fluid-padding">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 news_sing">
+                <hr>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <h2><b>News</b></h2>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6 text-right">
+                    <a href="all_news.html" class="btn btn-large">Show All News</a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-sm-12 news_sing">
+             {% for post in site.categories["newsposts"] %}
+                <!--
+                {% increment my_news %}
+                -->
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 news_sing text-center">
+                    <div class="news-content">
+                        <a href="{{post.url}}"><img src="{{ post.image_url }}" alt="" style="width:100%;height:auto;"></a>
+                        <div>
+                            <h4><b><a href="{{post.url}}">{{post.title}}</a></b></h4>    
+                            <p>{{post.excerpt}}</p>
+                        </div>
+                    </div>
+                </div>
+                {% if my_news == 4 %}
+                    {% break %}
+                {% endif %}
+            {% endfor %}
             </div>
         </div>
     </div>
-</section><!-- Chart Gallery -->
+</section><!-- news -->
 
 <section id="products" class="products section">
     <div class="container-fluid fluid-padding" style="padding-top:20px;">
