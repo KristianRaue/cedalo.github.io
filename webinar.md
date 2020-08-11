@@ -23,6 +23,7 @@ title: Cedalo - Download
                                 <input name="Email" type="email" class="form-control" id="inputEmail" placeholder="Email" required>
                                 </div>
                             </div>
+                            <div class="g-recaptcha col-sm-8 col-sm-offset-2 " data-sitekey="6Lfof70ZAAAAAI1xwfd7fwVNL8OO54Z1JMa46MPx"></div>
                             <div class="form-group">
                                 <div class="col-sm-2 col-sm-offset-2">
                                 <button name="Submit" value="Webinar" type="submit" class="btn btn-large">Watch Webinar Recording</button>
