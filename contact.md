@@ -29,6 +29,8 @@ title: Cedalo - Download
                                 <textarea name="Message" class="form-control" rows="5" id="inputMessage" placeholder="Your message" required></textarea>
                                 </div>
                             </div>
+                            <div class="g-recaptcha" data-sitekey="6Lfof70ZAAAAAI1xwfd7fwVNL8OO54Z1JMa46MPx"></div>
+                            <br/>
                             <div class="form-group">
                                 <div class="col-sm-2 col-sm-offset-2">
                                 <button name="Submit" value="Contact" type="submit" class="btn btn-large">Submit</button>
