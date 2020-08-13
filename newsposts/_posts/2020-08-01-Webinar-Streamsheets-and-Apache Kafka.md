@@ -3,7 +3,7 @@ layout: newsposts
 title: "Streamsheets and Apache Kafka"
 date: 2020-08-01
 image_url: "/assets/images/newsposts/confluent_speakers.jpg"
-excerpt: "Joint Webinar with CONFLUENT - Build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills"
+excerpt: "Joint Webinar with CONFLUENT - Build real-time Dashboards & Streaming Apps by using your Spreadsheet Skills."
 ---
 
 <p style="margin-bottom:10px"><b>Joint Webinar with CONFLUENT - The original creators of Apache Kafka®</b></p>
