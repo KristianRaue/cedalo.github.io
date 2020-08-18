@@ -24,11 +24,16 @@ layout: default
                             <li>Support for MQTT Version 3.1.1 and 5.0</li>
                         </ul>
                     </div>
-                    <p class="text-center">
-                        <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
-                        <a href="#products" class="btn btn-large">Learn more</a>
-                        <a href="#download" class="btn btn-large">Get Started</a>
-                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row flex-start">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <p class="text-center">
+                    <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
+                    <a href="#products" class="btn btn-large">Learn more</a>
+                    <a href="#download" class="btn btn-large">Get Started</a>
+                </p>
                 </div><!-- banner text -->
             </div>
         </div>
