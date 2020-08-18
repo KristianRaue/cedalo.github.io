@@ -8,7 +8,7 @@ layout: default
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                  <div class="banner-text">
                     <h1 class="text-center">Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
-                    <div class="col-lg-4 col-lg-offset-2  col-md-6  col-sm-6 col-xs-12 banner-list">
+                    <div class="col-lg-4 col-lg-offset-1  col-md-6  col-sm-6 col-xs-12 banner-list">
                         <ul class="text-left"><b>Eclipse Streamsheets:</b>
                             <li>Dashboards and Visualizations in Real-Time</li>
                             <li>Continuous Analysis and Processing of Data</li>
@@ -16,7 +16,7 @@ layout: default
                             <li>Semantic Mappings between Protocols</li>
                         </ul>
                     </div>
-                    <div class="col-lg-4 col-lg-offset-2 col-md-6  col-sm-6 col-xs-12 banner-list">
+                    <div class="col-lg-4 col-lg-offset-1 col-md-6  col-sm-6 col-xs-12 banner-list">
                         <ul class="text-left"><b>Eclipse Mosquitto:</b>
                             <li>The most popular MQTT Broker in the World</li>
                             <li>Apps and Devices connected in Real-Time</li>
