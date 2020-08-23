@@ -44,6 +44,16 @@
     height: 420px;
     }
 
+  .banner-text ul  {
+    font-size: 24px; }
+
+  .banner-text li  {
+    font-size: 24px; }
+
+  .banner-text h1  {
+      font-size: 46px; }
+  
+
 }
 
 @media screen and (min-width: 1900px) {
@@ -72,7 +82,6 @@
     background-color: #eeeded;
     min-height: 340px;
   }
-  
 }
 
 @media screen and (max-width: 1400px) {
