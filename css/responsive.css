@@ -30,7 +30,7 @@
     max-width: 490px;}
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1400px) {
 
   .banner-text ul  {
     font-size: 24px; }
@@ -52,6 +52,10 @@
   .news {
     height: 420px;
     }
+
+}
+
+@media screen and (min-width: 1600px) {
 
   .banner-text ul  {
     font-size: 28px; }
