@@ -22,6 +22,10 @@
     padding-top:8px;
   }
 
+  .banner-list { 
+    padding-top: 20px;
+  }
+
 }
 
 @media screen and (min-width: 991px) {
