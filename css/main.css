@@ -329,11 +329,15 @@ background-color: #313454; }
 .banner-list {
   min-height: unset;  
   padding-bottom: 30px;
+  padding-left:0px;
+  padding-right:0px;
+
 }
 
 .banner-text {
   padding-top: 20px; 
-  padding-bottom: 20px;}
+  padding-bottom: 20px;
+}
 
   .banner-text h1 {
     color: #fff;
