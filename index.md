@@ -4,11 +4,11 @@ layout: default
 
 <section id="intro" class="banner" role="banner">
     <div class="container-fluid">
-        <div class="row flex-start">
-            <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+        <div class="row flex-start banner-sides">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                  <div class="banner-text">
                     <h1 class="text-center">Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
-                    <div class="col-lg-6  col-md-12  col-sm-12 col-xs-12 banner-list">
+                    <div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 banner-list">
                         <ul class="text-left"><b>Eclipse Streamsheets:</b>
                             <li>Dashboards and Visualizations in Real-Time</li>
                             <li>Continuous Analysis and Processing of Data</li>
@@ -16,7 +16,7 @@ layout: default
                             <li>Semantic Mappings between Protocols</li>
                         </ul>
                     </div>
-                    <div class="col-lg-6 col-md-12  col-sm-12 col-xs-12 banner-list">
+                    <div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 banner-list">
                         <ul class="text-left"><b>Eclipse Mosquitto:</b>
                             <li>The most popular MQTT Broker in the World</li>
                             <li>Apps and Devices connected in Real-Time</li>
@@ -24,16 +24,16 @@ layout: default
                             <li>Support for MQTT Version 3.1.1 and 5.0</li>
                         </ul>
                     </div>
-                    <p class="text-center">
-                        <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
-                        <a href="#products" class="btn btn-large">Learn more</a>
-                        <a href="#download" class="btn btn-large">Get Started</a>
-                    </p>
-                </div><!-- banner text -->
+                </div>
             </div>
-            <div class="col-lg-3  col-md-3 col-sm-3 col-xs-12">
-                <div class="banner-chart text-center">
-                    <img  src="https://cedalo.com/images/screenshot_orig.png" alt="">
+        </div>
+        <div class="row flex-start">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <p class="text-center">
+                    <a href="#" class="js-video-button btn btn-large" data-video-id='cYKJe4FtUFg'>Watch Video</a>
+                    <a href="#products" class="btn btn-large">Learn more</a>
+                    <a href="#download" class="btn btn-large">Get Started</a>
+                </p>
                 </div><!-- banner text -->
             </div>
         </div>
