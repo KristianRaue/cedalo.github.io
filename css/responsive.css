@@ -30,19 +30,7 @@
     max-width: 490px;}
 }
 
-@media screen and (min-width: 1500px) {
-  .gallery {
-    padding-left: 100px;
-    padding-right: 100px;
-  }
-
-  .banner-list {
-    min-height: 260px;  
-  }
-  
-  .news {
-    height: 420px;
-    }
+@media screen and (min-width: 1200px) {
 
   .banner-text ul  {
     font-size: 24px; }
@@ -52,7 +40,27 @@
 
   .banner-text h1  {
       font-size: 46px; }
+
+}
+
+@media screen and (min-width: 1500px) {
+  .gallery {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
   
+  .news {
+    height: 420px;
+    }
+
+  .banner-text ul  {
+    font-size: 28px; }
+
+  .banner-text li  {
+    font-size: 28px; }
+
+  .banner-text h1  {
+      font-size: 50px; }
 
 }
 
