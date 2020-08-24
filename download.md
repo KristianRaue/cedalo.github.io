@@ -195,8 +195,8 @@ title: Cedalo - Download
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;">&nbsp; Custom Machine Tile Images</span></td>
-<td style="width: 186px;"><span style="color: #3a3e64;">yes</span></td>
-<td style="width: 140px;"><span style="color: #3a3e64;">&nbsp;</span></td>
+<td style="width: 186px;"><span style="color: #3a3e64;">-</span></td>
+<td style="width: 140px;"><span style="color: #3a3e64;">yes</span></td>
 </tr>
 <tr>
 <td style="width: 181px; text-align: left;"><span style="color: #3a3e64;"></span></td>
