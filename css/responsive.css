@@ -45,6 +45,10 @@
   .banner-text h1  {
       font-size: 46px; }
 
+  .btn {
+    font-size: 18px;
+  }
+
 }
 
 @media screen and (min-width: 1500px) {
