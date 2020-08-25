@@ -49,6 +49,9 @@
     font-size: 18px;
   }
 
+  .btn-large {
+    padding: 10px 25px;
+  }
 }
 
 @media screen and (min-width: 1500px) {
