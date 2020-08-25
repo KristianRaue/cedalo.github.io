@@ -1,6 +1,6 @@
 ---
 layout: newsposts
-title: "2.0 Release next week"
+title: "2.0 Release out now!"
 date: 2020-08-13
 image_url: "/assets/images/newsposts/new20_release.jpg"
 excerpt: "Streamsheets 2.0 comes with many new features, functions, charts, and several enhancements."
@@ -21,5 +21,5 @@ excerpt: "Streamsheets 2.0 comes with many new features, functions, charts, and 
 	<li>A time-to-live for the messages in your outbox. This makes the organization of your outbox much more effective and simpler.</li>
 	<li>And much more …</li>
 </ul>
-<p>Stay tuned for the release of Streamsheets 2.0!</p>
+<p>Download the latest Version Streamsheets 2.0 and tell us what you are building.</p>
 
