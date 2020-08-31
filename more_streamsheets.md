@@ -16,9 +16,9 @@ title: Cedalo - Streamsheets
 </section><!-- banner -->
 
 <section id="Streamsheets" class="section teams">
-    <div class="container-flex fluid-padding">
+    <div class="container-flex">
         <div class="row">
-             <div class="news-content">
+             <div>
                 <div class="col-lg-6 col-md-12 col-sm-12" style="padding:20px">
                         <iframe src="https://api.cedalo.cloud/machines/S1BPDh9QD?viewmode=sheet&hideheader&hidegrid#scope=BJ7D155Qv" style="height:483px;width:858px" title="Iframe Example"></iframe>
                 </div>
