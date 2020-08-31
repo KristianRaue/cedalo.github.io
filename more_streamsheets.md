@@ -20,7 +20,7 @@ title: Cedalo - Streamsheets
         <div class="row flex-start">
              <div>
                 <div class="col-lg-12 col-md-12 col-sm-12" style="padding:20px">
-                        <iframe src="https://api.cedalo.cloud/machines/S1BPDh9QD?viewmode=sheet&hideheader&hidegrid#scope=BJ7D155Qv" style="height:467px;width:850px" title="Iframe Example"></iframe>
+                        <iframe src="https://api.cedalo.cloud/machines/S1BPDh9QD?viewmode=sheet#scope=BJ7D155Qv" style="height:467px;width:850px" title="Iframe Example"></iframe>
                 </div>
                 <div class="col-lg-12 col-md-12 col-sm-12" style="padding:20px">
                         <iframe src="https://api.cedalo.cloud/machines/HkWiHPc97v?viewmode=sheet&hideheader&hidegrid#scope=B1m4H557w" style="height:467px;width:850px" title="Iframe Example"></iframe>
