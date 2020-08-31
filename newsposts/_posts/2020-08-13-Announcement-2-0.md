@@ -1,7 +1,7 @@
 ---
 layout: newsposts
 title: "2.0 Release out now!"
-date: 2020-08-13
+date: 2020-08-21
 image_url: "/assets/images/newsposts/new20_release.jpg"
 excerpt: "Streamsheets 2.0 comes with many new features, functions, charts, and several enhancements."
 ---
