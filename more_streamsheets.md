@@ -8,7 +8,7 @@ title: Cedalo - Streamsheets
         <div class="row flex-start">
             <div class="col-md-12 col-sm-12">
                 <div class="downloadpage-spacer">
-                    <h1>Eclipse Streamsheets</h1>
+                    <h1>Eclipse Streamsheets Demo</h1>
                 </div>
             </div>
         </div>
