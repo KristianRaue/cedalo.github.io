@@ -29,6 +29,8 @@ title: Cedalo - Streamsheets
         </div>
         <br />
         <br />
+        <br />
+        <br />
         <div class="row flex-start">
              <div>
                 <div class="col-lg-4 col-md-12 col-sm-12" style="padding:20px">
@@ -39,6 +41,8 @@ title: Cedalo - Streamsheets
                 </div>
             </div>
         </div>
+        <br />
+        <br />
         <br />
         <br />
         <div class="row flex-start">
