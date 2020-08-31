@@ -19,20 +19,20 @@ title: Cedalo - Streamsheets
     <div class="container-flex fluid-padding text-center">
         <div class="row flex-start">
              <div>
-                <div class="col-lg-8 col-md-12 col-sm-12" style="padding:20px">
+                <div class="col-lg-9 col-md-12 col-sm-12" style="padding:20px">
                         <iframe src="https://api.cedalo.cloud/machines/S1BPDh9QD?viewmode=sheet#scope=BJ7D155Qv" style="height:485px;width:885px" title="Iframe Example"></iframe>
                 </div>
-                <div class="col-lg-4 col-md-12 col-sm-12" style="padding:20px">
+                <div class="col-lg-3 col-md-12 col-sm-12" style="padding:20px">
                         <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk fjweklfj lkwej lkewj wer ewr  we</p>
                 </div>
             </div>
         </div>
         <div class="row flex-start">
              <div>
-                <div class="col-lg-8 col-md-12 col-sm-12" style="padding:20px">
+                <div class="col-lg-3 col-md-12 col-sm-12" style="padding:20px">
                         <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk  erwe twjkght jk hzl3jerke</p>
                 </div>
-                <div class="col-lg-12 col-md-12 col-sm-12" style="padding:20px">
+                <div class="col-lg-9 col-md-12 col-sm-12" style="padding:20px">
                         <iframe src="https://api.cedalo.cloud/machines/HkWiHPc97v?viewmode=sheet#scope=B1m4H557w" style="height:485px;width:885px" title="Iframe Example"></iframe>
                 </div>
             </div>
