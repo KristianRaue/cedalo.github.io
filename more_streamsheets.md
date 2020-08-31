@@ -8,7 +8,7 @@ title: Cedalo - Streamsheets
         <div class="row flex-start" class="align-items: flex-start;">
             <div class="col-md-12 col-sm-12">
                 <div class="downloadpage-spacer">
-                    <h1>Cedalo News</h1>
+                    <h1>Streamsheets</h1>
                 </div>
             </div>
         </div>
