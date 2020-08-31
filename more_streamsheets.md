@@ -33,7 +33,7 @@ title: Cedalo - Streamsheets
                         <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk  erwe twjkght jk hzl3jerke</p>
                 </div>
                 <div class="col-lg-9 col-md-12 col-sm-12" style="padding:20px">
-                        <iframe src="https://api.cedalo.cloud/machines/HkWiHPc97v?viewmode=sheet#scope=B1m4H557w" style="height:485px;max-width:885px" title="Iframe Example"></iframe>
+                        <iframe src="https://api.cedalo.cloud/machines/HkWiHPc97v?viewmode=sheet#scope=B1m4H557w" style="height:485px;width:100%;max-width:885px" title="Iframe Example"></iframe>
                 </div>
             </div>
         </div>
