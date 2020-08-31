@@ -27,6 +27,8 @@ title: Cedalo - Streamsheets
                 </div>
             </div>
         </div>
+        <br />
+        <br />
         <div class="row flex-start">
              <div>
                 <div class="col-lg-4 col-md-12 col-sm-12" style="padding:20px">
@@ -37,7 +39,9 @@ title: Cedalo - Streamsheets
                 </div>
             </div>
         </div>
-            <div class="row flex-start">
+        <br />
+        <br />
+        <div class="row flex-start">
              <div>
                 <div class="col-lg-4 col-md-12 col-sm-12" style="padding:20px">
                         <iframe src="https://api.cedalo.cloud/machines/HkWiHPc97v?viewmode=sheet#scope=B1m4H557w" style="height:468px;width:100%;max-width:851px" title="Iframe Example"></iframe>
