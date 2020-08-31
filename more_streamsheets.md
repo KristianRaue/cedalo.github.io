@@ -16,7 +16,7 @@ title: Cedalo - Streamsheets
 </section><!-- banner -->
 
 <section id="Streamsheets" class="section teams">
-    <div class="container-flex fluid-padding">
+    <div class="container-flex fluid-padding text-center">
         <div class="row flex-start">
              <div>
                 <div class="col-lg-6 col-md-12 col-sm-12" style="padding:20px">
