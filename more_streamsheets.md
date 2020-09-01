@@ -58,8 +58,6 @@ title: Cedalo - Streamsheets
     </div>
 </section><!-- Streamsheets --> 
 
-?viewmode=sheet&hideheader&hidegrid#scope=B1m4H557w
-
 
 
 
