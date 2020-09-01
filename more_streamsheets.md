@@ -20,7 +20,7 @@ title: Cedalo - Streamsheets
         <div class="row flex-start">
              <div>
                 <div class="col-lg-8 col-md-12 col-sm-12" style="padding:20px">
-                        <iframe src="https://api.cedalo.cloud/shared-machine/ByxT7ooXD" style="height:468px;width:100%;max-width:851px" title="Iframe Example"></iframe>
+                        <iframe src="https://api.cedalo.cloud/shared-machine/ByxT7ooXD" style="height:467px;width:100%;max-width:850px" title="Iframe Example"></iframe>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12" style="padding:20px">
                         <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk fjweklfj lkwej lkewj wer ewr  we</p>
@@ -48,7 +48,7 @@ title: Cedalo - Streamsheets
         <div class="row flex-start">
              <div>
                 <div class="col-lg-8 col-md-12 col-sm-12" style="padding:20px">
-                        <iframe src="https://api.cedalo.cloud/shared-machine/HkInfosXP?viewmode=sheet&hideheader&hidegrid" style="height:465px;width:100%;max-width:850px" title="Iframe Example"></iframe>
+                        <iframe src="https://api.cedalo.cloud/shared-machine/HkInfosXP?viewmode=sheet&hideheader&hidegrid" style="height:467px;width:100%;max-width:850px" title="Iframe Example"></iframe>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12" style="padding:20px">
                         <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk  erwe twjkght jk hzl3jerke</p>
