@@ -20,7 +20,7 @@ title: Cedalo - Streamsheets
         <div class="row flex-start">
              <div>
                 <div class="col-lg-8 col-md-12 col-sm-12" style="padding:20px">
-                        <iframe src="https://api.cedalo.cloud/machines/S1BPDh9QD?viewmode=sheet&hideheader&hidegrid#scope=BJ7D155Qv" style="height:468px;width:100%;max-width:851px" title="Iframe Example"></iframe>
+                        <iframe src="https://api.cedalo.cloud/shared-machine/ByxT7ooXD" style="height:468px;width:100%;max-width:851px" title="Iframe Example"></iframe>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12" style="padding:20px">
                         <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk fjweklfj lkwej lkewj wer ewr  we</p>
@@ -37,7 +37,7 @@ title: Cedalo - Streamsheets
                         <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk  erwe twjkght jk hzl3jerke</p>
                 </div>
                 <div class="col-lg-8 col-md-12 col-sm-12" style="padding:20px">
-                        <iframe src="https://api.cedalo.cloud/machines/HkWiHPc97v?viewmode=sheet#scope=B1m4H557w" style="height:485px;width:100%;max-width:885px" title="Iframe Example"></iframe>
+                        <iframe src="https://api.cedalo.cloud/shared-machine/HkInfosXP" style="height:485px;width:100%;max-width:885px" title="Iframe Example"></iframe>
                 </div>
             </div>
         </div>
@@ -48,7 +48,7 @@ title: Cedalo - Streamsheets
         <div class="row flex-start">
              <div>
                 <div class="col-lg-8 col-md-12 col-sm-12" style="padding:20px">
-                        <iframe src="https://api.cedalo.cloud/machines/HkWiHPc97v?viewmode=sheet&hideheader&hidegrid#scope=B1m4H557w" style="height:468px;width:100%;max-width:851px" title="Iframe Example"></iframe>
+                        <iframe src="https://api.cedalo.cloud/shared-machine/HkInfosXP" style="height:468px;width:100%;max-width:851px" title="Iframe Example"></iframe>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12" style="padding:20px">
                         <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk  erwe twjkght jk hzl3jerke</p>
