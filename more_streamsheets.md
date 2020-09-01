@@ -48,7 +48,7 @@ title: Cedalo - Streamsheets
         <div class="row flex-start">
              <div>
                 <div class="col-lg-8 col-md-12 col-sm-12" style="padding:20px">
-                        <iframe src="https://api.cedalo.cloud/shared-machine/HkInfosXP?hideheader&hidegrid" style="height:468px;width:100%;max-width:851px" title="Iframe Example"></iframe>
+                        <iframe src="https://api.cedalo.cloud/shared-machine/HkInfosXP?viewmode=sheet&hideheader&hidegrid" style="height:468px;width:100%;max-width:851px" title="Iframe Example"></iframe>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12" style="padding:20px">
                         <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk  erwe twjkght jk hzl3jerke</p>
@@ -58,6 +58,7 @@ title: Cedalo - Streamsheets
     </div>
 </section><!-- Streamsheets --> 
 
+?viewmode=sheet&hideheader&hidegrid#scope=B1m4H557w
 
 
 
