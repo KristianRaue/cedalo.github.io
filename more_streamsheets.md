@@ -37,6 +37,20 @@ title: Cedalo - Streamsheets
                         <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk  erwe twjkght jk hzl3jerke</p>
                 </div>
                 <div class="col-lg-8 col-md-12 col-sm-12" style="padding:20px">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/8f9W3GxFX-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+        <br />
+        <br />
+        <div class="row flex-start">
+             <div>
+                <div class="col-lg-4 col-md-12 col-sm-12" style="padding:20px">
+                        <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk  erwe twjkght jk hzl3jerke</p>
+                </div>
+                <div class="col-lg-8 col-md-12 col-sm-12" style="padding:20px">
                         <iframe src="https://api.cedalo.cloud/shared-machine/HkInfosXP" style="height:485px;width:100%;max-width:885px" title="Iframe Example"></iframe>
                 </div>
             </div>
