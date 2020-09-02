@@ -37,7 +37,7 @@ title: Cedalo - Streamsheets
                         <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk  erwe twjkght jk hzl3jerke</p>
                 </div>
                 <div class="col-lg-8 col-md-12 col-sm-12" style="padding:20px">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/8f9W3GxFX-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/Jkw6C9thTiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen modestbranding="1"></iframe>
                 </div>
             </div>
         </div>
