@@ -37,8 +37,10 @@ title: Cedalo - Streamsheets
                         <p>lödew jwelkfjwelk jwelkfj ewlkj welkj welk fjwelfkjwelk jwelk jlfk jwelk  erwe twjkght jk hzl3jerke</p>
                 </div>
                 <div class="col-lg-8 col-md-12 col-sm-12" style="padding:20px">
-                        <iframe width="800" height="476" src="https://www.youtube.com/embed/Jkw6C9thTiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen modestbranding="1"></iframe>
+                        <video src="https://cedalo.com/assets/images/misc/fast_1280.mp4" width="800" height="476" controls poster="https://cedalo.com/assets/images/misc/video_preview.jpg">Dies Video kann in Ihrem Browser nicht wiedergegeben werden.<br>Eine Download-Version steht unter <a href="URL">Link-Addresse</a> zum Abruf bereit.</video>
                 </div>
+                
+                
             </div>
         </div>
         <br />
