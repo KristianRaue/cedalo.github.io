@@ -2,6 +2,7 @@
 layout: blogposts
 title: "Introduction to Event Stream Processing using Eclipse Streamsheets"
 date: 2020-10-12
+image_url: "/assets/images/blogposts/Introduction_to_Event_Stream_Processing.png"
 ---
 
 What is Event Stream Processing?
