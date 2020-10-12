@@ -1,0 +1,10 @@
+---
+layout: blogposts
+title: "Introduction to Event Stream Processing using Eclipse Streamsheets"
+date: 2020-10-12
+---
+
+What is Event Stream Processing?
+For people in the IT community, especially Data Scientists and Analysts, event stream processing is common knowledge. In order to have a complete and well-rounded understanding 
+of event stream processing, we can break it into individual words: 
+https://medium.com/@cleancoderocker/introduction-to-event-stream-processing-using-eclipse-streamsheets-2468d5d1f86c
