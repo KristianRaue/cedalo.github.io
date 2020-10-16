@@ -5,7 +5,7 @@ date: 2020-10-16
 image_url: "/assets/images/blogposts/time-series-aggregation.jpg"
 ---
 
-In this 10 minute video post tech evangelist Kristian Raue demonstrates how to do time series aggregations with Streamsheets using the TABLE.UPDATE() function. 
+In this 10 minute video post Cedalo's Technology Evangelist Kristian Raue demonstrates how to do time series aggregations with Streamsheets using the TABLE.UPDATE() function. 
 
 It is also a good introductionary video about how Streamsheets work and how you can build server based apps and services in just minutes.
 
