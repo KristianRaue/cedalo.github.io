@@ -2,7 +2,7 @@
 layout: newsposts
 title: "Freiburg University Hospital"
 date: 2020-08-10
-image_url: "/assets/images/newsposts/uniklink_freiburg.jpg"
+image_url: "/assets/images/newsposts/uniklinikum_freiburg.jpg"
 excerpt: "Cedalo provides advanced Stream Processing technologies for event and data transparency in real time."
 ---
 
