@@ -7,7 +7,7 @@ layout: default
         <div class="row flex-start banner-sides">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                  <div class="banner-text">
-                    <h1 class="text-center">Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
+                    <h1 class="text-center">Real Time Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
                     <div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 banner-list">
                         <ul class="text-left"><b>Eclipse Streamsheets:</b>
                             <li>Dashboards and Visualizations in Real-Time</li>
@@ -84,7 +84,7 @@ layout: default
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">  
                 <div class="products-box">
                     <h1>Eclipse Streamsheets</h1>
-                    <h4>Streaming data everywhere - Now an app to use it</h4>
+                    <h4>The perfect companion for Mosquitto</h4>
                     <p>Our no-code user interface is the all-familiar spreadsheet. But that’s all what Streamsheets have in common with traditional spreadsheets.</p>
                     <p>While spreadsheets are client apps which work with bound and de-coupled batches of data, Streamsheets continuously process, aggregate, visualize and transform unbound data streams in real-time as a server app (microservice).</p>
                     <p>Streamsheets were designed with publish/subcribe streaming protocols like MQTT, Apache Kafka or AMQP in mind, but they also work perfectly with REST-based protocols (request/response)</p>
@@ -95,7 +95,7 @@ layout: default
                 </div>
                 <div class="products-box">
                     <h1>Eclipse Mosquitto</h1>
-                    <h4>The perfect companion for Streamsheets</h4>
+                    <h4>Edge & Cloud: Streaming data everywhere</h4>
                     <p>Eclipse Mosquitto is the most popular MQTT broker in the world and the perfect streaming platform for Streamsheets. Mosquitto supports unlimited hierarchical topics and the highly flexible publish/subscribe communication pattern.</p> 
                     <p>With the Mosquitto broker you can connect sensors, devices and apps far more flexible than in the request/response communication pattern of traditional client/server architectures.</p>
                     <p>Eclipse Mosquitto supports guaranteed delivery of messages which allows use cases not only in IoT and Smart Factory, but also in financial and other non-IoT applications.</p>
