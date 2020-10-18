@@ -774,11 +774,11 @@ background-color: #313454; }
   padding-right: 20px;
 }
 
+.blog .btn a {
+  color: #ffffff; }
+
 .blog a {
   color: #6c7279; }
-
-.blog .btn-large a {
-    color: #ffffff; }
 
 .blog p {
   margin-top: 10px;
