@@ -62,6 +62,8 @@ First we select cell B11 and then we press the wizard icon. We will then see the
 
 After hitting OK cell B11 has the formula MQTT.PUBLISH(|Shelly_Producer,B7,B9). It is not described here, but the Shelly_Producer has been created in the admin console before in almost the same way as we created the Shelly_Consumer before.
 
+<a href="https://medium.com/@cleancoderocker/introduction-to-event-stream-processing-using-eclipse-streamsheets-2468d5d1f86c">Introduction to Event Stream Processing using Eclipse Streamsheets</a>
+
 After adding a headline and a description in cell A2 and A3 the Streamsheet now looks like the following screenshot and is ready to switch on and off the light.
 
 <img src="{{page.image_url8}}" width="100%" height="auto">
