@@ -1,8 +1,8 @@
 ---
 layout: blogposts
-title: "Introduction to Event Stream Processing using Eclipse Streamsheets"
+title: "Introduction to Event Stream Processing using Streamsheets"
 date: 2020-10-12
-image_url: "/assets/images/blogposts/Introduction_to_Event_Stream_Processing.png"
+image_url: "/assets/images/blogposts/philip.jpg"
 ---
 
 What is Event Stream Processing? Cedalo CTO Philip Ackermann gives an short introduction to Stream Processing and Eclipse Streamsheets on medium.com.
