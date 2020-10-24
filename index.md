@@ -18,7 +18,7 @@ layout: default
                     </div>
                     <div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 banner-list">
                         <ul class="text-left"><b>Eclipse Mosquitto:</b>
-                            <li>World's fastest<sup> [1]</sup> and most-used MQTT Broker</li>
+                            <li>World's fastest<sup>1</sup> & most-used MQTT Broker</li>
                             <li>Apps and Devices connected in Real-Time</li>
                             <li>Secure and Firewall friendly</li>
                             <li>Support for MQTT Version 3.1.1 and 5.0</li>
@@ -40,7 +40,7 @@ layout: default
         <div class="row flex-start">
             <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
                 <p class="text-left">
-                <sup>[1]</sup> Quote: "Our results showed, Mosquitto being a single-threaded implementation beats all other brokers by a huge margin in message processing rate across all QoS categories. It is found to be the most efficient, optimized MQTT broker implementation among all the brokers we put into test." REFERENCE: Biswajeeban Mishra and Biswaranjan Mishra, Evaluating and Analyzing MQTT Brokers with Stress-testing, In <i>Proceedings of the 12th Conference of PHD Students in Computer Science</i>, page 39.
+                <sup>1</sup> Quote: "Our results showed, Mosquitto being a single-threaded implementation beats all other brokers by a huge margin in message processing rate across all QoS categories. It is found to be the most efficient, optimized MQTT broker implementation among all the brokers we put into test." REFERENCE: Biswajeeban Mishra and Biswaranjan Mishra, Evaluating and Analyzing MQTT Brokers with Stress-testing, In <i>Proceedings of the 12th Conference of PHD Students in Computer Science</i>, page 39.
                 </p>                
             </div>
         </div>
