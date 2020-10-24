@@ -38,7 +38,7 @@ layout: default
             </div>
         </div>
         <div class="row flex-start">
-            <div class="col-lg-10 col-lg-offset-1 col-md-10 col-sm-12 col-xs-12">
+            <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
                 <p class="text-left">
                 <sup>[1]</sup> Quote: "Our results showed, Mosquitto being a single-threaded implementation beats all other brokers by a huge margin in message processing rate across all QoS categories. It is found to be the most efficient, optimized MQTT broker implementation among all the brokers we put into test." REFERENCE: Biswajeeban Mishra and Biswaranjan Mishra, Evaluating and Analyzing MQTT Brokers with Stress-testing, In <i>Proceedings of the 12th Conference of PHD Students in Computer Science</i>, page 39.
                 </p>                
