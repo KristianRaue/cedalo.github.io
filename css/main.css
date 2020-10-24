@@ -775,7 +775,8 @@ background-color: #313454; }
 }
 
 .blog a {
-  color: #6c7279; }
+  color: #6c7279;
+  text-decoration: underline; }
 
 .blog a:hover, a:focus {
     text-decoration: underline;
