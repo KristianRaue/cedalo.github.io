@@ -777,6 +777,14 @@ background-color: #313454; }
 .blog a {
   color: #6c7279; }
 
+.blog a:hover, a:focus {
+    text-decoration: none;
+    color: #e84545; }
+    -moz-transition: background-color, color, 0.3s;
+    -o-transition: background-color, color, 0.3s;
+    -webkit-transition: background-color, color, 0.3s;
+    transition: background-color, color, 0.3s; }
+
 .blog p {
   margin-top: 10px;
   margin-bottom: 10px;
