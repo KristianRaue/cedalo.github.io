@@ -7,6 +7,8 @@ image_url: "/assets/images/blogposts/philip.jpg"
 
 What is Event Stream Processing? Cedalo CTO Philip Ackermann gives an short introduction to Stream Processing and Eclipse Streamsheets on medium.com.
 
+<img src="{{page.image_url}}" width="100%" height="auto">
+
 For people in the IT community, especially Data Scientists and Analysts, event stream processing is common knowledge. In order to have a quick understanding 
 of event stream processing, Philip Ackermann published an article explaining the ideas behind Stream Processing and uses Streamsheets as an example to demonstrate the basic principles.
 
