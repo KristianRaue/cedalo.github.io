@@ -34,8 +34,7 @@ layout: default
                     <a href="#products" class="btn btn-large">Learn more</a>
                     <a href="#download" class="btn btn-large">Get Started</a>
                     <a href="https://eepurl.com/glV72D" class="btn btn-large">Newsletter</a>
-                </p>
-                </div><!-- banner text -->
+                </p>                
             </div>
         </div>
     </div>
