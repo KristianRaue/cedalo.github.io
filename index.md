@@ -18,7 +18,7 @@ layout: default
                     </div>
                     <div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 banner-list">
                         <ul class="text-left"><b>Eclipse Mosquitto:</b>
-                            <li>The world's fastest<sub>1</sub> and most popular MQTT Broker</li>
+                            <li>The world's fastest<sup>1</sup> and most popular MQTT Broker</li>
                             <li>Apps and Devices connected in Real-Time</li>
                             <li>Secure and Firewall friendly</li>
                             <li>Support for MQTT Version 3.1.1 and 5.0</li>
