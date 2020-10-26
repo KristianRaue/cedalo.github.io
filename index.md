@@ -368,7 +368,7 @@ layout: default
                 <span class="icon icon-desktop"></span>
                 <div class="download-content">
                     <h2>On-Premises</h2>
-                    <p>You can run both the Community Platform and the Premium Platform on-premises on your local machines. Simply follow the instructions on the download page.</p>
+                    <p>You can run both the Community Platform and the Premium Platform on your local machines. Simply follow the instructions on the download page.</p>
                     <p><a href="download.html" class="btn btn-large">Download Page</a></p>
                 </div>
             </div>
@@ -376,7 +376,7 @@ layout: default
                 <span class="icon icon-gears"></span>
                 <div class="download-content">
                     <h2>Edge Devices</h2>
-                    <p>Both platform products are very efficient with CPU power and memory consumption. So you can run them directly on edge devices, controllers or the Raspberry Pi.</p>
+                    <p>Both platform products are very efficient with CPU power and memory. So you can run them directly on edge devices, controllers or the Raspberry Pi.</p>
                     <p><a href="download.html" class="btn btn-large">Download Page</a></p>
                 </div>
             </div>
