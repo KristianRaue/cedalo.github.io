@@ -353,7 +353,7 @@ layout: default
             <div class="col-md-12 col-sm-12 download">
                 <div class="download-intro">
                     <h1 class="section-header">Get Started! Open-Source or Premium.</h1>
-                    <p>The two Open-Source projects Eclipse Streamsheets and Eclipse Mosquitto are included in the <b>Cedalo Community Platform</b>. Cedalo also offers premium editions. They are called <b>Cedalo Sheets</b> and <b>Cedalo Broker</b> and are included in the <b>Cedalo Premium Platform</b>.</p>
+                    <p>The two Open-Source projects Eclipse Streamsheets and Eclipse Mosquitto are included in the <b>Cedalo Community Platform</b>. Cedalo also offers premium editions. They are included in the <b>Cedalo Premium Platform</b>.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 download text-center" >
