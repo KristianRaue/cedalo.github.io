@@ -14,7 +14,7 @@ title: Cedalo - Privacy Policy
                     <h3>Represented by</h3>
                     <p>Philipp Struß (CEO), Philip Ackermann (CTO)</p>
                     <h3>Contact Information</h3>
-                    <p>Telephone: +49-761-4296-250<br>Fax: +49-7661-9045-355<br>E-Mail: <a href="mailto:info@cedalo.com">info@cedalo.com</a><br>Web Site: <a href="www.cedalo.com" target="_blank">www.cedalo.com</a></p>
+                    <p>Telephone: +49-761-42963-250<br>Fax: +49-7661-9045-355<br>E-Mail: <a href="mailto:info@cedalo.com">info@cedalo.com</a><br>Web Site: <a href="www.cedalo.com" target="_blank">www.cedalo.com</a></p>
                     <h3>Register entry</h3>
                     <p>Entry in: Handelsregister<br>Register Number: HRB 716907<br>Register Court: Freiburg</p>
                     <p>&nbsp;</p>
