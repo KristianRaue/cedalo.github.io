@@ -1,9 +1,9 @@
 ---
 layout: newsposts
-title: "Eclipse Mosquitto 2.0 release date!"
+title: "Eclipse Mosquitto 2.0 is coming!"
 date: 2020-11-02
-image_url: "assets/images/newsposts/Mosquitto_20_release.png"
-excerpt: "Eclipse Mosquitto 2.0 will be released on the 11th of November 2020."
+image_url: "assets/images/newsposts/Mosquitto-20-coming-soon.png"
+excerpt: "Eclipse Mosquitto 2.0 is coming soon! Stay connected with Cedalo for more updates."
 ---
 
-We are pleased to announce that Eclipse Mosquitto 2.0 will be released on the 11th of November! It comes with new features and updates. Stay connected with us and get early access! 
+We are pleased to announce that Eclipse Mosquitto 2.0 will be released very soon. Stay connected with Cedalo and be the first to get early access.
