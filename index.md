@@ -7,7 +7,7 @@ layout: default
         <div class="row flex-start banner-sides">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                  <div class="banner-text">
-                    <h1 class="text-center">Real Time Spreadsheet and Broker<br />for IoT and Stream Processing</h1>
+                    <h1 class="text-center">Real Time Spreadsheet and Broker<br />for IoT and B2B Stream Processing</h1>
                     <div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 banner-list">
                         <ul class="text-left"><b>Eclipse Streamsheets:</b>
                             <li>Dashboards and Visualizations in Real-Time</li>
