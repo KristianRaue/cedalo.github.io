@@ -2,7 +2,7 @@
 layout: blogposts
 title: "Why we need real-time data in the coronavirus crisis and how Eclipse Streamsheets can help"
 date: 2020-11-12
-image_url: "/assets/images/blogposts/Picture1.png"
+image_url: "/assets/images/blogposts/Streamsheets-real-time-data.png"
 image_url: "/assets/images/blogposts/MQTT_broker_real-time.png"
 ---
 
