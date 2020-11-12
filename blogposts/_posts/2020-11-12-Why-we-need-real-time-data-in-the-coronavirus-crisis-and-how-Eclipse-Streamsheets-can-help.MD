@@ -3,7 +3,7 @@ layout: blogposts
 title: "Why we need real-time data in the coronavirus crisis and how Eclipse Streamsheets can help"
 date: 2020-11-12
 image_url: "/assets/images/blogposts/Streamsheets-real-time-data.png"
-image_url: "/assets/images/blogposts/MQTT_broker_real-time.png"
+image_ur2: "/assets/images/blogposts/MQTT_broker_real-time.png"
 ---
 
 Real-time data refers to events and the respective data that is being collected, viewed, and presented as it is generated. Generally, it is about analyzing data that is new and, therefore, in motion. Businesses can gather, filter, and analyze data in order to make informed business decisions during this coronavirus pandemic and beyond.
@@ -64,7 +64,7 @@ Due to the Coronavirus pandemic, it is more important than ever for companies to
 
 - **Modify** product offerings to fit with the demand of the customer.
 
-<img src="{{page.image_url1}}" width="100%" height="auto">
+<img src="{{page.image_ur2}}" width="100%" height="auto">
 
 You only need to build the app once - without coding - and conveniently share data and information across your organization.
 
