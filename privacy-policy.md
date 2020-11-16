@@ -41,8 +41,8 @@ title: Cedalo - Privacy Policy
                     <h3>2. Name and Address of the controller</h3>
                     <p>Controller for the purposes of the General Data Protection Regulation (GDPR), other data protection laws applicable in Member states of the European Union and other provisions related to data protection is:</p>
                     <p>Cedalo AG<br />
-                    St. Galler Str. 7<br />
-                    79199 Kirchzarten<<br />
+                    Schnewlinstr. 6<br />
+                    79098 Freiburg<br />
                     Deutschland</p>
                     <p>Phone: (+49) 761 42963-250<br />
                     Email: info@cedalo.com<br />
