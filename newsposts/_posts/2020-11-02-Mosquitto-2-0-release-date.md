@@ -2,7 +2,7 @@
 layout: newsposts
 title: "Eclipse Mosquitto 2.0 is coming!"
 date: 2020-11-02
-image_url: "assets/images/newsposts/Mosquitto-20-coming-soon.png"
+image_url: "assets/images/newsposts/Mosquitto 2.0 release date-03-12.png"
 excerpt: "Eclipse Mosquitto 2.0 is coming soon! Stay connected with Cedalo for more updates."
 ---
 
